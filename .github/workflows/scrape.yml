@@ -1,0 +1,53 @@
+name: Nightly Bucks County inventory scrape
+
+on:
+  schedule:
+    # GitHub Actions cron is UTC. 04:00 UTC ≈ 11:00 PM–12:00 AM US Eastern
+    # (depending on daylight saving). Adjust if you want a different local time.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write          # allow the job to commit the refreshed dataset
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330   # under the 6h job cap; raise/lower as needed
+    env:
+      CONCURRENCY: "4"        # parallel VDP pages
+      MAX_PER_DEALER: "0"     # 0 = every vehicle; set e.g. 150 to cap early runs
+      PHOTOS_PER_VEHICLE: "0" # 0 = every photo
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Chromium for Playwright
+        run: npx playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit updated dataset
+        run: |
+          git config user.name "inventory-bot"
+          git config user.email "inventory-bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No inventory changes to commit."
+          else
+            git commit -m "Nightly inventory update $(date -u +%Y-%m-%d)"
+            git push
+          fi

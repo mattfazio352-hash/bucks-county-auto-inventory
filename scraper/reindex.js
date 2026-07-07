@@ -21,6 +21,7 @@ function toIndexVehicle(v) {
     year: v.year, make: v.make, model: v.model, trim: v.trim,
     bodyStyle: v.bodyStyle, fuelType: v.fuelType, transmission: v.transmission,
     condition: v.condition, mileage: v.mileage, salePrice: v.salePrice,
+    marketValuePrice: v.marketValuePrice != null ? v.marketValuePrice : null,
     thumb: (v.photos && v.photos[0]) || null,
     photoCount: v.photoCount != null ? v.photoCount : (v.photos ? v.photos.length : 0),
   };
@@ -35,6 +36,7 @@ function main() {
   const vehicles = master.vehicles || [];
   const dealers = master.dealers || {};
 
+  // Lightweight index.
   const index = {
     meta: master.meta,
     dealers,
@@ -42,6 +44,7 @@ function main() {
   };
   fs.writeFileSync(INDEX, JSON.stringify(index));
 
+  // Per-dealer detail shards.
   fs.mkdirSync(SHARD_DIR, { recursive: true });
   const byDealer = {};
   vehicles.forEach((v) => {

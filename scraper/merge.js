@@ -1,7 +1,9 @@
 // Assembles the per-dealer shard files (data/dealers/*.json) written by the
 // parallel scrape jobs into the single master dataset the app reads, then diffs
-// against the previous master to produce the change log.
+// against the previous master to produce the change log, and emits a lightweight
+// index the app loads for its list.
 //   -> data/bucks_inventory_dataset.json
+//   -> data/index.json
 //   -> data/change_log.md (appended)
 
 const fs = require('fs');
@@ -11,7 +13,20 @@ const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data');
 const SHARD_DIR = path.join(DATA_DIR, 'dealers');
 const MASTER = path.join(DATA_DIR, 'bucks_inventory_dataset.json');
+const INDEX = path.join(DATA_DIR, 'index.json');
 const CHANGELOG = path.join(DATA_DIR, 'change_log.md');
+
+// Lightweight card record the app loads for its list/map/search/filter.
+function toIndexVehicle(v) {
+  return {
+    vin: v.vin, dealerId: v.dealerId,
+    year: v.year, make: v.make, model: v.model, trim: v.trim,
+    bodyStyle: v.bodyStyle, fuelType: v.fuelType, transmission: v.transmission,
+    condition: v.condition, mileage: v.mileage, salePrice: v.salePrice,
+    thumb: (v.photos && v.photos[0]) || null,
+    photoCount: v.photoCount != null ? v.photoCount : (v.photos ? v.photos.length : 0),
+  };
+}
 
 function loadShards() {
   if (!fs.existsSync(SHARD_DIR)) return [];
@@ -92,6 +107,15 @@ function main() {
   const d = diff(previous.vehicles, vehicles);
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(MASTER, JSON.stringify(dataset, null, 2));
+
+  // Lightweight index the app loads for its list (a fraction of the master size).
+  const index = {
+    meta: dataset.meta,
+    dealers: dealersMeta,
+    vehicles: vehicles.map(toIndexVehicle),
+  };
+  fs.writeFileSync(INDEX, JSON.stringify(index));
+
   writeChangeLog(d);
 
   console.log(`MERGED ${vehicles.length} vehicles from ${shards.length} shards. ` +

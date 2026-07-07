@@ -1,0 +1,22 @@
+{
+  "dealer": {
+    "id": "keystone-volvo-doylestown",
+    "name": "Keystone Volvo Cars of Doylestown",
+    "town": "Doylestown",
+    "inventoryUrl": "https://www.doylestownvolvocars.com/used-inventory/index.htm",
+    "financing": {
+      "inHouseFinancing": false,
+      "options": [
+        "Volvo Car Financial Services",
+        "Bank & credit union financing"
+      ],
+      "lenderPartners": [
+        "Volvo Car Financial Services"
+      ],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:22:08.540Z",
+  "vehicles": []
+}

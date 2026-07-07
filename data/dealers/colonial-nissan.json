@@ -1,0 +1,22 @@
+{
+  "dealer": {
+    "id": "colonial-nissan",
+    "name": "Colonial Nissan",
+    "town": "Feasterville-Trevose",
+    "inventoryUrl": "https://www.colonialnissan.com/used-inventory/index.htm",
+    "financing": {
+      "inHouseFinancing": false,
+      "options": [
+        "NMAC",
+        "Bank & credit union financing"
+      ],
+      "lenderPartners": [
+        "Nissan Motor Acceptance"
+      ],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:23:46.539Z",
+  "vehicles": []
+}

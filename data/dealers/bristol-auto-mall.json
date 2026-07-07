@@ -1,0 +1,20 @@
+{
+  "dealer": {
+    "id": "bristol-auto-mall",
+    "name": "Bristol Auto Mall",
+    "town": "Levittown",
+    "inventoryUrl": "https://www.bristolautomall.com/inventory",
+    "financing": {
+      "inHouseFinancing": true,
+      "options": [
+        "In-house financing (Buy Here, Pay Here)",
+        "Third-party lenders, all credit"
+      ],
+      "lenderPartners": [],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:24:26.132Z",
+  "vehicles": []
+}

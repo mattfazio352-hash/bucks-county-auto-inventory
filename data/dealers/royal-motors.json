@@ -1,0 +1,20 @@
+{
+  "dealer": {
+    "id": "royal-motors",
+    "name": "Royal Motors",
+    "town": "Levittown",
+    "inventoryUrl": "https://royalmotorsonline.com/inventory",
+    "financing": {
+      "inHouseFinancing": true,
+      "options": [
+        "In-house financing",
+        "Third-party lenders"
+      ],
+      "lenderPartners": [],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:25:07.357Z",
+  "vehicles": []
+}

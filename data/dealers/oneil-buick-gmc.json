@@ -1,0 +1,22 @@
+{
+  "dealer": {
+    "id": "oneil-buick-gmc",
+    "name": "O'Neil Buick GMC",
+    "town": "Warminster",
+    "inventoryUrl": "https://www.oneilbuickgmc.com/used-inventory/index.htm",
+    "financing": {
+      "inHouseFinancing": false,
+      "options": [
+        "GM Financial",
+        "Bank & credit union financing"
+      ],
+      "lenderPartners": [
+        "GM Financial"
+      ],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:23:03.393Z",
+  "vehicles": []
+}

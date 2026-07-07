@@ -1,0 +1,22 @@
+{
+  "dealer": {
+    "id": "thompson-toyota",
+    "name": "Thompson Toyota of Doylestown",
+    "town": "Doylestown",
+    "inventoryUrl": "https://www.thompsontoyota.com/used-inventory/index.htm",
+    "financing": {
+      "inHouseFinancing": false,
+      "options": [
+        "Toyota Financial Services",
+        "Bank & credit union financing"
+      ],
+      "lenderPartners": [
+        "Toyota Financial Services"
+      ],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T02:20:50.527Z",
+  "vehicles": []
+}

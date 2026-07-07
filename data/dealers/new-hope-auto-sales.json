@@ -1,0 +1,19 @@
+{
+  "dealer": {
+    "id": "new-hope-auto-sales",
+    "name": "New Hope Auto Sales",
+    "town": "New Hope",
+    "inventoryUrl": "https://www.newhopeautos.com/inventory",
+    "financing": {
+      "inHouseFinancing": false,
+      "options": [
+        "Third-party lender financing"
+      ],
+      "lenderPartners": [],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:25:40.342Z",
+  "vehicles": []
+}

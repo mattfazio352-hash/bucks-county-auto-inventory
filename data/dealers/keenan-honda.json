@@ -1,0 +1,22 @@
+{
+  "dealer": {
+    "id": "keenan-honda",
+    "name": "Keenan Honda",
+    "town": "Doylestown",
+    "inventoryUrl": "https://www.keenanhonda.com/used-inventory/index.htm",
+    "financing": {
+      "inHouseFinancing": false,
+      "options": [
+        "Honda Financial Services",
+        "Bank & credit union financing"
+      ],
+      "lenderPartners": [
+        "Honda Financial Services"
+      ],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:22:20.794Z",
+  "vehicles": []
+}

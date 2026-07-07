@@ -1,0 +1,20 @@
+{
+  "dealer": {
+    "id": "fellah-auto-group",
+    "name": "Fellah Auto Group",
+    "town": "Bristol",
+    "inventoryUrl": "https://www.fellahautogroup.com/inventory",
+    "financing": {
+      "inHouseFinancing": true,
+      "options": [
+        "In-house financing",
+        "Third-party lenders"
+      ],
+      "lenderPartners": [],
+      "financingUrl": null
+    }
+  },
+  "vehicleCount": 0,
+  "scrapedAt": "2026-07-07T03:25:00.735Z",
+  "vehicles": []
+}

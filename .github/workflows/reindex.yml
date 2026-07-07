@@ -1,0 +1,29 @@
+name: Reindex (derive index + shards from master)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  reindex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Reindex
+        run: node scraper/reindex.js
+      - name: Commit index + shards
+        run: |
+          git config user.name "inventory-bot"
+          git config user.email "inventory-bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Reindex: derive index.json + dealer shards from master"
+            git push
+          fi

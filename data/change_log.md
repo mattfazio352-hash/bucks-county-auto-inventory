@@ -74,3 +74,38 @@
 | 3C4NJDCN8RT165411 | 2024 Jeep Compass | $29,489 | $27,979 | -$1,510 |
 | 1C4PJMBX1LD557414 | 2020 Jeep Cherokee | $23,989 | $22,489 | -$1,500 |
 | 1V2WR2CA1SC565616 | 2025 Volkswagen Atlas | $31,489 | $29,989 | -$1,500 |
+
+## 2026-07-10
+
+- New listings: 163
+- Removed / sold: 123
+- Price changes: 365
+- Biggest price drop: 2023 Honda CR-V $25,893 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 2HKRS4H25PH426150 | 2023 Honda CR-V | $25,893 | $490 | -$25,403 |
+| 5J6RM4H71GL049439 | null null null | $18,216 | $100 | -$18,116 |
+| WBAGV8C0XPCL26615 | 2023 BMW M850i Gtan Coupe | $57,290 | $53,290 | -$4,000 |
+| JF2SJAEC1EH508728 | 2014 Subaru Forester | $11,239 | $7,985 | -$3,254 |
+| 1FTFW1E80NKD06446 | 2022 Ford F-150 | $47,438 | $44,267 | -$3,171 |
+| 3GTUUCET4NG646591 | 2022 GMC Sierra 1500 | $44,378 | $41,337 | -$3,041 |
+| SALEPEEU6P2229140 | 2023 Land Rover Defender | $49,990 | $46,990 | -$3,000 |
+| 4JGFD6BB4SB431654 | 2025 Mercedes-Benz AMG GLE 53 Coupe | $89,990 | $86,990 | -$3,000 |
+| SALKP9E7XPA029064 | 2023 Land Rover Range Rover | $107,990 | $105,490 | -$2,500 |
+| SAL1P9EU5RA180060 | 2024 Land Rover Range Rover Sport | $76,990 | $74,890 | -$2,100 |
+| 5NMJBCDEXTH614242 | 2026 Hyundai Tucson | $29,551 | $27,479 | -$2,072 |
+| 1G1JA5SG4G4103555 | 2016 Chevrolet Sonic | $8,489 | $6,485 | -$2,004 |
+| 1GNSKRKD5RR103647 | 2024 Chevrolet Tahoe | $61,990 | $59,990 | -$2,000 |
+| SALK19E79PA033236 | 2023 Land Rover Range Rover | $103,990 | $101,990 | -$2,000 |
+| JM3KKCHA3S1204930 | 2025 Mazda CX-90 Phev | $32,366 | $30,366 | -$2,000 |
+| JN8AT2MV2KW385465 | 2019 Nissan Rogue | $19,481 | $17,490 | -$1,991 |
+| 2C4RC1BG0PR606848 | 2023 Chrysler Pacifica | $22,061 | $20,079 | -$1,982 |
+| 1GNEVJKW4PJ153149 | 2023 Chevrolet Traverse | $39,390 | $37,489 | -$1,901 |
+| 2GC4KYE78S1217397 | 2025 Chevrolet Silverado 2500HD | $74,390 | $72,489 | -$1,901 |
+| 5UX33EM0XP9P29770 | 2023 BMW X7 | $70,890 | $68,990 | -$1,900 |
+| 5FNYG1H85PB013014 | 2023 Honda Pilot | $42,273 | $40,485 | -$1,788 |
+| JM3KKCHD9R1106845 | 2024 Mazda CX-90 | $32,267 | $30,485 | -$1,782 |
+| SALE2EFE6S2451465 | 2025 Land Rover Defender | $92,990 | $91,290 | -$1,700 |
+| 19UDE2F88NA007194 | 2022 Acura ILX | $24,045 | $22,434 | -$1,611 |
+| 5NMJBCDE3TH611781 | 2026 Hyundai Tucson | $29,089 | $27,479 | -$1,610 |

@@ -109,3 +109,38 @@
 | SALE2EFE6S2451465 | 2025 Land Rover Defender | $92,990 | $91,290 | -$1,700 |
 | 19UDE2F88NA007194 | 2022 Acura ILX | $24,045 | $22,434 | -$1,611 |
 | 5NMJBCDE3TH611781 | 2026 Hyundai Tucson | $29,089 | $27,479 | -$1,610 |
+
+## 2026-07-11
+
+- New listings: 150
+- Removed / sold: 158
+- Price changes: 439
+- Biggest price drop: 2024 Maserati Levante $80,485 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| ZN661XUM1RX449705 | 2024 Maserati Levante | $80,485 | $490 | -$79,995 |
+| 1FTEW1EP8PKD99707 | null null null | $39,881 | $695 | -$39,186 |
+| 2FMPK4J92RBA45784 | null null null | $29,376 | $2,000 | -$27,376 |
+| 1FMSK8JHXNGA03990 | null null null | $27,775 | $2,000 | -$25,775 |
+| 1FMSK8DH0NGC29449 | null null null | $26,988 | $2,000 | -$24,988 |
+| 1FMCU9MNXPUA14272 | null null null | $26,137 | $2,000 | -$24,137 |
+| 1GCGTDEN3M1175926 | null null null | $24,594 | $2,000 | -$22,594 |
+| 2FMPK4J92NBB14337 | null null null | $23,488 | $2,000 | -$21,488 |
+| WMW53GD01S2X58739 | 2025 MINI Cooper S | $41,500 | $35,489 | -$6,011 |
+| SADCT2EX6TA758479 | 2026 Jaguar F-PACE | $60,990 | $54,990 | -$6,000 |
+| SALYL2EX9TA819883 | 2026 Land Rover Range Rover Velar | $64,990 | $60,490 | -$4,500 |
+| SALEJ7EX4T2504313 | 2026 Land Rover Defender | $71,990 | $67,990 | -$4,000 |
+| SALE27EU4T2510504 | 2026 Land Rover Defender | $82,990 | $79,290 | -$3,700 |
+| 5UX53GP06T9158160 | 2026 BMW X3 | $57,855 | $54,489 | -$3,366 |
+| SALE27EUXS2417677 | 2025 Land Rover Defender | $77,990 | $74,990 | -$3,000 |
+| WMW23GD02T2X69494 | 2026 MINI Cooper S | $41,630 | $38,765 | -$2,865 |
+| 3MW89CW00S8F81216 | 2025 BMW 3 Series | $51,385 | $48,580 | -$2,805 |
+| SALE2EFE6S2451465 | 2025 Land Rover Defender | $91,290 | $88,490 | -$2,800 |
+| 5J8YE1H87PL038856 | 2023 Acura MDX | $45,240 | $42,480 | -$2,760 |
+| 1FTFW3LD6RFA75790 | 2024 Ford F-150 | $34,975 | $32,486 | -$2,489 |
+| 1C4PJMMX2MD188786 | 2021 Jeep Cherokee | $26,490 | $24,088 | -$2,402 |
+| 1FMEE9BP8SLA86984 | 2025 Ford Bronco | $52,475 | $50,325 | -$2,150 |
+| 1FMSK8DH9PGA98962 | 2023 Ford Explorer | $33,479 | $31,410 | -$2,069 |
+| 5UXCR6C06P9S02069 | 2023 BMW X5 | $51,845 | $49,785 | -$2,060 |
+| 3GCUYDED1LG122962 | 2020 Chevrolet Silverado 1500 | $30,375 | $28,316 | -$2,059 |

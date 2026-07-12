@@ -144,3 +144,38 @@
 | 1FMSK8DH9PGA98962 | 2023 Ford Explorer | $33,479 | $31,410 | -$2,069 |
 | 5UXCR6C06P9S02069 | 2023 BMW X5 | $51,845 | $49,785 | -$2,060 |
 | 3GCUYDED1LG122962 | 2020 Chevrolet Silverado 1500 | $30,375 | $28,316 | -$2,059 |
+
+## 2026-07-12
+
+- New listings: 156
+- Removed / sold: 130
+- Price changes: 390
+- Biggest price drop: null null null $22,532 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5NMJFCAE3PH282160 | null null null | $22,532 | $2,000 | -$20,532 |
+| 5UX33EU09T9362838 | 2026 BMW X5 | $109,365 | $104,520 | -$4,845 |
+| WMW33GX06T2Y70568 | 2026 MINI Convertible | $49,990 | $45,690 | -$4,300 |
+| 1GC4YSE71RF412031 | 2024 Chevrolet Silverado 3500HD | $57,480 | $53,990 | -$3,490 |
+| 5UX43EU01T9249843 | 2026 BMW X5 | $91,440 | $88,040 | -$3,400 |
+| ZN661YUS2PX423857 | 2023 Maserati Gransport | $72,989 | $69,990 | -$2,999 |
+| 1FMDE8BH3RLA76307 | 2024 Ford Bronco | $46,080 | $43,177 | -$2,903 |
+| WBX73EF00T5428848 | 2026 BMW X1 | $47,992 | $45,340 | -$2,652 |
+| 1C6SRFLT6KN689224 | 2019 Ram 1500 | $36,896 | $34,485 | -$2,411 |
+| 5XYRKDLFXPG233039 | 2023 Kia Sorento | $33,851 | $31,485 | -$2,366 |
+| 5UX23EU00T9342666 | 2026 BMW X5 | $82,715 | $80,489 | -$2,226 |
+| YV4162UM8L2197193 | 2020 Volvo XC40 | $22,290 | $20,190 | -$2,100 |
+| 5NMJFCAE9PH252838 | 2023 Hyundai Tucson | $29,489 | $27,485 | -$2,004 |
+| 5N1DR3CC3RC282656 | 2024 Nissan Pathfinder | $40,439 | $38,489 | -$1,950 |
+| 1C6SRFHT6LN256500 | 2020 Ram 1500 | $37,480 | $35,536 | -$1,944 |
+| 1FMSK8DH0PGB79431 | 2023 Ford Explorer | $35,480 | $33,590 | -$1,890 |
+| JN8AF5MV5GT653278 | 2016 Nissan Juke | $11,754 | $9,987 | -$1,767 |
+| 5N1DL1FS6PC371191 | 2023 INFINITI QX60 | $39,656 | $38,002 | -$1,654 |
+| 1FMSK8DH0MGB11089 | 2021 Ford Explorer | $20,980 | $19,415 | -$1,565 |
+| 1GCPDBEK7RZ162855 | 2024 Chevrolet Silverado 1500 | $38,015 | $36,485 | -$1,530 |
+| 3TYLC5LN0ST040480 | 2025 Toyota Tacoma i-FORCE MAX | $46,094 | $44,594 | -$1,500 |
+| 3FMCR9GN6SRE07585 | 2025 Ford Bronco Sport | $33,888 | $32,488 | -$1,400 |
+| KM8HB3AB3RU064890 | 2024 Hyundai Kona | $23,337 | $21,985 | -$1,352 |
+| 5NMJECDE3RH389467 | 2024 Hyundai Tucson | $31,476 | $30,127 | -$1,349 |
+| 1FM5K8GC5MGA36760 | 2021 Ford Explorer | $32,480 | $31,162 | -$1,318 |

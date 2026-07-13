@@ -179,3 +179,38 @@
 | KM8HB3AB3RU064890 | 2024 Hyundai Kona | $23,337 | $21,985 | -$1,352 |
 | 5NMJECDE3RH389467 | 2024 Hyundai Tucson | $31,476 | $30,127 | -$1,349 |
 | 1FM5K8GC5MGA36760 | 2021 Ford Explorer | $32,480 | $31,162 | -$1,318 |
+
+## 2026-07-13
+
+- New listings: 41
+- Removed / sold: 119
+- Price changes: 70
+- Biggest price drop: 2024 Jeep Grand Wagoneer L $48,485 -> $46,744
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1C4SJSFP6RS158012 | 2024 Jeep Grand Wagoneer L | $48,485 | $46,744 | -$1,741 |
+| 1C3CCCAG1GN179765 | null null null | $2,000 | $400 | -$1,600 |
+| YV4062PN2P1997256 | 2023 Volvo XC90 | $43,988 | $42,488 | -$1,500 |
+| 1FT7W2B68GEB10401 | 2016 Ford F-250 | $22,088 | $20,591 | -$1,497 |
+| 1FAHP3FN9BW176280 | null null null | $2,000 | $590 | -$1,410 |
+| 1FTFW1E8XNKF18707 | 2022 Ford F-150 | $41,960 | $40,552 | -$1,408 |
+| JN8AT3BB1MW214658 | 2021 Nissan Rogue | $18,972 | $17,873 | -$1,099 |
+| 1FMSK8JHXPGA65215 | 2023 Ford Explorer | $36,448 | $35,573 | -$875 |
+| 1FTEW1E46LFA90357 | 2020 Ford F-150 | $28,173 | $27,302 | -$871 |
+| 1C4RDJDG6NC219351 | 2022 Dodge Durango | $27,373 | $26,573 | -$800 |
+| 1FTEW1EP2PKE06599 | 2023 Ford F-150 | $41,111 | $40,368 | -$743 |
+| 5N1BT3BB1PC942742 | 2023 Nissan Rogue | $25,188 | $24,488 | -$700 |
+| 5YFEPMAE5MP195642 | 2021 Toyota Corolla | $19,888 | $19,288 | -$600 |
+| 1FT7W2BT8SEC34098 | 2025 Ford F-250 | $55,573 | $54,973 | -$600 |
+| 1FTFW1E81PFC47550 | 2023 Ford F-150 | $37,179 | $36,592 | -$587 |
+| 1FTEW1EP2PFA80828 | 2023 Ford F-150 | $39,073 | $38,493 | -$580 |
+| 1FTER4FH1NLD01446 | 2022 Ford Ranger | $30,514 | $29,983 | -$531 |
+| 4T1F11BK4PU102542 | 2023 Toyota Camry | $25,073 | $24,558 | -$515 |
+| 5UX53DP07R9X37309 | 2024 BMW X3 | $40,488 | $39,988 | -$500 |
+| 1FA6P8CF2S5417037 | 2025 Ford Mustang | $49,986 | $49,488 | -$498 |
+| 1FTEW1EPXNKD65264 | 2022 Ford F-150 | $38,074 | $37,588 | -$486 |
+| 1FAGP8UH8R5127397 | 2024 Ford Mustang | $30,073 | $29,588 | -$485 |
+| 5NMS2DAJ8NH410120 | 2022 Hyundai Santa Fe | $17,173 | $16,704 | -$469 |
+| 4T1KZ1AKXRU088867 | 2024 Toyota Camry | $30,473 | $30,027 | -$446 |
+| 1FMJU1MTXNEA39428 | 2022 Ford Expedition | $49,342 | $48,909 | -$433 |

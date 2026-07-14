@@ -214,3 +214,38 @@
 | 5NMS2DAJ8NH410120 | 2022 Hyundai Santa Fe | $17,173 | $16,704 | -$469 |
 | 4T1KZ1AKXRU088867 | 2024 Toyota Camry | $30,473 | $30,027 | -$446 |
 | 1FMJU1MTXNEA39428 | 2022 Ford Expedition | $49,342 | $48,909 | -$433 |
+
+## 2026-07-14
+
+- New listings: 117
+- Removed / sold: 276
+- Price changes: 524
+- Biggest price drop: null null null $43,900 -> $1,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| W1KAF4HB1SR298420 | null null null | $43,900 | $1,000 | -$42,900 |
+| W1KAF4HB7SR241557 | null null null | $44,900 | $2,250 | -$42,650 |
+| W1KAF4HB7SR242031 | null null null | $43,900 | $2,250 | -$41,650 |
+| 5XYP6DGCXRG515275 | null null null | $36,431 | $600 | -$35,831 |
+| 7MMVABXY1SN353881 | null null null | $35,434 | $1,235 | -$34,199 |
+| 2T3P1RFV3RC403919 | 2024 Toyota RAV4 | $29,079 | $594 | -$28,485 |
+| 7MMVABXYXPN125241 | null null null | $24,965 | $110 | -$24,855 |
+| ZN661XUM2RX453696 | 2024 Maserati Levante | $70,485 | $60,485 | -$10,000 |
+| 1FMCU0G94FUC31261 | 2015 Ford Escape | $9,478 | $594 | -$8,884 |
+| 5N1AT2MN1GC806818 | 2016 Nissan Rogue | $25,000 | $17,483 | -$7,517 |
+| WMZ23GA05T7T89625 | 2026 MINI Cooper S Countryman | $46,265 | $39,440 | -$6,825 |
+| 5UX23EU02T9346573 | 2026 BMW X5 | $81,415 | $76,525 | -$4,890 |
+| 1FTFX1E88MFB18066 | 2021 Ford F-150 | $21,480 | $17,073 | -$4,407 |
+| 1FTFX1E48LKE31945 | 2020 Ford F-150 | $20,582 | $16,437 | -$4,145 |
+| 5N1AL1FS2SC356909 | 2025 INFINITI QX60 | $47,490 | $43,592 | -$3,898 |
+| 5UX33EU08T9339227 | 2026 BMW X5 | $110,015 | $106,125 | -$3,890 |
+| WBA33FB09TFW22969 | 2026 BMW 4 Series | $61,315 | $57,489 | -$3,826 |
+| 5UX53GP07T9222156 | 2026 BMW X3 | $58,605 | $55,295 | -$3,310 |
+| WBA23LA08TFW19198 | 2026 BMW 3 Series | $57,680 | $54,440 | -$3,240 |
+| 1FMJK1M82SEA17842 | 2025 Ford Expedition Max | $69,436 | $66,301 | -$3,135 |
+| 3MW89CW01T8F95644 | 2026 BMW 3 Series | $54,755 | $51,710 | -$3,045 |
+| ZN682AVA4P7416282 | 2023 Maserati Grecale | $37,485 | $34,485 | -$3,000 |
+| 2LMPJ8K92LBL08246 | 2020 Lincoln Nautilus | $28,405 | $25,424 | -$2,981 |
+| 1FTNF1E40LKE31940 | 2020 Ford F-150 | $20,373 | $17,588 | -$2,785 |
+| 55SWF8HB1GU104116 | 2016 Mercedes-Benz C-Class | $35,882 | $33,476 | -$2,406 |

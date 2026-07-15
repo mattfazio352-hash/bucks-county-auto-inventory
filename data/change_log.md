@@ -249,3 +249,38 @@
 | 2LMPJ8K92LBL08246 | 2020 Lincoln Nautilus | $28,405 | $25,424 | -$2,981 |
 | 1FTNF1E40LKE31940 | 2020 Ford F-150 | $20,373 | $17,588 | -$2,785 |
 | 55SWF8HB1GU104116 | 2016 Mercedes-Benz C-Class | $35,882 | $33,476 | -$2,406 |
+
+## 2026-07-15
+
+- New listings: 339
+- Removed / sold: 125
+- Price changes: 546
+- Biggest price drop: null null null $63,489 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5J8YD8H82SL000388 | null null null | $63,489 | $490 | -$62,999 |
+| 1GKKNXLS3JZ235753 | null null null | $24,489 | $490 | -$23,999 |
+| 3GNAXKEG2RS111227 | null null null | $24,485 | $490 | -$23,995 |
+| KL4MMESL3PB093454 | null null null | $24,428 | $490 | -$23,938 |
+| KL4MMCSLXPB141763 | null null null | $24,084 | $490 | -$23,594 |
+| 1GNSKBKC2JR290865 | null null null | $23,489 | $490 | -$22,999 |
+| 3GNAXWEGXPS114820 | null null null | $23,485 | $490 | -$22,995 |
+| 2HGFE2F52SH566977 | null null null | $24,447 | $2,000 | -$22,447 |
+| JA4J4VA81RZ086383 | null null null | $23,940 | $2,000 | -$21,940 |
+| WBA63DA09TCW29120 | 2026 BMW 4 Series | $63,360 | $59,340 | -$4,020 |
+| 4S3GKAB69L3613172 | 2020 Subaru Impreza | $23,214 | $19,933 | -$3,281 |
+| 1FTEX1E86HFC75290 | 2017 Ford F-150 | $17,980 | $14,873 | -$3,107 |
+| W1NKM4HB0TF493103 | 2026 Mercedes-Benz GLC | $51,989 | $49,304 | -$2,685 |
+| 1GYS9GRL1SR321672 | 2025 CADILLAC Escalade | $118,987 | $116,490 | -$2,497 |
+| 1GYS4DKL1NR180582 | 2022 CADILLAC Escalade | $58,180 | $55,790 | -$2,390 |
+| SALKP9FU8PA026765 | 2023 Land Rover Range Rover | $85,284 | $82,906 | -$2,378 |
+| 3C7WRLFJ9LG262135 | 2020 Ram 4500 Chassis | $57,489 | $55,401 | -$2,088 |
+| 19XFC1F9XGE221409 | 2016 Honda Civic | $18,455 | $16,382 | -$2,073 |
+| 5FNRL6H84PB047460 | 2023 Honda Odyssey | $41,489 | $39,421 | -$2,068 |
+| JM1GJ1W51G1454296 | 2016 Mazda Mazda6 | $17,467 | $15,467 | -$2,000 |
+| 2HKRS4H27RH456821 | 2024 Honda CR-V | $31,421 | $29,421 | -$2,000 |
+| 1G1FE3D77R0104463 | 2024 Chevrolet Camaro | $50,489 | $48,489 | -$2,000 |
+| 1GYKNBRS2JZ103597 | 2018 CADILLAC XT5 | $22,480 | $20,490 | -$1,990 |
+| JTDS4MCE7N3503977 | 2022 Toyota Corolla | $20,258 | $18,477 | -$1,781 |
+| WA125AGU4T2023261 | 2026 Audi SQ5 | $67,690 | $65,995 | -$1,695 |

@@ -284,3 +284,38 @@
 | 1GYKNBRS2JZ103597 | 2018 CADILLAC XT5 | $22,480 | $20,490 | -$1,990 |
 | JTDS4MCE7N3503977 | 2022 Toyota Corolla | $20,258 | $18,477 | -$1,781 |
 | WA125AGU4T2023261 | 2026 Audi SQ5 | $67,690 | $65,995 | -$1,695 |
+
+## 2026-07-16
+
+- New listings: 89
+- Removed / sold: 1880
+- Price changes: 365
+- Biggest price drop: null null null $23,994 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3VW6T7BU4MM014526 | null null null | $23,994 | $2,000 | -$21,994 |
+| 1FM5K8GC0PGB54512 | 2023 Ford Explorer | $45,466 | $42,077 | -$3,389 |
+| 1FTFW1ED4PFA72014 | 2023 Ford F-150 | $41,467 | $38,974 | -$2,493 |
+| 1FMSK8DH7PGA45130 | 2023 Ford Explorer | $30,100 | $27,788 | -$2,312 |
+| 5N1BT3BB7PC943555 | 2023 Nissan Rogue | $28,703 | $26,695 | -$2,008 |
+| 1GCPTBEK0S1178399 | 2025 Chevrolet Colorado | $37,490 | $35,489 | -$2,001 |
+| 1GNKRFKD3HJ321822 | 2017 Chevrolet Traverse | $14,390 | $12,489 | -$1,901 |
+| JM3KFBBMXP0273077 | 2023 Mazda CX-5 | $28,390 | $26,489 | -$1,901 |
+| 1C4RJKBG7P8743972 | 2023 Jeep Grand Cherokee L | $39,390 | $37,489 | -$1,901 |
+| 1FMCU9G64NUB18399 | 2022 Ford Escape | $20,803 | $18,984 | -$1,819 |
+| 1FMCU9GXXGUA35118 | 2016 Ford Escape | $10,078 | $8,359 | -$1,719 |
+| 5J6RS6H93SL030984 | 2025 Honda CR-V Hybrid | $40,288 | $38,642 | -$1,646 |
+| 1FTEX1EB4JFB00800 | 2018 Ford F-150 | $15,485 | $13,935 | -$1,550 |
+| 3C6JR7DG0NG211199 | 2022 Ram 1500 Classic | $19,690 | $18,214 | -$1,476 |
+| 2HGFC2F83KH594576 | 2019 Honda Civic | $23,390 | $21,989 | -$1,401 |
+| 3GNAXHEGXRL193432 | 2024 Chevrolet Equinox | $25,390 | $23,989 | -$1,401 |
+| 1C4RJKBG5M8140787 | 2021 Jeep Grand Cherokee L | $31,390 | $29,989 | -$1,401 |
+| 1FAGP8UH2S5116627 | 2025 Ford Mustang | $36,390 | $34,989 | -$1,401 |
+| 1C4RJKAG3S8678922 | 2025 Jeep Grand Cherokee L | $43,390 | $41,989 | -$1,401 |
+| 1FMSK8DH9PGB34651 | 2023 Ford Explorer | $30,804 | $29,488 | -$1,316 |
+| 1FMSK8JH1PGA15142 | 2023 Ford Explorer | $36,391 | $35,083 | -$1,308 |
+| 5TDKDRAH8PS001720 | 2023 Toyota Highlander | $34,194 | $32,924 | -$1,270 |
+| 1GYKNGRS9MZ127882 | 2021 CADILLAC XT5 | $30,335 | $29,098 | -$1,237 |
+| 1FMCU9G69NUB37188 | 2022 Ford Escape | $22,701 | $21,484 | -$1,217 |
+| 1FTEW1E59LFB18287 | 2020 Ford F-150 | $35,489 | $34,275 | -$1,214 |

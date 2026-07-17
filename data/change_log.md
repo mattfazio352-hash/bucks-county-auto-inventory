@@ -319,3 +319,38 @@
 | 1GYKNGRS9MZ127882 | 2021 CADILLAC XT5 | $30,335 | $29,098 | -$1,237 |
 | 1FMCU9G69NUB37188 | 2022 Ford Escape | $22,701 | $21,484 | -$1,217 |
 | 1FTEW1E59LFB18287 | 2020 Ford F-150 | $35,489 | $34,275 | -$1,214 |
+
+## 2026-07-17
+
+- New listings: 1910
+- Removed / sold: 80
+- Price changes: 346
+- Biggest price drop: 2023 Genesis G90 $50,747 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KMTFC4SD3PU028422 | 2023 Genesis G90 | $50,747 | $490 | -$50,257 |
+| 1C6SRFFT1NN427451 | 2022 Ram 1500 | $36,989 | $490 | -$36,499 |
+| KMTG34TA4PU121135 | 2023 Genesis G70 | $31,493 | $490 | -$31,003 |
+| 3FMCR9DA3SRE58043 | null null null | $30,689 | $2,000 | -$28,689 |
+| 4S4BTANC7P3154430 | null null null | $27,840 | $490 | -$27,350 |
+| 5XYRHDLF5PG213991 | null null null | $28,589 | $2,000 | -$26,589 |
+| NM0LS7T26N1528721 | null null null | $25,282 | $495 | -$24,787 |
+| 3CZRZ2H5XRM726641 | null null null | $26,387 | $2,000 | -$24,387 |
+| 3VWEM7BU3NM003088 | null null null | $19,249 | $165 | -$19,084 |
+| 1G1ZD5ST9RF106756 | null null null | $18,188 | $2,000 | -$16,188 |
+| 1C4RJHBG1P8844332 | 2023 Jeep Grand Cherokee | $34,989 | $32,489 | -$2,500 |
+| 1C6SRFGT5TN378606 | 2026 Ram 1500 | $52,489 | $49,989 | -$2,500 |
+| KL77LGEPXSC125039 | 2025 Chevrolet Trax | $24,390 | $21,989 | -$2,401 |
+| ZACPDFDW7R3A14383 | 2024 Dodge Hornet | $27,390 | $24,989 | -$2,401 |
+| JTJBJRBZ0K2114087 | 2019 LEXUS NX 300h | $30,390 | $27,989 | -$2,401 |
+| 1FTFW1E59PFA20144 | 2023 Ford F-150 | $44,573 | $42,357 | -$2,216 |
+| 1C4JJXP62PW556287 | 2023 Jeep Wrangler 4xe | $31,989 | $29,989 | -$2,000 |
+| 1C4JJXN69PW684531 | 2023 Jeep Wrangler 4xe | $33,489 | $31,489 | -$2,000 |
+| ZACPDFDW6R3A17954 | 2024 Dodge Hornet | $27,390 | $25,489 | -$1,901 |
+| 1V2CR2CA3RC541735 | 2024 Volkswagen Atlas | $38,390 | $36,489 | -$1,901 |
+| 1C6SRFJT6PN529919 | 2023 Ram 1500 | $43,390 | $41,489 | -$1,901 |
+| 5NMMADTB7TH063930 | null null null | $2,000 | $195 | -$1,805 |
+| YV4612RK2G2849324 | 2016 Volvo XC60 | $14,374 | $12,596 | -$1,778 |
+| WA1E2AFY8R2028305 | 2024 Audi Q5 e | $42,000 | $40,406 | -$1,594 |
+| 1FMCU9JZ9PUA11449 | 2023 Ford Escape | $31,994 | $30,406 | -$1,588 |

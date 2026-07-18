@@ -354,3 +354,38 @@
 | YV4612RK2G2849324 | 2016 Volvo XC60 | $14,374 | $12,596 | -$1,778 |
 | WA1E2AFY8R2028305 | 2024 Audi Q5 e | $42,000 | $40,406 | -$1,594 |
 | 1FMCU9JZ9PUA11449 | 2023 Ford Escape | $31,994 | $30,406 | -$1,588 |
+
+## 2026-07-18
+
+- New listings: 154
+- Removed / sold: 159
+- Price changes: 355
+- Biggest price drop: null null null $39,067 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 2GCUDDED5P1123820 | null null null | $39,067 | $490 | -$38,577 |
+| 2HKRS4H49PH439095 | null null null | $32,488 | $100 | -$32,388 |
+| 3MVDMBEY9SM817157 | null null null | $32,487 | $450 | -$32,037 |
+| 19UUB5F5XNA002269 | null null null | $32,485 | $490 | -$31,995 |
+| 2HKRS4H7XPH401370 | null null null | $32,485 | $490 | -$31,995 |
+| 5FNRL6H62SB058142 | null null null | $33,988 | $2,000 | -$31,988 |
+| 1FMSK8DH9PGB78617 | null null null | $32,485 | $3,540 | -$28,945 |
+| 5N1BT3BB2PC930633 | null null null | $25,602 | $2,000 | -$23,602 |
+| 2GNAXXEV6N6101367 | null null null | $23,647 | $1,745 | -$21,902 |
+| 3MVDMBBM1PM575232 | null null null | $22,194 | $595 | -$21,599 |
+| 5NMJBCAE9PH217244 | null null null | $21,957 | $2,000 | -$19,957 |
+| JM1BPAKM2S1753777 | null null null | $20,177 | $450 | -$19,727 |
+| W1K6G7GB8PA172454 | 2023 Mercedes-Benz S-Class | $85,899 | $75,877 | -$10,022 |
+| 5NMJECDE8SH495497 | 2025 Hyundai Tucson | $41,028 | $36,488 | -$4,540 |
+| 1FT8W2BT6NEE54414 | 2022 Ford F-250SD | $63,240 | $60,489 | -$2,751 |
+| 4S4BTALC5R3126597 | 2024 Subaru Outback | $32,390 | $29,989 | -$2,401 |
+| 5N1AL1FS0TC335736 | 2026 INFINITI QX60 | $50,490 | $48,386 | -$2,104 |
+| 1FMSK8KH1PGA51752 | 2023 Ford Explorer | $36,698 | $34,661 | -$2,037 |
+| 3FMCR9DA3SRE58043 | null null null | $2,000 | $100 | -$1,900 |
+| 5NTJDDAF2NH006087 | 2022 Hyundai Santa Cruz | $23,409 | $21,512 | -$1,897 |
+| 5N1DL1FSXPC375454 | 2023 INFINITI QX60 | $37,990 | $36,234 | -$1,756 |
+| 1C4JJXR64NW108305 | 2022 Jeep Wrangler 4xe | $29,485 | $27,985 | -$1,500 |
+| KMHLW4DK5SU034604 | 2025 Hyundai Elantra N | $35,669 | $34,204 | -$1,465 |
+| 5FNYG1H43PB010433 | 2023 Honda Pilot | $38,088 | $36,676 | -$1,412 |
+| 5N1AL1FW9TC334748 | 2026 INFINITI QX60 | $52,490 | $51,087 | -$1,403 |

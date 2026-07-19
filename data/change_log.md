@@ -389,3 +389,38 @@
 | KMHLW4DK5SU034604 | 2025 Hyundai Elantra N | $35,669 | $34,204 | -$1,465 |
 | 5FNYG1H43PB010433 | 2023 Honda Pilot | $38,088 | $36,676 | -$1,412 |
 | 5N1AL1FW9TC334748 | 2026 INFINITI QX60 | $52,490 | $51,087 | -$1,403 |
+
+## 2026-07-19
+
+- New listings: 150
+- Removed / sold: 151
+- Price changes: 166
+- Biggest price drop: null null null $37,489 -> $1,075
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 2T3B6RFV1RW066306 | null null null | $37,489 | $1,075 | -$36,414 |
+| 1FM5K8GC0NGB08756 | null null null | $35,080 | $4,995 | -$30,085 |
+| 1FM5K8GC1NGC30848 | null null null | $33,366 | $4,995 | -$28,371 |
+| 1G1YY22G545111999 | null null null | $24,485 | $490 | -$23,995 |
+| JF2SJAFC4FH594021 | null null null | $15,613 | $490 | -$15,123 |
+| 5NMP3DG14SH038992 | 2025 Hyundai Santa Fe Hybrid | $48,107 | $41,448 | -$6,659 |
+| KMHLS4DG2SU892863 | 2025 Hyundai Elantra | $26,541 | $23,600 | -$2,941 |
+| WP0BB2A96HS136791 | 2017 Porsche 911 | $132,490 | $130,402 | -$2,088 |
+| 1GT4UWEY5SF253743 | 2025 GMC Sierra 3500HD | $86,478 | $84,478 | -$2,000 |
+| 1FMDE5CP4NLA85970 | 2022 Ford Bronco | $44,900 | $42,900 | -$2,000 |
+| 4JGFF5KE8RB094351 | 2024 Mercedes-Benz GLS 450 | $74,900 | $72,900 | -$2,000 |
+| 1FT7W2BNXLEE02469 | 2020 Ford F-250 | $34,515 | $32,768 | -$1,747 |
+| 1C4AJWBG0DL657335 | 2013 Jeep Wrangler | $18,023 | $16,487 | -$1,536 |
+| 3FTTW8JA8TRA53809 | 2026 Ford Maverick | $34,350 | $32,868 | -$1,482 |
+| 5TDDK3DC2ES093190 | 2014 Toyota Sienna | $14,446 | $12,985 | -$1,461 |
+| 5XXGU4L10LG448434 | 2020 Kia Optima | $19,144 | $17,985 | -$1,159 |
+| 3CZRU6H3XHG707170 | 2017 Honda HR-V | $17,492 | $16,351 | -$1,141 |
+| 1FTFW1E8XNKF18707 | 2022 Ford F-150 | $40,552 | $39,468 | -$1,084 |
+| 3FTTW8JA7SRB43970 | 2025 Ford Maverick | $32,083 | $31,068 | -$1,015 |
+| 2FMPK4J90PBA12375 | 2023 Ford Edge | $26,573 | $25,568 | -$1,005 |
+| 1FA6P8K08L5583108 | 2020 Ford Mustang | $47,173 | $46,168 | -$1,005 |
+| 1FT8X3BN2REC54480 | 2024 Ford F-350 | $54,573 | $53,568 | -$1,005 |
+| 1G1Y62D41L5115071 | 2020 Chevrolet Corvette Stingray | $64,266 | $63,265 | -$1,001 |
+| KM8J3CA45KU986969 | 2019 Hyundai Tucson | $14,485 | $13,485 | -$1,000 |
+| 2HKRS4H29PH421713 | 2023 Honda CR-V | $24,900 | $23,900 | -$1,000 |

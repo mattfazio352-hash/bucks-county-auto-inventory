@@ -424,3 +424,38 @@
 | 1G1Y62D41L5115071 | 2020 Chevrolet Corvette Stingray | $64,266 | $63,265 | -$1,001 |
 | KM8J3CA45KU986969 | 2019 Hyundai Tucson | $14,485 | $13,485 | -$1,000 |
 | 2HKRS4H29PH421713 | 2023 Honda CR-V | $24,900 | $23,900 | -$1,000 |
+
+## 2026-07-20
+
+- New listings: 27
+- Removed / sold: 1101
+- Price changes: 57
+- Biggest price drop: null null null $17,485 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1C4HJWEG5JL930422 | null null null | $17,485 | $490 | -$16,995 |
+| KNMAT2MV6GP605901 | null null null | $13,268 | $155 | -$13,113 |
+| 1FADP3F25JL267437 | null null null | $13,317 | $645 | -$12,672 |
+| 5J6RS6H57SL041693 | 2025 Honda CR-V Hybrid | $37,488 | $36,488 | -$1,000 |
+| 1C6SRFFP2TN255737 | 2026 Ram 1500 | $45,488 | $44,488 | -$1,000 |
+| 4T1B61HK4KU167326 | null null null | $2,000 | $1,045 | -$955 |
+| KMTGB4SC3PU150454 | 2023 Genesis G80 | $34,900 | $33,978 | -$922 |
+| WBALM53509E160639 | 2009 BMW Z4 | $19,366 | $18,467 | -$899 |
+| JTHBK1GG2D2082169 | null null null | $2,000 | $1,370 | -$630 |
+| 3KPF24AD1RE699026 | 2024 Kia Forte | $19,305 | $18,788 | -$517 |
+| 5N1BT3BB1PC942742 | 2023 Nissan Rogue | $24,488 | $23,988 | -$500 |
+| 1HGCY1F3XPA024180 | 2023 Honda Accord | $24,988 | $24,488 | -$500 |
+| 19XFL2H89SE003304 | 2025 Honda Civic | $27,488 | $26,988 | -$500 |
+| 5UX53DP07R9X37309 | 2024 BMW X3 | $39,488 | $38,988 | -$500 |
+| 2HKRS4H7XSH475848 | 2025 Honda CR-V | $38,658 | $38,166 | -$492 |
+| 4S3GKAB69L3613172 | 2020 Subaru Impreza | $19,933 | $19,488 | -$445 |
+| 3CZRZ2H31RM779663 | 2024 Honda HR-V | $27,888 | $27,488 | -$400 |
+| 5TDKDRBH0PS030224 | 2023 Toyota Highlander | $31,888 | $31,488 | -$400 |
+| 2HKRS4H49PH439095 | 2023 Honda CR-V | $32,488 | $32,088 | -$400 |
+| 3GTN9AEK8NG212689 | null null null | $2,130 | $1,735 | -$395 |
+| 3GNKBHR40LS717431 | 2020 Chevrolet Blazer | $24,378 | $23,988 | -$390 |
+| 5FNRL6H71PB045981 | 2023 Honda Odyssey | $38,858 | $38,488 | -$370 |
+| 19XFL2H8XTE018864 | 2026 Honda Civic | $29,405 | $29,088 | -$317 |
+| 3CZRZ2H33PM745964 | 2023 Honda HR-V | $24,188 | $23,888 | -$300 |
+| 19XZE4F57NE007898 | 2022 Honda Insight | $24,788 | $24,488 | -$300 |

@@ -459,3 +459,38 @@
 | 19XFL2H8XTE018864 | 2026 Honda Civic | $29,405 | $29,088 | -$317 |
 | 3CZRZ2H33PM745964 | 2023 Honda HR-V | $24,188 | $23,888 | -$300 |
 | 19XZE4F57NE007898 | 2022 Honda Insight | $24,788 | $24,488 | -$300 |
+
+## 2026-07-21
+
+- New listings: 1062
+- Removed / sold: 72
+- Price changes: 389
+- Biggest price drop: null null null $32,064 -> $495
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTER4FH8PLE18119 | null null null | $32,064 | $495 | -$31,569 |
+| 1FTEW1EPXNFB99529 | 2022 Ford F-150 | $38,229 | $31,975 | -$6,254 |
+| 1FMSK8DH4PGA85410 | 2023 Ford Explorer | $29,283 | $24,375 | -$4,908 |
+| SALEJ7EX9R2322180 | 2024 Land Rover Defender 110 | $74,649 | $69,995 | -$4,654 |
+| 1FTEW3LP5SKE51639 | 2025 Ford F-150 | $39,485 | $35,475 | -$4,010 |
+| 5TDLZRBH5NS236433 | 2022 Toyota Highlander | $33,749 | $30,395 | -$3,354 |
+| 1C4RJKAG1N8526044 | 2022 Jeep New Grand Cherokee | $30,310 | $26,975 | -$3,335 |
+| 1FTEW3LP1SKE63786 | 2025 Ford F-150 | $39,485 | $36,175 | -$3,310 |
+| 1FTFW7LD6SFA49171 | 2025 Ford F-150 | $64,995 | $61,995 | -$3,000 |
+| 1FTMF1L56SKD64749 | 2025 Ford F-150 | $54,490 | $51,515 | -$2,975 |
+| 1GKKNULS3PZ149771 | 2023 GMC Acadia | $31,505 | $28,579 | -$2,926 |
+| 1FTFW1E82PKE14425 | 2023 Ford F-150 | $33,375 | $30,489 | -$2,886 |
+| 5N1DR3BD6PC259508 | 2023 Nissan Pathfinder | $27,632 | $24,790 | -$2,842 |
+| 3GNAXUEGXPL101418 | 2023 Chevrolet Equinox | $20,805 | $18,090 | -$2,715 |
+| 2C4RC1BG0PR606848 | 2023 Chrysler Pacifica | $20,079 | $17,579 | -$2,500 |
+| 5NMJFCAE7PH264891 | 2023 Hyundai Tucson | $20,079 | $17,579 | -$2,500 |
+| 3C4NJDCN5ST522081 | 2025 Jeep Compass | $26,900 | $24,489 | -$2,411 |
+| W1KZF8EB9PB101802 | 2023 Mercedes-Benz E-Class | $43,583 | $41,290 | -$2,293 |
+| KNAE35LC4K6070291 | 2019 Kia Stinger | $27,340 | $25,089 | -$2,251 |
+| JTEABFAJXSK033700 | 2025 Toyota Land Cruiser | $58,189 | $55,975 | -$2,214 |
+| 1FMSK8DHXPGB72518 | 2023 Ford Explorer | $25,231 | $23,079 | -$2,152 |
+| 1FMSK8DH5PGB91591 | 2023 Ford Explorer | $30,487 | $28,375 | -$2,112 |
+| 5J8TC2H89RL013465 | 2024 Acura RDX | $42,996 | $40,889 | -$2,107 |
+| 1C6RRFFG0PN670804 | 2023 Ram 1500 | $29,479 | $27,479 | -$2,000 |
+| 5UXCR6C03M9F09438 | 2021 BMW X5 | $30,467 | $28,467 | -$2,000 |

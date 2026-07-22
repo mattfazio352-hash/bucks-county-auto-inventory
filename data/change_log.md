@@ -494,3 +494,38 @@
 | 5J8TC2H89RL013465 | 2024 Acura RDX | $42,996 | $40,889 | -$2,107 |
 | 1C6RRFFG0PN670804 | 2023 Ram 1500 | $29,479 | $27,479 | -$2,000 |
 | 5UXCR6C03M9F09438 | 2021 BMW X5 | $30,467 | $28,467 | -$2,000 |
+
+## 2026-07-22
+
+- New listings: 158
+- Removed / sold: 158
+- Price changes: 749
+- Biggest price drop: null null null $54,661 -> $1,495
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTER4LR7RLE19892 | null null null | $54,661 | $1,495 | -$53,166 |
+| 5TFLA5DB5RX138110 | null null null | $39,589 | $2,000 | -$37,589 |
+| 5NMS2DAJ2NH479367 | null null null | $23,632 | $205 | -$23,427 |
+| 1C4RJKBG3N8519918 | null null null | $24,999 | $1,935 | -$23,064 |
+| 1C4HJXDG7MW835919 | null null null | $27,013 | $4,190 | -$22,823 |
+| 1FMCU9GN5PUA52195 | null null null | $23,661 | $995 | -$22,666 |
+| W1K6G7GB4PA229474 | 2023 Mercedes-Benz S-Class | $89,720 | $85,900 | -$3,820 |
+| 1C4RJHAG4RC257446 | 2024 Jeep Grand Cherokee | $34,489 | $31,804 | -$2,685 |
+| 1C4RDJDG9PC556499 | 2023 Dodge Durango | $33,489 | $30,985 | -$2,504 |
+| 3GTUUDED4PG182803 | 2023 GMC Sierra 1500 | $44,980 | $42,480 | -$2,500 |
+| 1C4RJHDG9PC515405 | 2023 Jeep Grand Cherokee | $36,489 | $34,011 | -$2,478 |
+| 1C4JJXR65PW621324 | 2023 Jeep Wrangler 4xe | $30,489 | $28,151 | -$2,338 |
+| WA1C4AFY3P2153405 | 2023 Audi SQ5 | $42,489 | $40,225 | -$2,264 |
+| 1C4RJKAG1S8630318 | 2025 Jeep Grand Cherokee L | $37,489 | $35,281 | -$2,208 |
+| JF2GUADC5R8373404 | 2024 Subaru Crosstrek | $27,290 | $25,117 | -$2,173 |
+| 1C4RJKBG6S8631379 | 2025 Jeep Grand Cherokee L | $40,485 | $38,389 | -$2,096 |
+| 5YM13ET04S9Y37859 | 2025 BMW X5 M | $102,490 | $100,477 | -$2,013 |
+| 1FTFW1E83PFA60570 | 2023 Ford F-150 | $44,485 | $42,479 | -$2,006 |
+| JM3TCBAY9P0655652 | 2023 Mazda CX-9 | $27,594 | $25,594 | -$2,000 |
+| 1C4RJKET6R8535321 | 2024 Jeep Grand Cherokee L | $52,489 | $50,489 | -$2,000 |
+| SALGS2RU9MA427681 | 2021 Land Rover Range Rover | $37,485 | $35,485 | -$2,000 |
+| 1C4HJXDG7MW720673 | 2021 Jeep Wrangler Unlimited | $23,421 | $21,421 | -$2,000 |
+| W1NKM4HB8TF522427 | 2026 Mercedes-Benz GLC | $53,981 | $51,981 | -$2,000 |
+| W1NKM4HB3TF528250 | 2026 Mercedes-Benz GLC | $53,981 | $51,981 | -$2,000 |
+| W1NKM4HB1TF427997 | 2026 Mercedes-Benz GLC | $53,981 | $51,981 | -$2,000 |

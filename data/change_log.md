@@ -529,3 +529,38 @@
 | W1NKM4HB8TF522427 | 2026 Mercedes-Benz GLC | $53,981 | $51,981 | -$2,000 |
 | W1NKM4HB3TF528250 | 2026 Mercedes-Benz GLC | $53,981 | $51,981 | -$2,000 |
 | W1NKM4HB1TF427997 | 2026 Mercedes-Benz GLC | $53,981 | $51,981 | -$2,000 |
+
+## 2026-07-23
+
+- New listings: 104
+- Removed / sold: 111
+- Price changes: 218
+- Biggest price drop: null null null $41,485 -> $3,955
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTFW1E87PFA34232 | null null null | $41,485 | $3,955 | -$37,530 |
+| 1FMSK8DH8PGA09060 | null null null | $28,485 | $3,540 | -$24,945 |
+| 1HGCY1F35RA053492 | null null null | $24,073 | $2,000 | -$22,073 |
+| SADCT2EX5TA757694 | 2026 Jaguar F-PACE | $57,990 | $53,990 | -$4,000 |
+| SALEJEEU5S2427380 | 2025 Land Rover Defender | $69,990 | $65,990 | -$4,000 |
+| SAL1P9EU5RA180060 | 2024 Land Rover Range Rover Sport | $73,990 | $70,890 | -$3,100 |
+| SADCT2EX9TA757469 | 2026 Jaguar F-PACE | $56,990 | $53,990 | -$3,000 |
+| SALEJ7EX8S2454837 | 2025 Land Rover Defender | $62,990 | $59,990 | -$3,000 |
+| SALEPEEU6P2229140 | 2023 Land Rover Defender | $44,990 | $41,990 | -$3,000 |
+| SALZJ2FX4TH304919 | 2026 Land Rover Range Rover Evoque | $49,990 | $46,990 | -$3,000 |
+| SALYL2EXXTA829287 | 2026 Land Rover Range Rover Velar | $62,990 | $59,990 | -$3,000 |
+| SALYJ2EX0TA820488 | 2026 Land Rover Range Rover Velar | $58,990 | $55,990 | -$3,000 |
+| 1GNSKTKL7RR273786 | 2024 Chevrolet Tahoe | $71,390 | $68,489 | -$2,901 |
+| SALE2EFE6S2451465 | 2025 Land Rover Defender | $88,490 | $85,590 | -$2,900 |
+| SALE37RU9N2097988 | 2022 Land Rover Defender | $50,890 | $48,290 | -$2,600 |
+| SALZJ2FXXTH287737 | 2026 Land Rover Range Rover Evoque | $48,990 | $46,490 | -$2,500 |
+| ZARFANBN6R7681207 | 2024 Alfa Romeo Giulia | $43,435 | $41,089 | -$2,346 |
+| KMUHBDSB5PU130732 | 2023 Genesis GV80 | $48,297 | $46,202 | -$2,095 |
+| 3C6MR5AL0PG565858 | 2023 Ram 2500 | $42,485 | $40,485 | -$2,000 |
+| SADCT2EX9TA755656 | 2026 Jaguar F-PACE | $56,490 | $54,490 | -$2,000 |
+| SADCT2EX0TA756257 | 2026 Jaguar F-PACE | $52,990 | $50,990 | -$2,000 |
+| SALRJ2FXXS2509839 | 2025 Land Rover Discovery | $49,990 | $47,990 | -$2,000 |
+| 4S4WMAWDXP3418312 | 2023 Subaru Ascent | $33,988 | $31,988 | -$2,000 |
+| JM3KFBDM6J0342092 | 2018 Mazda CX-5 | $21,390 | $19,489 | -$1,901 |
+| 3GNAXKEG9PL107330 | 2023 Chevrolet Equinox | $24,390 | $22,489 | -$1,901 |

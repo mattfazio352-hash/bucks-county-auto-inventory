@@ -564,3 +564,38 @@
 | 4S4WMAWDXP3418312 | 2023 Subaru Ascent | $33,988 | $31,988 | -$2,000 |
 | JM3KFBDM6J0342092 | 2018 Mazda CX-5 | $21,390 | $19,489 | -$1,901 |
 | 3GNAXKEG9PL107330 | 2023 Chevrolet Equinox | $24,390 | $22,489 | -$1,901 |
+
+## 2026-07-24
+
+- New listings: 112
+- Removed / sold: 111
+- Price changes: 322
+- Biggest price drop: null null null $23,701 -> $100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 2C4RC1BG0PR590862 | null null null | $23,701 | $100 | -$23,601 |
+| 5NMJACDE0RH397392 | null null null | $23,689 | $130 | -$23,559 |
+| 1FTEW1EPXNKD65264 | 2022 Ford F-150 | $37,588 | $34,143 | -$3,445 |
+| 5FNRL6H67PB051324 | 2023 Honda Odyssey | $37,845 | $35,430 | -$2,415 |
+| 5NMJECDE3RH389467 | 2024 Hyundai Tucson | $30,127 | $28,197 | -$1,930 |
+| 1FTFW1ED8PFC11545 | 2023 Ford F-150 | $44,368 | $42,485 | -$1,883 |
+| 5FNYF8H67PB027412 | 2023 Honda Passport | $35,820 | $34,140 | -$1,680 |
+| 3FMCR9B61NRD90408 | 2022 Ford Bronco Sport | $20,168 | $18,505 | -$1,663 |
+| 3PCAJ5BB4NF107817 | 2022 INFINITI QX50 | $26,961 | $25,308 | -$1,653 |
+| 1FT7W2B60LEE81417 | null null null | $2,000 | $450 | -$1,550 |
+| 1FT7W2BT8SEC34098 | 2025 Ford F-250 | $54,428 | $52,973 | -$1,455 |
+| 5N1DL1HU2RC330753 | 2024 INFINITI QX60 | $50,117 | $48,699 | -$1,418 |
+| 5XYP3DGC8RG434171 | 2024 Kia Telluride | $34,959 | $33,623 | -$1,336 |
+| 5N1BT3BB2PC930633 | 2023 Nissan Rogue | $25,602 | $24,267 | -$1,335 |
+| 5FNRL6H77SB081876 | 2025 Honda Odyssey | $38,885 | $37,685 | -$1,200 |
+| 5J8YE1H02TL002674 | 2026 Acura MDX | $54,366 | $53,252 | -$1,114 |
+| 1FM5K8GC1NGC30848 | 2022 Ford Explorer | $33,366 | $32,252 | -$1,114 |
+| 4JGFB5KB3PA872950 | 2023 Mercedes-Benz GLE | $50,366 | $49,252 | -$1,114 |
+| 2HKRS4H43RH483225 | 2024 Honda CR-V | $32,477 | $31,366 | -$1,111 |
+| 7FARS6H81TE069854 | 2026 Honda CR-V Hybrid | $40,477 | $39,366 | -$1,111 |
+| KL4MMGSL7MB167045 | 2021 Buick Encore GX | $18,260 | $17,173 | -$1,087 |
+| JN1EV7CR8PM541006 | 2023 INFINITI Q50 | $36,056 | $34,975 | -$1,081 |
+| 1C4RJFAG4NC115385 | 2022 Jeep Grand Cherokee WK | $28,467 | $27,386 | -$1,081 |
+| 3MW89FF07P8C92794 | 2023 BMW 3 Series | $35,434 | $34,366 | -$1,068 |
+| 3HDSA2H52SM702675 | 2025 Acura ADX | $35,434 | $34,423 | -$1,011 |

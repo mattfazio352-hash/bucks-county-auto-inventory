@@ -599,3 +599,38 @@
 | 1C4RJFAG4NC115385 | 2022 Jeep Grand Cherokee WK | $28,467 | $27,386 | -$1,081 |
 | 3MW89FF07P8C92794 | 2023 BMW 3 Series | $35,434 | $34,366 | -$1,068 |
 | 3HDSA2H52SM702675 | 2025 Acura ADX | $35,434 | $34,423 | -$1,011 |
+
+## 2026-07-25
+
+- New listings: 129
+- Removed / sold: 156
+- Price changes: 571
+- Biggest price drop: null null null $37,478 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3TYCZ5AN8PT153666 | null null null | $37,478 | $2,000 | -$35,478 |
+| 1FMDE5BH3MLA97603 | null null null | $32,773 | $100 | -$32,673 |
+| 5XYK7CAF4PG034097 | null null null | $28,293 | $175 | -$28,118 |
+| 1GKKNULS3PZ149771 | null null null | $28,579 | $1,000 | -$27,579 |
+| 1FMSK8DH5PGB91591 | null null null | $28,375 | $2,000 | -$26,375 |
+| 3MVDMBCMXPM553406 | null null null | $22,697 | $115 | -$22,582 |
+| KNDJ53AU1P7886999 | null null null | $20,389 | $175 | -$20,214 |
+| 3MVDMBAM3RM634981 | null null null | $22,141 | $2,000 | -$20,141 |
+| KMHL14JA6PA306144 | null null null | $21,704 | $2,000 | -$19,704 |
+| 3KPF24AD6PE601864 | null null null | $17,467 | $2,000 | -$15,467 |
+| 3GNAXUEV9NL146734 | null null null | $17,194 | $1,795 | -$15,399 |
+| W1KAF4HB5TR329203 | 2026 Mercedes-Benz C 300 | $61,840 | $52,900 | -$8,940 |
+| W1N4N4HB2TJ748756 | 2026 Mercedes-Benz GLA 250 | $50,685 | $45,900 | -$4,785 |
+| W1N4N4HB5TJ816483 | 2026 Mercedes-Benz GLA 250 | $51,450 | $46,900 | -$4,550 |
+| 3C6UR5DJ3SG567316 | 2025 Ram 2500 | $53,390 | $49,989 | -$3,401 |
+| 1FTRF3BA8PEC00151 | 2023 Ford F-350SD | $46,478 | $44,369 | -$2,109 |
+| 4S4GUHL60R3726868 | 2024 Subaru Crosstrek | $28,488 | $26,488 | -$2,000 |
+| 1GNSKNKD5RR303808 | 2024 Chevrolet Tahoe | $46,989 | $44,989 | -$2,000 |
+| 3C4NJDBB3JT316117 | 2018 Jeep Compass | $16,900 | $14,989 | -$1,911 |
+| 5FNYG1H71PB023305 | 2023 Honda Pilot | $35,390 | $33,489 | -$1,901 |
+| 1GKKNSLS6KZ128832 | 2019 GMC Acadia | $18,045 | $16,273 | -$1,772 |
+| ZACNJBBB0LPL73158 | 2020 Jeep Renegade | $15,445 | $13,777 | -$1,668 |
+| SALEJ7EU0S2474828 | 2025 Land Rover Defender 110 | $70,495 | $68,862 | -$1,633 |
+| 2T2BAMCA0PC026210 | 2023 LEXUS RX | $46,988 | $45,488 | -$1,500 |
+| 5TFNA5DB2PX087249 | 2023 Toyota Tundra | $51,094 | $49,594 | -$1,500 |

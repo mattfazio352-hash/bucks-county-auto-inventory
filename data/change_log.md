@@ -634,3 +634,38 @@
 | SALEJ7EU0S2474828 | 2025 Land Rover Defender 110 | $70,495 | $68,862 | -$1,633 |
 | 2T2BAMCA0PC026210 | 2023 LEXUS RX | $46,988 | $45,488 | -$1,500 |
 | 5TFNA5DB2PX087249 | 2023 Toyota Tundra | $51,094 | $49,594 | -$1,500 |
+
+## 2026-07-26
+
+- New listings: 145
+- Removed / sold: 189
+- Price changes: 256
+- Biggest price drop: null null null $45,485 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3GCUYEELXMG125289 | null null null | $45,485 | $490 | -$44,995 |
+| 5J8YE1H87PL040395 | null null null | $42,288 | $2,000 | -$40,288 |
+| 1FMDE8BH3RLA76307 | null null null | $42,990 | $2,930 | -$40,060 |
+| 1GYKNDRS3PZ175977 | null null null | $35,596 | $2,000 | -$33,596 |
+| 5NMJECAE3PH182384 | null null null | $27,591 | $349 | -$27,242 |
+| 5NMJE3AE4PH205655 | null null null | $25,495 | $120 | -$25,375 |
+| JN8BT3BB1PW476821 | null null null | $26,458 | $2,660 | -$23,798 |
+| 1FMSK8DHXPGB72518 | null null null | $23,079 | $3,540 | -$19,539 |
+| 3VV2X7B25NM064231 | null null null | $16,173 | $2,000 | -$14,173 |
+| 1FTER4FH1NLD01446 | 2022 Ford Ranger | $33,205 | $29,468 | -$3,737 |
+| ZARFAMEV4P7676462 | 2023 Alfa Romeo Giulia | $65,485 | $61,995 | -$3,490 |
+| JN8AY3DE2S9400309 | 2025 Nissan Armada | $66,995 | $63,995 | -$3,000 |
+| 5LMJJ2LG4PEL06100 | 2023 Lincoln Navigator | $66,729 | $64,275 | -$2,454 |
+| 1C4JJXP62MW745355 | 2021 Jeep Wrangler | $30,090 | $28,087 | -$2,003 |
+| 3C63RRPL0KG724848 | 2019 Ram 3500 | $58,485 | $56,485 | -$2,000 |
+| 5UX23EU01S9W45132 | 2025 BMW X5 | $63,995 | $61,995 | -$2,000 |
+| 1C6SRFFP4TN164260 | 2026 Ram 1500 | $49,995 | $47,995 | -$2,000 |
+| 1GYKNGRS9MZ127882 | 2021 CADILLAC XT5 | $29,098 | $27,099 | -$1,999 |
+| 3FMCR9CN8TRE12407 | null null null | $2,000 | $300 | -$1,700 |
+| 5XYPG4A30LG635809 | 2020 Kia Sorento | $15,488 | $13,988 | -$1,500 |
+| 3C63R3EL5MG669042 | 2021 Ram 3500 | $57,985 | $56,485 | -$1,500 |
+| 1FMSK8KH2PGB26605 | 2023 Ford Explorer | $38,005 | $36,679 | -$1,326 |
+| 1GCWGAFF0H1283867 | 2017 Chevrolet Express 2500 | $22,989 | $21,692 | -$1,297 |
+| 55SWF8HB1GU104116 | 2016 Mercedes-Benz C-Class | $33,476 | $32,238 | -$1,238 |
+| 3FTTW8S95RRA25852 | 2024 Ford Maverick | $33,488 | $32,266 | -$1,222 |

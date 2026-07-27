@@ -669,3 +669,38 @@
 | 1GCWGAFF0H1283867 | 2017 Chevrolet Express 2500 | $22,989 | $21,692 | -$1,297 |
 | 55SWF8HB1GU104116 | 2016 Mercedes-Benz C-Class | $33,476 | $32,238 | -$1,238 |
 | 3FTTW8S95RRA25852 | 2024 Ford Maverick | $33,488 | $32,266 | -$1,222 |
+
+## 2026-07-27
+
+- New listings: 58
+- Removed / sold: 143
+- Price changes: 187
+- Biggest price drop: null null null $46,788 -> $1,195
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTFW1E80NKD06446 | null null null | $46,788 | $1,195 | -$45,593 |
+| 1GNSKSKD7PR330634 | null null null | $45,413 | $100 | -$45,313 |
+| 1FD9X4GN4LED06939 | null null null | $45,485 | $250 | -$45,235 |
+| 1FTFW1E87PFB40678 | null null null | $46,470 | $1,495 | -$44,975 |
+| 5N1AL1FS1TC337804 | null null null | $45,264 | $440 | -$44,824 |
+| JTHBZ1E28R5034457 | null null null | $45,222 | $405 | -$44,817 |
+| 5TFAY5F14LX938248 | null null null | $44,990 | $269 | -$44,721 |
+| 5J8YE1H42RL003464 | null null null | $44,990 | $490 | -$44,500 |
+| 5NMP5DGLXSH126943 | null null null | $44,638 | $195 | -$44,443 |
+| WA124AFY9P2166087 | null null null | $46,414 | $2,000 | -$44,414 |
+| 1FTEW1EP3PFB94966 | null null null | $45,065 | $695 | -$44,370 |
+| 1FMJK2A89PEA54808 | null null null | $44,940 | $595 | -$44,345 |
+| KM8R7DGE5SU813580 | null null null | $44,384 | $245 | -$44,139 |
+| 1FMEE5DP7PLB30826 | null null null | $45,060 | $975 | -$44,085 |
+| 1FTBR2C80PKA82354 | null null null | $44,480 | $425 | -$44,055 |
+| 5J8YE1H41RL000135 | null null null | $44,380 | $490 | -$43,890 |
+| 5TDJRKEC3RS195157 | null null null | $45,593 | $2,000 | -$43,593 |
+| 1FA6P8CF3R5409877 | null null null | $44,068 | $500 | -$43,568 |
+| 1FTEW2LP3SKE10887 | null null null | $45,485 | $2,000 | -$43,485 |
+| 1FMDE5BH6PLB50735 | null null null | $43,481 | $160 | -$43,321 |
+| 1FTFW3L89SKE51625 | null null null | $44,653 | $1,585 | -$43,068 |
+| 3GCUDHEL2NG675889 | null null null | $45,029 | $1,970 | -$43,059 |
+| 1FBAX2Y87RKA81087 | null null null | $43,485 | $480 | -$43,005 |
+| 1FTBR1C84SKB09090 | null null null | $43,484 | $795 | -$42,689 |
+| WVWCB7CD7PW211931 | null null null | $42,990 | $490 | -$42,500 |

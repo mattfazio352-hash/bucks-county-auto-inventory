@@ -704,3 +704,38 @@
 | 1FBAX2Y87RKA81087 | null null null | $43,485 | $480 | -$43,005 |
 | 1FTBR1C84SKB09090 | null null null | $43,484 | $795 | -$42,689 |
 | WVWCB7CD7PW211931 | null null null | $42,990 | $490 | -$42,500 |
+
+## 2026-07-29
+
+- New listings: 281
+- Removed / sold: 213
+- Price changes: 1058
+- Biggest price drop: null null null $42,437 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5J8YE1H01RL000035 | null null null | $42,437 | $2,000 | -$40,437 |
+| 2T3P1RFV2PW380967 | null null null | $29,094 | $100 | -$28,994 |
+| 19UUB3F79FA008023 | 2015 Acura TLX | $35,000 | $18,790 | -$16,210 |
+| 4S3BNAR63J3011369 | 2018 Subaru Legacy | $25,000 | $14,483 | -$10,517 |
+| 4JGFD6BB2MA253185 | 2021 Mercedes-Benz GLE | $68,985 | $61,003 | -$7,982 |
+| W1KAF4HB7TR306053 | 2026 Mercedes-Benz C 300 | $60,590 | $52,900 | -$7,690 |
+| 1V2KE2CA0RC215687 | 2024 Volkswagen Atlas Cross Sport | $40,489 | $33,989 | -$6,500 |
+| SALE2EFE5S2368299 | 2025 Land Rover Defender 110 | $95,995 | $89,995 | -$6,000 |
+| SALRL4EU1S2517681 | 2025 Land Rover Discovery | $63,990 | $57,990 | -$6,000 |
+| 4JGFF5KE2PA882562 | 2023 Mercedes-Benz GLS | $69,895 | $63,899 | -$5,996 |
+| 5J8YE1H31TL019038 | 2026 Acura MDX | $56,440 | $50,488 | -$5,952 |
+| SALCL2FXXSH366131 | 2025 Land Rover Discovery Sport | $45,690 | $39,990 | -$5,700 |
+| 4JGFB5KB5TB610738 | 2026 Mercedes-Benz GLE 450 | $79,910 | $74,900 | -$5,010 |
+| SALKP9E90SA280606 | 2025 Land Rover Range Rover | $124,995 | $119,995 | -$5,000 |
+| W1NKM4HB9TF469012 | 2026 Mercedes-Benz GLC 300 | $57,685 | $52,900 | -$4,785 |
+| W1NKM4HB7TF513444 | 2026 Mercedes-Benz GLC 300 | $59,600 | $54,900 | -$4,700 |
+| 4JGFB4FBXTB513121 | 2026 Mercedes-Benz GLE 350 | $73,190 | $68,900 | -$4,290 |
+| SALRL4EU2S2506088 | 2025 Land Rover Discovery | $62,990 | $58,990 | -$4,000 |
+| SALCL2FX8SH371229 | 2025 Land Rover Discovery Sport | $43,990 | $39,990 | -$4,000 |
+| SALE27EUXS2417677 | 2025 Land Rover Defender | $74,990 | $71,690 | -$3,300 |
+| 3CZRU6H70KM712521 | 2019 Honda HR-V | $23,081 | $19,840 | -$3,241 |
+| 1FA6P8SJ0M5504069 | 2021 Ford Mustang | $89,226 | $85,989 | -$3,237 |
+| 1FMSK8DH4PGB64883 | 2023 Ford Explorer | $31,485 | $28,485 | -$3,000 |
+| 3C63R3GL7MG688138 | 2021 Ram 3500 | $33,485 | $30,485 | -$3,000 |
+| 1GC1KNE74SF344917 | 2025 Chevrolet Silverado 2500HD | $52,690 | $49,690 | -$3,000 |

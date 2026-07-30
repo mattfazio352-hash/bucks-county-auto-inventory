@@ -739,3 +739,38 @@
 | 1FMSK8DH4PGB64883 | 2023 Ford Explorer | $31,485 | $28,485 | -$3,000 |
 | 3C63R3GL7MG688138 | 2021 Ram 3500 | $33,485 | $30,485 | -$3,000 |
 | 1GC1KNE74SF344917 | 2025 Chevrolet Silverado 2500HD | $52,690 | $49,690 | -$3,000 |
+
+## 2026-07-30
+
+- New listings: 123
+- Removed / sold: 1320
+- Price changes: 254
+- Biggest price drop: null null null $42,594 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5TDKDRBH8RS532160 | null null null | $42,594 | $2,000 | -$40,594 |
+| 5J8YE1H8XPL035868 | null null null | $42,164 | $2,000 | -$40,164 |
+| 1FMEE5DP6PLB19901 | null null null | $41,985 | $5,745 | -$36,240 |
+| 5NMJCCDE0TH616837 | null null null | $34,178 | $240 | -$33,938 |
+| 2HKRS4H76RH416564 | null null null | $33,980 | $100 | -$33,880 |
+| KNDPXCDG8R7123536 | null null null | $33,969 | $175 | -$33,794 |
+| KM8R7DGE1PU593202 | null null null | $33,903 | $150 | -$33,753 |
+| 1FTEW1EP3PKD28933 | null null null | $33,573 | $500 | -$33,073 |
+| 1C6JJTEG0ML527038 | null null null | $34,634 | $1,595 | -$33,039 |
+| 2LMPJ8K94NBL27545 | null null null | $33,966 | $1,000 | -$32,966 |
+| KMUMADTB5PU135252 | null null null | $36,030 | $3,750 | -$32,280 |
+| 58ADZ1B10LU073468 | null null null | $33,594 | $1,375 | -$32,219 |
+| 3GTP9EEL1LG278006 | null null null | $34,780 | $2,855 | -$31,925 |
+| 3FMTK3SUXPMA76725 | null null null | $32,666 | $2,000 | -$30,666 |
+| 1C6SRFJT0MN732722 | null null null | $33,969 | $3,795 | -$30,174 |
+| 3GKALUEG2TL214833 | null null null | $29,477 | $100 | -$29,377 |
+| 5XYRHDLF5PG213991 | null null - Heated front bucket seats with power adjustment | $28,990 | $490 | -$28,500 |
+| 5N1AZ2CS6PC134230 | null null null | $28,105 | $100 | -$28,005 |
+| JN8BT3CB0PW472841 | null null null | $27,042 | $500 | -$26,542 |
+| 5N1BT3BB8PC785050 | null null null | $24,412 | $100 | -$24,312 |
+| 5N1DR3BC0NC237668 | null null null | $24,486 | $500 | -$23,986 |
+| SHHFK7H65LU408360 | null null null | $23,480 | $2,000 | -$21,480 |
+| KM8R3DHE2LU080013 | null null null | $22,897 | $3,100 | -$19,797 |
+| JN8AT2MV2KW385465 | null null null | $18,226 | $3,530 | -$14,696 |
+| JNXHF16C0MT000411 | 1991 INFINITI M30 | $17,440 | $12,489 | -$4,951 |

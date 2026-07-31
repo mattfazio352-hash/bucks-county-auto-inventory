@@ -774,3 +774,38 @@
 | KM8R3DHE2LU080013 | null null null | $22,897 | $3,100 | -$19,797 |
 | JN8AT2MV2KW385465 | null null null | $18,226 | $3,530 | -$14,696 |
 | JNXHF16C0MT000411 | 1991 INFINITI M30 | $17,440 | $12,489 | -$4,951 |
+
+## 2026-07-31
+
+- New listings: 1329
+- Removed / sold: 134
+- Price changes: 230
+- Biggest price drop: null null null $32,573 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5N1DR3CC0PC208267 | null null null | $32,573 | $2,000 | -$30,573 |
+| 1C4RJKBG5M8139848 | null null null | $24,485 | $490 | -$23,995 |
+| 2FMPK4J93NBA01108 | null null null | $21,990 | $1,295 | -$20,695 |
+| 3GTU2WEC8EG477098 | 2014 GMC Sierra 1500 | $30,390 | $28,489 | -$1,901 |
+| 5YMJU0C05M9E05870 | 2021 BMW X5 M | $58,990 | $57,190 | -$1,800 |
+| KNDETCA76R7479216 | 2024 Kia Seltos | $27,702 | $25,949 | -$1,753 |
+| 1FM5K8F84JGA89474 | 2018 Ford Explorer | $15,722 | $13,982 | -$1,740 |
+| 5UX23EM04P9S01928 | 2023 BMW X7 | $49,135 | $47,487 | -$1,648 |
+| 1FTER4FH6PLE21519 | null null null | $2,000 | $495 | -$1,505 |
+| 3MW5R7J06M8B66941 | 2021 BMW 3 Series | $27,518 | $26,102 | -$1,416 |
+| 5N1DR3CD8NC256508 | 2022 Nissan Pathfinder | $28,414 | $27,420 | -$994 |
+| WA1ACBF76PD014350 | 2023 Audi Q7 | $37,414 | $36,420 | -$994 |
+| WA1B4AFY4P2112535 | 2023 Audi SQ5 | $43,414 | $42,420 | -$994 |
+| WA124AFY9P2166087 | 2023 Audi SQ5 Sportback | $46,414 | $45,420 | -$994 |
+| WA1LVBF76SD030625 | 2025 Audi Q7 | $54,414 | $53,420 | -$994 |
+| 1FT8W3BT1KEG13700 | 2019 Ford F-350 | $40,384 | $39,425 | -$959 |
+| 3C6LRVDG0PE605782 | 2023 Ram Promaster 2500 | $32,390 | $31,489 | -$901 |
+| 1GKENKRS0SJ155690 | 2025 GMC Acadia | $37,390 | $36,489 | -$901 |
+| 3C6UR5FL1RG114403 | 2024 Ram 2500 | $54,390 | $53,489 | -$901 |
+| 5NPEL4JA3MH083184 | 2021 Hyundai Sonata | $15,977 | $15,179 | -$798 |
+| WA1VXBF72PD002766 | 2023 Audi Q7 | $28,924 | $28,223 | -$701 |
+| 1FTMF1CB7KKE02382 | null null null | $2,000 | $1,305 | -$695 |
+| WBX57DP08PN229167 | 2023 BMW X3 | $35,014 | $34,320 | -$694 |
+| 1C4PJMDN1KD292827 | 2019 Jeep Cherokee | $21,985 | $21,378 | -$607 |
+| 3VVEX7B23PM371347 | 2023 Volkswagen Taos | $21,015 | $20,420 | -$595 |

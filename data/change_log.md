@@ -809,3 +809,38 @@
 | WBX57DP08PN229167 | 2023 BMW X3 | $35,014 | $34,320 | -$694 |
 | 1C4PJMDN1KD292827 | 2019 Jeep Cherokee | $21,985 | $21,378 | -$607 |
 | 3VVEX7B23PM371347 | 2023 Volkswagen Taos | $21,015 | $20,420 | -$595 |
+
+## 2026-08-01
+
+- New listings: 198
+- Removed / sold: 120
+- Price changes: 302
+- Biggest price drop: null null null $72,366 -> $1,815
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GC4KUEY5SF205069 | null null null | $72,366 | $1,815 | -$70,551 |
+| 1C6SRFJT0NN248535 | null null null | $33,375 | $2,000 | -$31,375 |
+| JF1VBAU64N8023025 | null null null | $30,489 | $121 | -$30,368 |
+| 5TDFZRBH7MS080715 | null null null | $31,593 | $2,000 | -$29,593 |
+| KNAG64J78S5328379 | null null null | $28,467 | $2,000 | -$26,467 |
+| 3CZRZ2H33PM745964 | null null null | $24,088 | $100 | -$23,988 |
+| 4T1T11BK4PU077354 | null null null | $24,593 | $2,000 | -$22,593 |
+| 3N1CN8EV9RL889000 | null null null | $15,713 | $2,000 | -$13,713 |
+| 1G1YC2D44N5102150 | 2022 Chevrolet Corvette | $95,487 | $85,801 | -$9,686 |
+| SAL109F92RA194917 | 2024 Land Rover Range Rover Sport | $137,990 | $132,990 | -$5,000 |
+| 4S3BWAB61S3021875 | 2025 Subaru Legacy | $28,979 | $25,479 | -$3,500 |
+| SALK19E79PA033236 | 2023 Land Rover Range Rover | $98,890 | $96,290 | -$2,600 |
+| 1GKS2KKL0PR320547 | 2023 GMC Yukon XL | $68,485 | $65,924 | -$2,561 |
+| 1GCRYDED9LZ374948 | 2020 Chevrolet Silverado 1500 | $25,916 | $23,478 | -$2,438 |
+| SAL1L9FU3PA143466 | 2023 Land Rover Range Rover Sport | $76,490 | $74,290 | -$2,200 |
+| 1C4AJWBG0DL657335 | 2013 Jeep Wrangler | $16,487 | $14,478 | -$2,009 |
+| 3C6MRVHG2RE130914 | 2024 Ram Promaster Cargo Van | $45,489 | $43,488 | -$2,001 |
+| 1FMJU1JT0LEA32117 | 2020 Ford Expedition | $30,478 | $28,478 | -$2,000 |
+| 3FMTK4SX1PMA81442 | 2023 Ford Mustang Mach-E | $32,478 | $30,478 | -$2,000 |
+| 1FTEW1EP7PFB91570 | 2023 Ford F-150 | $39,485 | $37,485 | -$2,000 |
+| SAL1L9FU5RA198178 | 2024 Land Rover Range Rover Sport | $80,990 | $78,990 | -$2,000 |
+| SAL1L9FU1SA438302 | 2025 Land Rover Range Rover Sport | $92,990 | $90,990 | -$2,000 |
+| JTJGB7CX5R4049207 | 2024 LEXUS LX 600 | $98,990 | $96,990 | -$2,000 |
+| 5N1DL0MM8LC506521 | 2020 INFINITI QX60 | $20,467 | $18,487 | -$1,980 |
+| 3FMCR9B64NRE15673 | 2022 Ford Bronco Sport | $25,440 | $23,478 | -$1,962 |

@@ -844,3 +844,38 @@
 | JTJGB7CX5R4049207 | 2024 LEXUS LX 600 | $98,990 | $96,990 | -$2,000 |
 | 5N1DL0MM8LC506521 | 2020 INFINITI QX60 | $20,467 | $18,487 | -$1,980 |
 | 3FMCR9B64NRE15673 | 2022 Ford Bronco Sport | $25,440 | $23,478 | -$1,962 |
+
+## 2026-08-02
+
+- New listings: 198
+- Removed / sold: 229
+- Price changes: 277
+- Biggest price drop: null null null $45,175 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5N1AL1FS1TC337804 | null null null | $45,175 | $490 | -$44,685 |
+| 1C4PJXEN2TW186022 | null null null | $40,282 | $2,000 | -$38,282 |
+| 1FTEW1EPXNFB99529 | null null null | $33,917 | $2,000 | -$31,917 |
+| JF2SKAMC2RH501579 | null null null | $31,256 | $2,000 | -$29,256 |
+| 3MW89FF01P8C84951 | null null null | $29,970 | $2,000 | -$27,970 |
+| 1C6RR7GG0MS511010 | null null null | $27,094 | $795 | -$26,299 |
+| 1C4JJXP60NW278728 | null null null | $25,828 | $1,195 | -$24,633 |
+| YV4L12RN8P1203305 | null null null | $24,023 | $490 | -$23,533 |
+| WA1BAAFY8M2012216 | null null null | $23,588 | $4,800 | -$18,788 |
+| 3VVUX7B28PM368469 | null null null | $20,415 | $2,000 | -$18,415 |
+| KMHLS4AG3PU559826 | null null null | $20,410 | $2,000 | -$18,410 |
+| 5J8TB4H76JL009769 | 2018 Acura RDX | $35,000 | $25,265 | -$9,735 |
+| 7FARS6H51RE021706 | 2024 Honda CR-V Hybrid | $37,435 | $32,009 | -$5,426 |
+| 1FTFW1ED8PFC11545 | 2023 Ford F-150 | $41,573 | $36,573 | -$5,000 |
+| WAULDAF84PN012523 | 2023 Audi A8 | $47,489 | $44,489 | -$3,000 |
+| 1FMUK8KH0SGC10147 | 2025 Ford Explorer | $46,478 | $43,478 | -$3,000 |
+| SALZJ2FX3TH289619 | 2026 Land Rover Range Rover Evoque | $43,995 | $40,995 | -$3,000 |
+| KNDPVCAGXP7069356 | 2023 Kia Sportage Hybrid | $24,397 | $21,489 | -$2,908 |
+| 1FM5K8HC2MGB66901 | 2021 Ford Explorer | $27,205 | $24,477 | -$2,728 |
+| 1GCEC14X09Z101140 | 2009 Chevrolet Silverado 1500 | $10,473 | $8,073 | -$2,400 |
+| 1FTEW1EP3PKD28933 | 2023 Ford F-150 | $33,573 | $31,573 | -$2,000 |
+| 5FNRL6H62SB058142 | 2025 Honda Odyssey | $36,467 | $34,467 | -$2,000 |
+| SALZJ2FX2TH289630 | 2026 Land Rover Range Rover Evoque | $42,995 | $40,995 | -$2,000 |
+| WA1B4AFY1S2018752 | 2025 Audi SQ5 | $52,480 | $50,489 | -$1,991 |
+| 1GCUDEED8RZ137212 | 2024 Chevrolet Silverado 1500 | $47,429 | $45,470 | -$1,959 |

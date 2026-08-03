@@ -879,3 +879,38 @@
 | SALZJ2FX2TH289630 | 2026 Land Rover Range Rover Evoque | $42,995 | $40,995 | -$2,000 |
 | WA1B4AFY1S2018752 | 2025 Audi SQ5 | $52,480 | $50,489 | -$1,991 |
 | 1GCUDEED8RZ137212 | 2024 Chevrolet Silverado 1500 | $47,429 | $45,470 | -$1,959 |
+
+## 2026-08-03
+
+- New listings: 43
+- Removed / sold: 127
+- Price changes: 76
+- Biggest price drop: null null null $20,280 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GYKNBRS2JZ103597 | null null null | $20,280 | $2,000 | -$18,280 |
+| 1HGCY2F81PA036249 | 2023 Honda Accord Hybrid | $32,260 | $30,487 | -$1,773 |
+| KNDEPCAA8M7046117 | 2021 Kia Seltos | $15,106 | $14,084 | -$1,022 |
+| JF2GTHMC4N8274286 | 2022 Subaru Crosstrek | $25,289 | $24,289 | -$1,000 |
+| 1GTUUDEDXSZ132643 | 2025 GMC Sierra 1500 | $41,488 | $40,488 | -$1,000 |
+| 5NMS2DAJ2NH479367 | 2022 Hyundai Santa Fe | $23,632 | $22,734 | -$898 |
+| 5XXGU4L10LG448434 | 2020 Kia Optima | $18,485 | $17,662 | -$823 |
+| 2HKRW2H95JH677263 | 2018 Honda CR-V | $21,647 | $20,859 | -$788 |
+| 5N1BT3BBXRC751128 | 2024 Nissan Rogue | $22,201 | $21,488 | -$713 |
+| 1FTER4FH0PLE35447 | null null null | $2,000 | $1,295 | -$705 |
+| 19XFL2H8XTE018864 | 2026 Honda Civic | $28,788 | $28,088 | -$700 |
+| 5FNRL6H71RB030772 | 2024 Honda Odyssey | $35,688 | $34,988 | -$700 |
+| 1HGCY1F48SA033557 | 2025 Honda Accord | $28,088 | $27,488 | -$600 |
+| 5FNRL6H71PB045981 | 2023 Honda Odyssey | $38,088 | $37,488 | -$600 |
+| 5FNYF8H8XRB000628 | 2024 Honda Passport | $42,688 | $42,088 | -$600 |
+| 2HKRS4H7XSH475848 | 2025 Honda CR-V | $37,765 | $37,188 | -$577 |
+| 2HGFE2F51PH530172 | 2023 Honda Civic | $23,035 | $22,488 | -$547 |
+| KMHLM4DJ5TU184405 | 2026 Hyundai Elantra Hybrid | $26,289 | $25,774 | -$515 |
+| 4S3GKAB69L3613172 | 2020 Subaru Impreza | $19,288 | $18,788 | -$500 |
+| 1FMCU9G69NUB53441 | 2022 Ford Escape | $22,488 | $21,988 | -$500 |
+| 5J6RS6H57SL041693 | 2025 Honda CR-V Hybrid | $35,988 | $35,488 | -$500 |
+| 5FNYG1H44SB083416 | 2025 Honda Pilot | $39,988 | $39,488 | -$500 |
+| 5FNYG1H86SB003939 | 2025 Honda Pilot | $47,688 | $47,188 | -$500 |
+| 1FMSK8DH0NGC34585 | 2022 Ford Explorer | $29,929 | $29,467 | -$462 |
+| 2HGFE2F5XRH506844 | 2024 Honda Civic | $27,788 | $27,378 | -$410 |

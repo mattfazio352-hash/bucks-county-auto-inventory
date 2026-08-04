@@ -914,3 +914,38 @@
 | 5FNYG1H86SB003939 | 2025 Honda Pilot | $47,688 | $47,188 | -$500 |
 | 1FMSK8DH0NGC34585 | 2022 Ford Explorer | $29,929 | $29,467 | -$462 |
 | 2HGFE2F5XRH506844 | 2024 Honda Civic | $27,788 | $27,378 | -$410 |
+
+## 2026-08-04
+
+- New listings: 131
+- Removed / sold: 49
+- Price changes: 322
+- Biggest price drop: null null null $27,444 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GYKNBR40PZ180396 | null null null | $27,444 | $490 | -$26,954 |
+| WVWDB7AJ3EW009789 | 2014 Volkswagen Golf | $30,000 | $9,937 | -$20,063 |
+| KL77LFE23RC112075 | null null null | $19,125 | $2,000 | -$17,125 |
+| 1FDUF5HT5LEC54009 | 2020 Ford F-550SD | $34,084 | $28,220 | -$5,864 |
+| SADCT2EX9SA743845 | 2025 Jaguar F-PACE | $60,333 | $54,995 | -$5,338 |
+| W1KMK4HBXSF053464 | 2025 Mercedes-Benz CLE | $65,895 | $61,922 | -$3,973 |
+| 1FTFW1E84PFA57547 | 2023 Ford F-150 | $46,229 | $42,517 | -$3,712 |
+| SADCT2FUXSA754129 | 2025 Jaguar F-PACE | $61,495 | $57,995 | -$3,500 |
+| 1FTEX1EP8PKE06765 | 2023 Ford F-150 | $36,738 | $33,255 | -$3,483 |
+| 5N1AL1FS2TC337830 | 2026 INFINITI QX60 | $49,490 | $46,986 | -$2,504 |
+| 1FTFW1E8XNFB57293 | 2022 Ford F-150 | $43,341 | $41,171 | -$2,170 |
+| W1NKM4HB9SF397548 | 2025 Mercedes-Benz GLC | $46,981 | $44,881 | -$2,100 |
+| SALKP9FU9PA048564 | 2023 Land Rover Range Rover | $93,995 | $91,995 | -$2,000 |
+| SAL1L9FU9RA158914 | 2024 Land Rover Range Rover Sport | $72,995 | $70,995 | -$2,000 |
+| 1FTFW1E81PFB31815 | 2023 Ford F-150 | $52,279 | $50,380 | -$1,899 |
+| 1FMSK8DH0PGB33470 | 2023 Ford Explorer | $33,196 | $31,300 | -$1,896 |
+| JF2GPABC9G8291635 | 2016 Subaru Crosstrek | $13,841 | $11,978 | -$1,863 |
+| 1FTEW1EP4MKD93057 | 2021 Ford F-150 | $27,346 | $25,483 | -$1,863 |
+| 4T1BE30K42U102356 | 2002 Toyota Camry | $8,485 | $6,889 | -$1,596 |
+| 5NMMDDTC5TH035866 | 2026 Genesis GV70 | $57,999 | $56,477 | -$1,522 |
+| JN8AS5MV5DW620495 | 2013 Nissan Rogue | $9,285 | $7,930 | -$1,355 |
+| JN8AZ2NE7K9231474 | 2019 INFINITI QX80 | $29,480 | $28,142 | -$1,338 |
+| 1FTBR1Y8XSKA55853 | 2025 Ford Transit-250 | $37,303 | $35,984 | -$1,319 |
+| 5XYRKDLF5PG233773 | 2023 Kia Sorento | $32,910 | $31,616 | -$1,294 |
+| JTDEPRAE2LJ032446 | 2020 Toyota Corolla | $20,000 | $18,789 | -$1,211 |

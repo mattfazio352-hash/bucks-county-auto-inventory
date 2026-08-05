@@ -949,3 +949,38 @@
 | 1FTBR1Y8XSKA55853 | 2025 Ford Transit-250 | $37,303 | $35,984 | -$1,319 |
 | 5XYRKDLF5PG233773 | 2023 Kia Sorento | $32,910 | $31,616 | -$1,294 |
 | JTDEPRAE2LJ032446 | 2020 Toyota Corolla | $20,000 | $18,789 | -$1,211 |
+
+## 2026-08-05
+
+- New listings: 136
+- Removed / sold: 167
+- Price changes: 519
+- Biggest price drop: null null null $44,990 -> $269
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5TFAY5F14LX938248 | null null null | $44,990 | $269 | -$44,721 |
+| JTHBZ1E28R5034457 | null null null | $45,093 | $405 | -$44,688 |
+| 5NMP5DGLXSH126943 | null null null | $44,638 | $195 | -$44,443 |
+| 1GCUDGED0NZ598166 | null null null | $44,440 | $100 | -$44,340 |
+| 1FD9X4GN4LED06939 | null null null | $44,485 | $250 | -$44,235 |
+| 1FMJK2A89PEA54808 | null null null | $44,580 | $595 | -$43,985 |
+| 1FA6P8CF3R5409877 | null null null | $44,068 | $500 | -$43,568 |
+| 5TDJRKEC3RS195157 | null null null | $44,993 | $2,000 | -$42,993 |
+| 3C6UR5CJXSG569355 | null null null | $44,849 | $2,295 | -$42,554 |
+| 1G1YB2D71G5111789 | null null null | $40,485 | $490 | -$39,995 |
+| 1N6AA1ED5PN114427 | null null null | $40,485 | $490 | -$39,995 |
+| 3GCUDDE82PG335844 | null null null | $40,039 | $490 | -$39,549 |
+| 1GYS4CKJ0LR148180 | null null null | $39,985 | $490 | -$39,495 |
+| 5TFLA5EC3PX015085 | null null null | $39,985 | $490 | -$39,495 |
+| 1FMEE7BH9SLA49763 | null null null | $44,485 | $6,175 | -$38,310 |
+| 5J8YE1H35PL023423 | null null null | $37,488 | $2,000 | -$35,488 |
+| 5NMJECDE1SH504394 | null null null | $34,657 | $240 | -$34,417 |
+| 2C4RC3GG1NR238374 | null null null | $31,246 | $2,495 | -$28,751 |
+| 2HGFE4F87SH315104 | null null null | $29,593 | $2,000 | -$27,593 |
+| 1C4RJHAGXPC568912 | null null null | $31,255 | $4,605 | -$26,650 |
+| KM8HBCAB3SU333511 | null null null | $24,587 | $195 | -$24,392 |
+| JF2SKAWC7KH490940 | null null null | $23,597 | $490 | -$23,107 |
+| KM8HECA39RU120380 | null null null | $24,592 | $2,000 | -$22,592 |
+| 5N1DL0MM9LC511582 | null null null | $22,045 | $100 | -$21,945 |
+| 3CZRZ2H71RM700592 | 2024 Honda HR-V | $32,085 | $29,484 | -$2,601 |

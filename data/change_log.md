@@ -984,3 +984,38 @@
 | KM8HECA39RU120380 | null null null | $24,592 | $2,000 | -$22,592 |
 | 5N1DL0MM9LC511582 | null null null | $22,045 | $100 | -$21,945 |
 | 3CZRZ2H71RM700592 | 2024 Honda HR-V | $32,085 | $29,484 | -$2,601 |
+
+## 2026-08-06
+
+- New listings: 156
+- Removed / sold: 134
+- Price changes: 361
+- Biggest price drop: null null null $27,183 -> $175
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KNDPVCAG6P7013012 | null null null | $27,183 | $175 | -$27,008 |
+| 4JGFF5KE8TB522572 | 2026 Mercedes-Benz GLS | $100,760 | $89,645 | -$11,115 |
+| 4JGFF5KE4TB513917 | 2026 Mercedes-Benz GLS | $98,450 | $87,738 | -$10,712 |
+| 4JGFB4FB9TB653130 | 2026 Mercedes-Benz GLE | $75,135 | $67,450 | -$7,685 |
+| 4JGFB4FB8TB623195 | 2026 Mercedes-Benz GLE | $76,415 | $69,082 | -$7,333 |
+| 4JGFB4FB8TB638148 | 2026 Mercedes-Benz GLE | $72,815 | $66,082 | -$6,733 |
+| W1NKM4HB0TF571749 | 2026 Mercedes-Benz GLC | $58,470 | $53,018 | -$5,452 |
+| W1NKM4HBXTU117679 | 2026 Mercedes-Benz GLC | $57,535 | $52,205 | -$5,330 |
+| W1NKM4HB2TF599486 | 2026 Mercedes-Benz GLC | $58,385 | $53,103 | -$5,282 |
+| W1NKM4HB8TF584331 | 2026 Mercedes-Benz GLC | $58,470 | $53,456 | -$5,014 |
+| ZAM45VMA1K0341540 | 2019 Maserati GranTurismo | $90,485 | $85,485 | -$5,000 |
+| W1NKM4HB8TF512898 | 2026 Mercedes-Benz GLC | $57,375 | $52,432 | -$4,943 |
+| W1NKM4HB1TF495538 | 2026 Mercedes-Benz GLC | $58,485 | $53,567 | -$4,918 |
+| W1NKM4HB5TF547608 | 2026 Mercedes-Benz GLC | $56,475 | $51,954 | -$4,521 |
+| W1NKM4HB4TF596217 | 2026 Mercedes-Benz GLC | $58,205 | $54,115 | -$4,090 |
+| W1NKM4HB9TF573063 | 2026 Mercedes-Benz GLC | $56,120 | $52,104 | -$4,016 |
+| SALZJ2FX7SH266911 | 2025 Land Rover Range Rover Evoque | $44,990 | $41,990 | -$3,000 |
+| ZAM45VMA9K0326929 | 2019 Maserati GranTurismo | $83,485 | $80,485 | -$3,000 |
+| WDDZF4KB8JA372781 | 2018 Mercedes-Benz E-Class | $24,895 | $22,320 | -$2,575 |
+| 19XFL2H85PE010404 | 2023 Honda Civic | $27,735 | $25,212 | -$2,523 |
+| 7MMVABDM7SN392282 | 2025 Mazda CX-50 | $32,267 | $29,787 | -$2,480 |
+| 1C6SRFFT5KN796504 | 2019 Ram 1500 | $32,390 | $29,989 | -$2,401 |
+| 1FT7W2BT6PED50813 | 2023 Ford F-250 | $76,680 | $74,290 | -$2,390 |
+| 1FMWK8GC8SGB36952 | 2025 Ford Explorer | $53,516 | $51,128 | -$2,388 |
+| ZN661YUS2MX375143 | 2021 Maserati Levante | $48,785 | $46,485 | -$2,300 |

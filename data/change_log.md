@@ -1019,3 +1019,38 @@
 | 1FT7W2BT6PED50813 | 2023 Ford F-250 | $76,680 | $74,290 | -$2,390 |
 | 1FMWK8GC8SGB36952 | 2025 Ford Explorer | $53,516 | $51,128 | -$2,388 |
 | ZN661YUS2MX375143 | 2021 Maserati Levante | $48,785 | $46,485 | -$2,300 |
+
+## 2026-08-07
+
+- New listings: 137
+- Removed / sold: 138
+- Price changes: 310
+- Biggest price drop: null null null $42,420 -> $100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| WA1B4AFY4P2112535 | null null null | $42,420 | $100 | -$42,320 |
+| 1FMEE5DP7PLC12846 | null null null | $44,020 | $2,000 | -$42,020 |
+| YV4M12RJ8T1329532 | null null null | $42,489 | $750 | -$41,739 |
+| 5J8TC2H81RL001049 | null null null | $40,046 | $490 | -$39,556 |
+| 5XYRLDJC4SG361839 | null null null | $30,388 | $235 | -$30,153 |
+| JM1NDAM70P0558741 | null null null | $29,553 | $185 | -$29,368 |
+| 5XYRKDLF3PG203347 | null null null | $30,289 | $2,000 | -$28,289 |
+| KM8R3DGE2PU576422 | null null null | $27,888 | $120 | -$27,768 |
+| 7MMVABBM3RN243705 | null null null | $27,456 | $490 | -$26,966 |
+| 1C4HJXDG7MW835919 | null null null | $25,255 | $490 | -$24,765 |
+| 5N1DR3BD7NC203316 | null null null | $21,985 | $2,170 | -$19,815 |
+| KMHRC8A35RU289643 | null null null | $19,587 | $2,000 | -$17,587 |
+| 1FT8X3BT8LED10024 | 2020 Ford F-350 | $44,309 | $35,173 | -$9,136 |
+| ZAM45VMA5K0329343 | 2019 Maserati Granturismo Convertible | $81,995 | $74,995 | -$7,000 |
+| WVWEB7CD8RW220908 | 2024 Volkswagen Golf R | $48,250 | $43,480 | -$4,770 |
+| WA125AGU4T2023261 | 2026 Audi SQ5 | $65,995 | $63,349 | -$2,646 |
+| 3MVDMBCL6TM120344 | 2026 Mazda CX-30 | $32,845 | $30,366 | -$2,479 |
+| ZAM57YSS3PX423778 | 2023 Maserati Ghibli | $61,995 | $59,995 | -$2,000 |
+| 5LMJJ3TG6PEL15192 | 2023 Lincoln Navigator L | $64,268 | $62,485 | -$1,783 |
+| 2LMPJ8KP7PBL09493 | 2023 Lincoln Nautilus | $36,902 | $35,385 | -$1,517 |
+| WDD2J5KB3KA027679 | 2019 Mercedes-Benz CLS | $37,989 | $36,485 | -$1,504 |
+| 5FNYG1H46SB075706 | 2025 Honda Pilot | $41,888 | $40,488 | -$1,400 |
+| 1N6ED1EK2SN643818 | 2025 Nissan Frontier | $42,833 | $41,490 | -$1,343 |
+| 2HGFE2F5XPH560349 | 2023 Honda Civic | $24,275 | $22,958 | -$1,317 |
+| 5LMJJ3TG1REL17127 | 2024 Lincoln Navigator L | $71,707 | $70,485 | -$1,222 |

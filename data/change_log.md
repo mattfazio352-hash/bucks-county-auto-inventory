@@ -1054,3 +1054,38 @@
 | 1N6ED1EK2SN643818 | 2025 Nissan Frontier | $42,833 | $41,490 | -$1,343 |
 | 2HGFE2F5XPH560349 | 2023 Honda Civic | $24,275 | $22,958 | -$1,317 |
 | 5LMJJ3TG1REL17127 | 2024 Lincoln Navigator L | $71,707 | $70,485 | -$1,222 |
+
+## 2026-08-08
+
+- New listings: 121
+- Removed / sold: 99
+- Price changes: 370
+- Biggest price drop: null null null $36,175 -> $1,200
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1G6DH5RLXM0146161 | null null null | $36,175 | $1,200 | -$34,975 |
+| 1FMDE5BH7PLA98144 | null null null | $31,978 | $2,000 | -$29,978 |
+| WAUABAF40PA010379 | null null null | $26,020 | $2,000 | -$24,020 |
+| JF2SKAMC3PH493568 | null null null | $25,580 | $2,000 | -$23,580 |
+| KMHRC8A32PU230739 | null null null | $19,464 | $2,000 | -$17,464 |
+| 3GKALTEV7ML319295 | null null null | $16,700 | $1,375 | -$15,325 |
+| W1NKM8AB9SF300611 | 2025 Mercedes-Benz GLC | $91,850 | $77,981 | -$13,869 |
+| 4JGFB5KB3TB590456 | 2026 Mercedes-Benz GLE 450 | $79,320 | $73,900 | -$5,420 |
+| 1C6SRFU97PN500302 | 2023 Ram 1500 | $82,900 | $78,989 | -$3,911 |
+| 4JGFB4FB5TB516847 | 2026 Mercedes-Benz GLE 350 | $72,500 | $68,900 | -$3,600 |
+| 3GCPYFEL1LG419956 | 2020 Chevrolet Silverado 1500 | $43,390 | $39,989 | -$3,401 |
+| 1C6RR7LG1RS155356 | 2024 Ram 1500 Classic | $37,900 | $34,989 | -$2,911 |
+| 1FMCU9H91LUA82810 | 2020 Ford Escape | $24,485 | $21,984 | -$2,501 |
+| 1FMJU2AT2NEA47601 | 2022 Ford Expedition | $47,474 | $45,476 | -$1,998 |
+| 3C6UR5CJ2SG523051 | 2025 Ram 2500 | $45,177 | $43,614 | -$1,563 |
+| 5TFLA5DB7PX129602 | 2023 Toyota Tundra | $42,248 | $40,693 | -$1,555 |
+| 5NMMEDTC6TH035517 | 2026 Genesis GV70 | $66,383 | $64,840 | -$1,543 |
+| 1FTEW3LP4SKE30958 | 2025 Ford F-150 | $41,485 | $39,985 | -$1,500 |
+| 1GKS2JKL8NR354520 | 2022 GMC Yukon XL | $56,489 | $54,989 | -$1,500 |
+| 3FTTW8E95NRA07714 | 2022 Ford Maverick | $25,930 | $24,481 | -$1,449 |
+| KL79MUSL1PB050606 | 2023 Chevrolet Trailblazer | $28,390 | $26,989 | -$1,401 |
+| 5FNYF8H5XMB000661 | 2021 Honda Passport | $28,153 | $26,856 | -$1,297 |
+| 1C4RJXR67RW127536 | 2024 Jeep Wrangler 4xe | $40,489 | $39,233 | -$1,256 |
+| 1C6RRFFG8PN583474 | 2023 Ram 1500 | $37,357 | $36,143 | -$1,214 |
+| 1FTEW1EP4LFB97059 | 2020 Ford F-150 | $23,482 | $22,363 | -$1,119 |

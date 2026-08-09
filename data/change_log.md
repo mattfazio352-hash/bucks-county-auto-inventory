@@ -1089,3 +1089,38 @@
 | 1C4RJXR67RW127536 | 2024 Jeep Wrangler 4xe | $40,489 | $39,233 | -$1,256 |
 | 1C6RRFFG8PN583474 | 2023 Ram 1500 | $37,357 | $36,143 | -$1,214 |
 | 1FTEW1EP4LFB97059 | 2020 Ford F-150 | $23,482 | $22,363 | -$1,119 |
+
+## 2026-08-09
+
+- New listings: 119
+- Removed / sold: 161
+- Price changes: 320
+- Biggest price drop: null null null $37,280 -> $995
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FMSK8FH9PGB23162 | null null null | $37,280 | $995 | -$36,285 |
+| KNDETCA20P7383390 | null null null | $22,108 | $175 | -$21,933 |
+| 3KPF34AD8ME279446 | null null null | $16,688 | $1,700 | -$14,988 |
+| W1NYC7HJ1RX511911 | 2024 Mercedes-Benz AMG G 63 | $189,900 | $184,900 | -$5,000 |
+| W1KZF6BB8PB168531 | 2023 Mercedes-Benz AMG E 53 | $67,900 | $65,900 | -$2,000 |
+| WP1BL2AY4TDA50198 | 2026 Porsche Cayenne Coupe | $115,995 | $113,995 | -$2,000 |
+| KMTG54TEXPU122397 | 2023 Genesis G70 | $43,051 | $41,071 | -$1,980 |
+| 1FMSK8DH3NGA96802 | 2022 Ford Explorer | $26,365 | $24,485 | -$1,880 |
+| 3CZRZ2H5XTM757895 | 2026 Honda HR-V | $31,487 | $29,639 | -$1,848 |
+| KM8RJES24TU069282 | null null null | $2,000 | $245 | -$1,755 |
+| 2HGFE2F53RH509696 | 2024 Honda Civic | $25,023 | $23,598 | -$1,425 |
+| 1V2LR2CA1JC527403 | 2018 Volkswagen Atlas | $19,285 | $17,934 | -$1,351 |
+| 5FNRL5H98GB056097 | 2016 Honda Odyssey | $17,640 | $16,421 | -$1,219 |
+| 4S4BTGLD1R3138421 | 2024 Subaru Outback | $28,592 | $27,384 | -$1,208 |
+| KM8R7DHE0MU295105 | 2021 Hyundai Palisade | $24,592 | $23,430 | -$1,162 |
+| KL79MSSL8RB044695 | 2024 Chevrolet Trailblazer | $22,489 | $21,489 | -$1,000 |
+| 3VV8B7AX0RM048644 | 2024 Volkswagen Tiguan | $26,489 | $25,489 | -$1,000 |
+| 3VVLR7RM0SM006187 | 2025 Volkswagen Tiguan | $38,489 | $37,489 | -$1,000 |
+| WA1AXBF76PD016121 | 2023 Audi Q7 | $39,489 | $38,489 | -$1,000 |
+| 1FMEE0RR0RLA28784 | 2024 Ford Bronco | $67,489 | $66,489 | -$1,000 |
+| 5J8YE1H41PL002495 | 2023 Acura MDX | $39,879 | $38,879 | -$1,000 |
+| KL77LKE20RC110647 | 2024 Chevrolet Trax | $23,900 | $22,900 | -$1,000 |
+| 1C4SJVBP3PS558789 | 2023 Jeep Wagoneer | $48,900 | $47,900 | -$1,000 |
+| W1K5J5BB7SN516219 | 2025 Mercedes-Benz AMG CLA 35 | $49,900 | $48,900 | -$1,000 |
+| W1KRJ8AB8RF001450 | 2024 Mercedes-Benz AMGÂ® GT | $129,981 | $128,981 | -$1,000 |

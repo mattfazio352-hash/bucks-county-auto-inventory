@@ -1124,3 +1124,38 @@
 | 1C4SJVBP3PS558789 | 2023 Jeep Wagoneer | $48,900 | $47,900 | -$1,000 |
 | W1K5J5BB7SN516219 | 2025 Mercedes-Benz AMG CLA 35 | $49,900 | $48,900 | -$1,000 |
 | W1KRJ8AB8RF001450 | 2024 Mercedes-Benz AMGÂ® GT | $129,981 | $128,981 | -$1,000 |
+
+## 2026-08-10
+
+- New listings: 51
+- Removed / sold: 134
+- Price changes: 52
+- Biggest price drop: 2023 Volvo XC90 $39,488 -> $37,488
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| YV4062PN2P1997256 | 2023 Volvo XC90 | $39,488 | $37,488 | -$2,000 |
+| 5XXGT4L30KG353522 | null null null | $2,000 | $130 | -$1,870 |
+| 4S4BSANC2J3340967 | 2018 Subaru Outback | $20,483 | $19,407 | -$1,076 |
+| 2HKRS4H77TH496075 | 2026 Honda CR-V | $38,805 | $37,797 | -$1,008 |
+| 4S4BTGUD4S3124887 | 2025 Subaru Outback | $36,978 | $36,177 | -$801 |
+| JTJBARBZ6K2199114 | 2019 LEXUS NX 300 | $25,188 | $24,488 | -$700 |
+| 5FNYG1H86SB003939 | 2025 Honda Pilot | $47,188 | $46,488 | -$700 |
+| 5FNRL6H84PB037060 | 2023 Honda Odyssey | $38,088 | $37,488 | -$600 |
+| 5FNYF8H8XRB000628 | 2024 Honda Passport | $42,088 | $41,488 | -$600 |
+| 4S4SLDD62T3009996 | 2026 Subaru Forester | $32,451 | $31,934 | -$517 |
+| KMHLM4DG6RU779082 | 2024 Hyundai Elantra | $20,488 | $19,988 | -$500 |
+| 1HGCY1F44SA065888 | 2025 Honda Accord | $29,488 | $28,988 | -$500 |
+| 1HGCY1F48SA063450 | 2025 Honda Accord | $29,488 | $28,988 | -$500 |
+| 1HGCY2F67SA089819 | 2025 Honda Accord Hybrid | $33,988 | $33,488 | -$500 |
+| 7FARS6H68TE053715 | 2026 Honda CR-V Hybrid | $39,888 | $39,388 | -$500 |
+| 5FNRL6H79TB027237 | 2026 Honda Odyssey | $43,488 | $42,988 | -$500 |
+| 4S4GUHU60S3747725 | 2025 Subaru Crosstrek | $32,478 | $31,989 | -$489 |
+| 5N1AZ2MS2KN128761 | 2019 Nissan Murano | $15,475 | $14,988 | -$487 |
+| 5J8TB4H70GL004625 | 2016 Acura RDX | $19,490 | $19,037 | -$453 |
+| JF1VA1H62M9814143 | 2021 Subaru WRX | $26,413 | $25,988 | -$425 |
+| 5FNRL6H8XPB051609 | 2023 Honda Odyssey | $34,388 | $33,988 | -$400 |
+| 2HKRS4H43RH482916 | 2024 Honda CR-V | $34,878 | $34,488 | -$390 |
+| 1HGCR2F33EA244275 | 2014 Honda Accord | $15,078 | $14,721 | -$357 |
+| 7MUFBABG2PV015519 | 2023 Toyota Corolla Cross Hybrid | $28,688 | $28,335 | -$353 |
+| 5NMS1DAJ3PH517016 | 2023 Hyundai Santa Fe | $20,288 | $19,988 | -$300 |

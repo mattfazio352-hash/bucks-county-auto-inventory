@@ -1159,3 +1159,38 @@
 | 1HGCR2F33EA244275 | 2014 Honda Accord | $15,078 | $14,721 | -$357 |
 | 7MUFBABG2PV015519 | 2023 Toyota Corolla Cross Hybrid | $28,688 | $28,335 | -$353 |
 | 5NMS1DAJ3PH517016 | 2023 Hyundai Santa Fe | $20,288 | $19,988 | -$300 |
+
+## 2026-08-11
+
+- New listings: 136
+- Removed / sold: 64
+- Price changes: 408
+- Biggest price drop: null null null $27,930 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FMSK8DH1PGB92057 | null null null | $27,930 | $2,000 | -$25,930 |
+| W1Y4NBHY5ST203469 | 2025 Mercedes-Benz Sprinter 2500 | $61,662 | $49,981 | -$11,681 |
+| SALK19E79PA033236 | 2023 Land Rover Range Rover | $96,290 | $89,990 | -$6,300 |
+| WA1B4AFY6R2057850 | 2024 Audi SQ5 | $47,084 | $41,940 | -$5,144 |
+| WB523CF00SCU75220 | 2025 BMW iX | $74,490 | $70,489 | -$4,001 |
+| SAL109F92RA194917 | 2024 Land Rover Range Rover Sport | $132,990 | $128,990 | -$4,000 |
+| 1FTFW1ED5PFC14080 | 2023 Ford F-150 | $50,418 | $46,467 | -$3,951 |
+| 2FMPK4J98RBB01310 | 2024 Ford Edge | $35,805 | $31,967 | -$3,838 |
+| 1FTFW1EDXPFD10187 | 2023 Ford F-150 | $46,199 | $43,358 | -$2,841 |
+| 1FMJU1J81SEA44514 | 2025 Ford Expedition | $60,201 | $57,431 | -$2,770 |
+| 1FMEE0RR6RLB48024 | 2024 Ford Bronco | $72,079 | $69,483 | -$2,596 |
+| 5XYK6CAF6PG114133 | 2023 Kia Sportage | $29,005 | $26,433 | -$2,572 |
+| 1FTFW1RG3RFB68322 | 2024 Ford F-150 | $77,923 | $75,363 | -$2,560 |
+| JM3KKBHD9T1387868 | 2026 Mazda CX-90 | $42,485 | $40,122 | -$2,363 |
+| 1FMJK1M82SEA17842 | 2025 Ford Expedition Max | $66,284 | $63,983 | -$2,301 |
+| WAUL2AF28KN049200 | 2019 Audi A6 | $26,296 | $24,047 | -$2,249 |
+| 1FTER4FH0LLA23359 | 2020 Ford Ranger | $27,479 | $25,257 | -$2,222 |
+| 1FMJU1J81SEA42794 | 2025 Ford Expedition | $59,581 | $57,423 | -$2,158 |
+| SALEWFFE7S2425581 | 2025 Land Rover Defender 130 | $103,995 | $101,995 | -$2,000 |
+| SAL1L9FU2PA111172 | 2023 Land Rover Range Rover Sport | $58,995 | $56,995 | -$2,000 |
+| 1FMJU2AT2NEA47601 | 2022 Ford Expedition | $45,476 | $43,478 | -$1,998 |
+| 1FMSK8DH0NGB25298 | 2022 Ford Explorer | $27,988 | $26,007 | -$1,981 |
+| 3FTTW8F91PRA87207 | 2023 Ford Maverick | $26,446 | $24,478 | -$1,968 |
+| 3FTTW8F95NRA96103 | 2022 Ford Maverick | $29,762 | $27,886 | -$1,876 |
+| JA4JZ4AX2HZ054687 | 2017 Mitsubishi Outlander | $12,140 | $10,276 | -$1,864 |

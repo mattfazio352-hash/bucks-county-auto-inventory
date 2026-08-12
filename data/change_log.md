@@ -1194,3 +1194,38 @@
 | 3FTTW8F91PRA87207 | 2023 Ford Maverick | $26,446 | $24,478 | -$1,968 |
 | 3FTTW8F95NRA96103 | 2022 Ford Maverick | $29,762 | $27,886 | -$1,876 |
 | JA4JZ4AX2HZ054687 | 2017 Mitsubishi Outlander | $12,140 | $10,276 | -$1,864 |
+
+## 2026-08-12
+
+- New listings: 135
+- Removed / sold: 156
+- Price changes: 530
+- Biggest price drop: null null null $48,485 -> $550
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3FMTK4SX8SMA31694 | null null null | $48,485 | $550 | -$47,935 |
+| 1GTUUDED7TZ134089 | null null null | $46,485 | $490 | -$45,995 |
+| 2T2GGCEZ3RC037951 | null null null | $39,962 | $250 | -$39,712 |
+| 5XYRLDJC6SG345836 | null null null | $31,414 | $1,300 | -$30,114 |
+| KNDPVCAG6P7013012 | null null null | $27,183 | $175 | -$27,008 |
+| 1V2HE2CA8PC203391 | null null null | $23,377 | $2,000 | -$21,377 |
+| JF1ZCAC17H9601783 | null null null | $18,084 | $2,000 | -$16,084 |
+| KL79MPSL5MB068054 | null null null | $16,683 | $620 | -$16,063 |
+| 3KPF34AD6KE045030 | null null null | $15,003 | $130 | -$14,873 |
+| JTDKB20U967076589 | null null null | $8,480 | $490 | -$7,990 |
+| 1LNHL9EK7FG608845 | null null null | $10,471 | $3,250 | -$7,221 |
+| WBY53EJ00SCU91369 | 2025 BMW i7 | $125,940 | $121,490 | -$4,450 |
+| 1FTFW1E80PFA69226 | 2023 Ford F-150 | $44,930 | $40,540 | -$4,390 |
+| 3C6TR5EJ4SG584572 | 2025 Ram 2500 | $66,489 | $62,488 | -$4,001 |
+| 5UXCW2C0XM9G12986 | 2021 BMW X7 | $42,990 | $39,489 | -$3,501 |
+| ZACPDFDWXR3A17164 | 2024 Dodge Hornet | $27,489 | $23,989 | -$3,500 |
+| 1GT49VEYXPF172661 | 2023 GMC Sierra 3500 HD | $63,427 | $60,416 | -$3,011 |
+| 1C4JJXP66MW770243 | 2021 Jeep Wrangler 4xe | $27,268 | $24,467 | -$2,801 |
+| 1FM5K8GC3LGC40780 | 2020 Ford Explorer | $27,078 | $24,467 | -$2,611 |
+| WBA13BJ01PCM71599 | 2023 BMW 5 Series | $47,990 | $45,489 | -$2,501 |
+| 5UX23EU05T9346244 | 2026 BMW X5 | $77,925 | $75,490 | -$2,435 |
+| KNDPUCAG9P7091027 | 2023 Kia Sportage Hybrid | $25,155 | $22,790 | -$2,365 |
+| 1GKS2CKJ7FR282169 | 2015 GMC Yukon | $19,407 | $17,076 | -$2,331 |
+| 2GNAXNEX8J6167127 | 2018 Chevrolet Equinox | $22,489 | $20,378 | -$2,111 |
+| 1C6SRFKT6NN191689 | 2022 Ram 1500 | $41,463 | $39,352 | -$2,111 |

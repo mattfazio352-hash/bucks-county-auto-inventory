@@ -1229,3 +1229,38 @@
 | 1GKS2CKJ7FR282169 | 2015 GMC Yukon | $19,407 | $17,076 | -$2,331 |
 | 2GNAXNEX8J6167127 | 2018 Chevrolet Equinox | $22,489 | $20,378 | -$2,111 |
 | 1C6SRFKT6NN191689 | 2022 Ram 1500 | $41,463 | $39,352 | -$2,111 |
+
+## 2026-08-13
+
+- New listings: 182
+- Removed / sold: 132
+- Price changes: 419
+- Biggest price drop: 2024 Maserati Levante $117,020 -> $84,995
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| ZN661YUM2RX447158 | 2024 Maserati Levante | $117,020 | $84,995 | -$32,025 |
+| 1FMSK8DH1PGB92057 | null null null | $27,930 | $2,000 | -$25,930 |
+| 2HKRS4H25PH426150 | null null null | $25,880 | $490 | -$25,390 |
+| 1FTEW1EP4MKD93057 | null null null | $25,483 | $325 | -$25,158 |
+| 19XFL1H89PE015017 | null null null | $25,646 | $490 | -$25,156 |
+| JM3KFBBLXR0504067 | null null null | $25,389 | $490 | -$24,899 |
+| 5YFS4MCE5TP262120 | null null null | $25,075 | $309 | -$24,766 |
+| JF1GUAFC6R8369301 | null null null | $25,190 | $1,091 | -$24,099 |
+| 5NMJFCDE8RH327981 | null null null | $25,819 | $2,500 | -$23,319 |
+| 3KPF44AC9RE832262 | null null null | $25,188 | $1,900 | -$23,288 |
+| 5XYK3CAF1PG113772 | null null null | $24,689 | $2,000 | -$22,689 |
+| KL79MSSL8RB044695 | null null null | $21,489 | $2,000 | -$19,489 |
+| JA4AZ3A37GZ003823 | null null null | $13,789 | $2,000 | -$11,789 |
+| ZN6PMDAAXS7464648 | 2025 Maserati Grecale | $83,235 | $72,995 | -$10,240 |
+| ZAM56ZPA6M1375135 | 2021 Maserati Quattroporte | $92,995 | $84,995 | -$8,000 |
+| KMUHFESB4SU236544 | 2025 Genesis GV80 | $57,344 | $49,533 | -$7,811 |
+| ZN6PMDAA7S7462923 | 2025 Maserati Grecale | $82,085 | $74,995 | -$7,090 |
+| ZASPAKBN7N7D33835 | 2022 Alfa Romeo Stelvio | $36,995 | $29,995 | -$7,000 |
+| ZAM57YTM3RX444794 | 2024 Maserati Ghibli | $82,485 | $75,485 | -$7,000 |
+| ZN661XUM1RX449705 | 2024 Maserati Levante | $70,485 | $63,485 | -$7,000 |
+| 3GCPYFEL1LG419956 | 2020 Chevrolet Silverado 1500 | $43,390 | $39,989 | -$3,401 |
+| ZARBAAB48GM177514 | 2016 Alfa Romeo 4C | $63,145 | $59,995 | -$3,150 |
+| WAULDAF84PN012523 | 2023 Audi A8 | $43,489 | $40,475 | -$3,014 |
+| ZN661ZUA9KX328136 | 2019 Maserati Levante | $66,485 | $63,485 | -$3,000 |
+| ZARFANBN6R7681207 | 2024 Alfa Romeo Giulia | $41,089 | $38,485 | -$2,604 |

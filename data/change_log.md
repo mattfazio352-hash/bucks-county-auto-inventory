@@ -1264,3 +1264,38 @@
 | WAULDAF84PN012523 | 2023 Audi A8 | $43,489 | $40,475 | -$3,014 |
 | ZN661ZUA9KX328136 | 2019 Maserati Levante | $66,485 | $63,485 | -$3,000 |
 | ZARFANBN6R7681207 | 2024 Alfa Romeo Giulia | $41,089 | $38,485 | -$2,604 |
+
+## 2026-08-14
+
+- New listings: 136
+- Removed / sold: 142
+- Price changes: 633
+- Biggest price drop: null null null $26,540 -> $100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3FMCR9B62PRE00964 | null null null | $26,540 | $100 | -$26,440 |
+| 3TYSZ5AN2NT090251 | null null null | $27,594 | $2,000 | -$25,594 |
+| 3FMCR9B61RRE88571 | null null null | $23,471 | $100 | -$23,371 |
+| 7FARW2H93ME001532 | null null null | $24,094 | $2,000 | -$22,094 |
+| 3FMCR9B64NRE15673 | null null null | $22,478 | $2,000 | -$20,478 |
+| 3VWC57BU0KM109269 | 2019 Volkswagen Jetta | $30,000 | $13,618 | -$16,382 |
+| 1C6SRFHP6TN225086 | 2026 Ram 1500 | $69,489 | $65,074 | -$4,415 |
+| 1C6SRFLP8SN622515 | 2025 Ram 1500 | $55,161 | $52,481 | -$2,680 |
+| 4JGDF6EE4KB231798 | 2019 Mercedes-Benz GLS 450 | $29,990 | $27,590 | -$2,400 |
+| 5UXCR6C56KLL11560 | 2019 BMW X5 | $20,990 | $18,890 | -$2,100 |
+| 1FA6P8K08L5583108 | 2020 Ford Mustang | $46,168 | $44,113 | -$2,055 |
+| 1C6SRFJT9PN590097 | 2023 Ram 1500 | $46,351 | $44,306 | -$2,045 |
+| WA1LXBF76PD024390 | 2023 Audi Q7 | $46,890 | $44,880 | -$2,010 |
+| SALKP9FU9PA048564 | 2023 Land Rover Range Rover | $91,995 | $89,995 | -$2,000 |
+| SAL1P9EU2RA192764 | 2024 Land Rover Range Rover Sport | $70,995 | $68,995 | -$2,000 |
+| SAL1P9EU2RA159909 | 2024 Land Rover Range Rover Sport | $71,995 | $69,995 | -$2,000 |
+| 1GCUDJELXRZ376244 | 2024 Chevrolet Silverado 1500 | $57,255 | $55,366 | -$1,889 |
+| 1C4PJXAN3SW658989 | 2025 Jeep Wrangler | $39,856 | $37,984 | -$1,872 |
+| 1FMSK8DH9PGB89522 | 2023 Ford Explorer | $28,758 | $26,899 | -$1,859 |
+| SALKP9FU8PA026765 | 2023 Land Rover Range Rover | $80,747 | $78,989 | -$1,758 |
+| KNDMB5C19L6576975 | 2020 Kia Sedona | $15,159 | $13,468 | -$1,691 |
+| 5YJ3E1EB6MF053470 | 2021 Tesla Model 3 | $28,309 | $26,643 | -$1,666 |
+| 1C6JJTEG0ML527038 | 2021 Jeep Gladiator | $34,362 | $32,734 | -$1,628 |
+| 1GC1KUEGXFF616953 | 2015 Chevrolet Silverado 2500HD | $23,476 | $21,921 | -$1,555 |
+| WBXYJ1C06P5V24951 | 2023 BMW X2 | $27,981 | $26,481 | -$1,500 |

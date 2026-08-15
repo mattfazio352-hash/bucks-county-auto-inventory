@@ -1299,3 +1299,38 @@
 | 1C6JJTEG0ML527038 | 2021 Jeep Gladiator | $34,362 | $32,734 | -$1,628 |
 | 1GC1KUEGXFF616953 | 2015 Chevrolet Silverado 2500HD | $23,476 | $21,921 | -$1,555 |
 | WBXYJ1C06P5V24951 | 2023 BMW X2 | $27,981 | $26,481 | -$1,500 |
+
+## 2026-08-15
+
+- New listings: 140
+- Removed / sold: 133
+- Price changes: 1394
+- Biggest price drop: 2024 Mercedes-Benz G-Class $369,781 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| W1NYC8AJ8RX492970 | 2024 Mercedes-Benz G-Class | $369,781 | $490 | -$369,291 |
+| SAJDZ1FE5LCK68496 | 2020 Jaguar F-Type Coupe | $250,000 | $490 | -$249,510 |
+| WP0AB2A91TS227438 | 2026 Porsche 911 | $239,487 | $490 | -$238,997 |
+| WP0BB2A99SS260335 | 2025 Porsche 911 | $236,488 | $490 | -$235,998 |
+| WP0AB2A91TS227049 | 2026 Porsche 911 | $229,790 | $490 | -$229,300 |
+| W1NWH5AB9SX042539 | 2025 Mercedes-Benz G-Class | $219,989 | $490 | -$219,499 |
+| SALEZEE95S2475031 | 2025 Land Rover Defender 110 | $204,995 | $490 | -$204,505 |
+| SAL1Z9F93SA456844 | 2025 Land Rover Range Rover Sport | $194,995 | $490 | -$194,505 |
+| W1KRJ7JB5SF005410 | 2025 Mercedes-Benz AMGÂ® GT 63 | $194,650 | $490 | -$194,160 |
+| WP0AB2A9XRS218715 | 2024 Porsche 911 | $189,288 | $490 | -$188,798 |
+| W1NYC7HJ8RX502851 | 2024 Mercedes-Benz G-Class | $188,989 | $490 | -$188,499 |
+| W1NYC7HJ1RX511911 | 2024 Mercedes-Benz AMG G 63 | $184,900 | $490 | -$184,410 |
+| WP0AC2Y14SSA55470 | 2025 Porsche Taycan | $170,488 | $490 | -$169,998 |
+| 4JGFF8HB4TB524589 | 2026 Mercedes-Benz Maybach GLS 600 | $169,900 | $490 | -$169,410 |
+| W1KRJ8AB8RF001450 | 2024 Mercedes-Benz AMGÂ® GT | $161,860 | $490 | -$161,370 |
+| W1K6G7GB5PA179278 | 2023 Mercedes-Benz S-Class | $159,700 | $490 | -$159,210 |
+| ZAMBMXDBXRX456752 | 2024 Maserati GranCabrio | $141,485 | $490 | -$140,995 |
+| ZAMBMXDBXRX449073 | 2024 Maserati GranCabrio | $140,485 | $490 | -$139,995 |
+| ZN661ZUM8RX445890 | 2024 Maserati Levante | $140,485 | $490 | -$139,995 |
+| ZAMBMVBB0RX443306 | 2024 Maserati Granturismo | $137,499 | $490 | -$137,009 |
+| SAJD51FE9RCK88772 | 2024 Jaguar F-TYPE | $134,653 | $490 | -$134,163 |
+| WP0AD2Y17PSA47688 | 2023 Porsche Taycan | $134,100 | $490 | -$133,610 |
+| W1K7X8JB0RV004371 | 2024 Mercedes-Benz AMG GT 63 4-Door | $133,900 | $490 | -$133,410 |
+| ZN661ZUM7RX445850 | 2024 Maserati Levante | $131,485 | $490 | -$130,995 |
+| ZN661ZUT9PX414085 | 2023 Maserati Levante | $130,485 | $490 | -$129,995 |

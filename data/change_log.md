@@ -1334,3 +1334,38 @@
 | W1K7X8JB0RV004371 | 2024 Mercedes-Benz AMG GT 63 4-Door | $133,900 | $490 | -$133,410 |
 | ZN661ZUM7RX445850 | 2024 Maserati Levante | $131,485 | $490 | -$130,995 |
 | ZN661ZUT9PX414085 | 2023 Maserati Levante | $130,485 | $490 | -$129,995 |
+
+## 2026-08-16
+
+- New listings: 169
+- Removed / sold: 142
+- Price changes: 178
+- Biggest price drop: null null null $22,478 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5XYRG4LC8NG080150 | null null null | $22,478 | $2,000 | -$20,478 |
+| KM8R3DHE2LU080013 | null null null | $22,354 | $3,100 | -$19,254 |
+| 5FNYF6H51JB036299 | null null null | $20,485 | $2,000 | -$18,485 |
+| 1FTYE1ZM3HKA95749 | 2017 Ford Transit-150 | $15,396 | $13,444 | -$1,952 |
+| 3TYSZ5AN2NT090251 | null null null | $2,000 | $650 | -$1,350 |
+| 2T3P1RFV2PW380967 | 2023 Toyota RAV4 | $32,645 | $31,485 | -$1,160 |
+| 3TYLB5JN9RT059223 | 2024 Toyota Tacoma | $40,487 | $39,349 | -$1,138 |
+| 5J8YE1H09RL000428 | 2024 Acura MDX | $41,360 | $40,366 | -$994 |
+| 3N1CP5CVXPL543689 | 2023 Nissan Kicks | $21,054 | $20,094 | -$960 |
+| 1FT8X3BT8LED10024 | 2020 Ford F-350 | $35,173 | $34,238 | -$935 |
+| 1HGCR2F1XHA146590 | 2017 Honda Accord | $16,007 | $15,105 | -$902 |
+| KM8K6CA5XMU721357 | 2021 Hyundai Kona | $22,178 | $21,280 | -$898 |
+| 1GKDT13S362345553 | 2006 GMC Envoy | $10,155 | $9,290 | -$865 |
+| 4S4WMAFD4M3463306 | 2021 Subaru Ascent | $23,246 | $22,383 | -$863 |
+| 1FT8W3BT8NED28335 | 2022 Ford F-350 | $51,032 | $50,246 | -$786 |
+| 5N1AT2MV6KC784968 | 2019 Nissan Rogue | $17,592 | $16,844 | -$748 |
+| 3FMCR9B64NRE15673 | null null null | $2,000 | $1,285 | -$715 |
+| 4S4WMAFD9L3435015 | 2020 Subaru Ascent | $18,770 | $18,084 | -$686 |
+| 3FMCR9B63NRD18125 | 2022 Ford Bronco Sport | $25,230 | $24,584 | -$646 |
+| 5N1BT3AB2PC924705 | 2023 Nissan Rogue | $21,479 | $20,844 | -$635 |
+| 5NMS33AD0KH012929 | 2019 Hyundai Santa Fe | $15,115 | $14,489 | -$626 |
+| 5UX53DP08R9U75381 | 2024 BMW X3 | $41,448 | $40,844 | -$604 |
+| WP1AA2A59LLB12854 | 2020 Porsche Macan | $24,045 | $23,478 | -$567 |
+| 5YJ3E1EB0NF179471 | 2022 Tesla Model 3 | $26,587 | $26,032 | -$555 |
+| 3TYCZ5AN0PT163706 | 2023 Toyota Tacoma | $38,146 | $37,593 | -$553 |

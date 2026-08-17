@@ -1369,3 +1369,38 @@
 | WP1AA2A59LLB12854 | 2020 Porsche Macan | $24,045 | $23,478 | -$567 |
 | 5YJ3E1EB0NF179471 | 2022 Tesla Model 3 | $26,587 | $26,032 | -$555 |
 | 3TYCZ5AN0PT163706 | 2023 Toyota Tacoma | $38,146 | $37,593 | -$553 |
+
+## 2026-08-17
+
+- New listings: 37
+- Removed / sold: 156
+- Price changes: 83
+- Biggest price drop: null null null $47,485 -> $3,955
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTFW1E59PFB54152 | null null null | $47,485 | $3,955 | -$43,530 |
+| ZARFANBN6P7676599 | 2023 Alfa Romeo Giulia | $28,495 | $490 | -$28,005 |
+| 3GCPDDEKXPG292136 | 2023 Chevrolet Silverado 1500 | $39,088 | $36,215 | -$2,873 |
+| JN8AT2MV6JW345579 | 2018 Nissan Rogue | $18,485 | $16,488 | -$1,997 |
+| 4T1C11AKXLU873165 | null null null | $2,000 | $129 | -$1,871 |
+| 2T1BU4EE0AC214082 | null null null | $2,000 | $150 | -$1,850 |
+| 1GNSKRKD6NR234449 | 2022 Chevrolet Tahoe | $46,486 | $44,845 | -$1,641 |
+| JM3KKDHD7R1109832 | 2024 Mazda CX-90 | $34,265 | $33,090 | -$1,175 |
+| KMUHBESB9TU295733 | 2026 Genesis GV80 | $66,386 | $65,489 | -$897 |
+| 5TFLA5DB6PX086628 | 2023 Toyota Tundra | $42,380 | $41,620 | -$760 |
+| 5NTJADAE6PH051214 | 2023 Hyundai Santa Cruz | $25,598 | $24,918 | -$680 |
+| JM3KKDHA9R1104492 | 2024 Mazda CX-90 Phev | $32,909 | $32,291 | -$618 |
+| 5FNYG1H46SB075706 | 2025 Honda Pilot | $40,088 | $39,488 | -$600 |
+| KMHLM4DG6RU779082 | 2024 Hyundai Elantra | $19,988 | $19,488 | -$500 |
+| 5FNYF6H50KB077105 | 2019 Honda Pilot | $24,488 | $23,988 | -$500 |
+| 3CZRZ2H30RM724010 | 2024 Honda HR-V | $25,288 | $24,788 | -$500 |
+| 2HKRS4H74SH414124 | 2025 Honda CR-V | $36,488 | $35,988 | -$500 |
+| YV4062PN2P1997256 | 2023 Volvo XC90 | $36,488 | $35,988 | -$500 |
+| 5J6RS6H93SL030984 | 2025 Honda CR-V Hybrid | $37,988 | $37,488 | -$500 |
+| 5FNYF8H8XRB000628 | 2024 Honda Passport | $41,488 | $40,988 | -$500 |
+| 1HGCY1F35RA030794 | 2024 Honda Accord Sedan | $27,284 | $26,784 | -$500 |
+| 19UDE4H20SA009182 | 2025 Acura Integra | $30,485 | $29,985 | -$500 |
+| 2HKRS4H43RH405916 | 2024 Honda CR-V | $32,688 | $32,189 | -$499 |
+| 1HGCV3F49MA001028 | 2021 Honda Accord Hybrid | $25,484 | $24,985 | -$499 |
+| SALRL2FX7S2516550 | 2025 Land Rover Discovery | $69,738 | $69,248 | -$490 |

@@ -1404,3 +1404,38 @@
 | 2HKRS4H43RH405916 | 2024 Honda CR-V | $32,688 | $32,189 | -$499 |
 | 1HGCV3F49MA001028 | 2021 Honda Accord Hybrid | $25,484 | $24,985 | -$499 |
 | SALRL2FX7S2516550 | 2025 Land Rover Discovery | $69,738 | $69,248 | -$490 |
+
+## 2026-08-18
+
+- New listings: 139
+- Removed / sold: 83
+- Price changes: 1366
+- Biggest price drop: 2024 Honda Odyssey $40,493 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5FNRL6H92RB038803 | 2024 Honda Odyssey | $40,493 | $2,000 | -$38,493 |
+| WAUFACF51PA052962 | 2023 Audi A5 Sportback | $36,259 | $490 | -$35,769 |
+| 5NMJBCAE9PH278366 | 2023 Hyundai Tucson | $24,584 | $2,000 | -$22,584 |
+| KMHRC8A39PU276097 | 2023 Hyundai Venue | $18,171 | $205 | -$17,966 |
+| JN8BT3BB8PW490280 | 2023 Nissan Rogue | $21,465 | $18,744 | -$2,721 |
+| 1C6SRFLT3PN542835 | 2023 Ram 1500 | $49,243 | $46,841 | -$2,402 |
+| 1GKS2GKD2PR350011 | 2023 GMC Yukon XL | $58,480 | $56,390 | -$2,090 |
+| 5LMJJ3TG6PEL15192 | 2023 Lincoln Navigator L | $62,485 | $60,481 | -$2,004 |
+| 3MVDMBBM7PM513401 | 2023 Mazda CX-30 | $22,467 | $20,487 | -$1,980 |
+| 1C6SRFHP6TN225086 | 2026 Ram 1500 | $65,074 | $63,099 | -$1,975 |
+| 1GKS2BKC0JR355368 | 2018 GMC Yukon | $28,937 | $26,976 | -$1,961 |
+| 1C6SRFRT4PN682738 | 2023 Ram 1500 | $44,774 | $42,892 | -$1,882 |
+| 1C6RRFFG7PN571249 | 2023 Ram 1500 | $40,132 | $38,270 | -$1,862 |
+| 3MZBPABM7RM428052 | 2024 Mazda Mazda3 Sedan | $22,267 | $20,467 | -$1,800 |
+| 1C6RRFFG0RN110249 | 2024 Ram 1500 | $37,882 | $36,124 | -$1,758 |
+| 5GAEVAKS1TJ171593 | 2026 Buick Enclave | $42,117 | $40,481 | -$1,636 |
+| 3VV8B7AX1PM074036 | 2023 Volkswagen Tiguan | $26,090 | $24,494 | -$1,596 |
+| WA1DECF38S1052585 | 2025 Audi Q3 | $35,487 | $33,935 | -$1,552 |
+| 1FTER4FH6LLA55636 | 2020 Ford Ranger | $30,654 | $29,163 | -$1,491 |
+| 5N1DR3CC8PC211420 | 2023 Nissan Pathfinder | $28,481 | $27,078 | -$1,403 |
+| 1GYS4MKL1PR509137 | 2023 CADILLAC Escalade ESV | $79,371 | $77,990 | -$1,381 |
+| 3C4NJDCN2PT547835 | 2023 Jeep Compass | $25,784 | $24,430 | -$1,354 |
+| 3C6RR7LT6JG230416 | 2018 Ram 1500 | $22,431 | $21,082 | -$1,349 |
+| 1C6SRFGT6KN605431 | 2019 Ram 1500 | $24,339 | $23,094 | -$1,245 |
+| 1FMUK8HH3SGC64758 | 2025 Ford Explorer | $47,478 | $46,267 | -$1,211 |

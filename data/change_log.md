@@ -1439,3 +1439,38 @@
 | 3C6RR7LT6JG230416 | 2018 Ram 1500 | $22,431 | $21,082 | -$1,349 |
 | 1C6SRFGT6KN605431 | 2019 Ram 1500 | $24,339 | $23,094 | -$1,245 |
 | 1FMUK8HH3SGC64758 | 2025 Ford Explorer | $47,478 | $46,267 | -$1,211 |
+
+## 2026-08-19
+
+- New listings: 88
+- Removed / sold: 12
+- Price changes: 403
+- Biggest price drop: 2023 Dodge Durango $36,977 -> $3,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1C4SDJCT0PC581694 | 2023 Dodge Durango | $36,977 | $3,000 | -$33,977 |
+| JM3KFBBL1R0413110 | 2024 Mazda CX-5 | $27,471 | $595 | -$26,876 |
+| 3GTUUEEL4RG194210 | 2024 GMC Sierra 1500 | $54,380 | $51,480 | -$2,900 |
+| 3TYLB5JN9RT059223 | 2024 Toyota Tacoma | $39,349 | $37,135 | -$2,214 |
+| 1GB0GRF72M1254690 | 2021 Chevrolet Express 3500 | $40,485 | $38,485 | -$2,000 |
+| 1GNSKRKDXRR105376 | 2024 Chevrolet Tahoe | $62,480 | $60,480 | -$2,000 |
+| 1FTEX3LP6RKD16886 | 2024 Ford F-150 | $40,484 | $38,485 | -$1,999 |
+| 3VV2B7AX5KM070263 | 2019 Volkswagen Tiguan | $17,347 | $15,467 | -$1,880 |
+| 3VWEX7BU6SM022463 | 2025 Volkswagen Jetta | $21,267 | $19,467 | -$1,800 |
+| 3VW5X7BU9SM030704 | 2025 Volkswagen Jetta | $21,267 | $19,467 | -$1,800 |
+| 1C4AJWBG8FL641404 | 2015 Jeep Wrangler | $19,279 | $17,479 | -$1,800 |
+| 1C6SRFHT5LN219423 | 2020 Ram 1500 | $45,278 | $43,478 | -$1,800 |
+| 5TFDW5F11KX794577 | 2019 Toyota Tundra | $38,180 | $36,480 | -$1,700 |
+| 1FMJU2AT2NEA47601 | 2022 Ford Expedition | $43,478 | $41,933 | -$1,545 |
+| 5XYRKDLFXPG233039 | 2023 Kia Sorento | $30,489 | $28,985 | -$1,504 |
+| 1GNSKDKL8RR315503 | 2024 Chevrolet Suburban | $67,280 | $65,814 | -$1,466 |
+| 1G1ZD5ST7MF060093 | 2021 Chevrolet Malibu | $14,861 | $13,489 | -$1,372 |
+| 1C4PJXDN8TW212544 | 2026 Jeep Wrangler | $43,821 | $42,484 | -$1,337 |
+| JF1VBAF67P9809881 | 2023 Subaru WRX | $29,767 | $28,485 | -$1,282 |
+| 4T1BF1FK6GU204502 | 2016 Toyota Camry | $2,000 | $775 | -$1,225 |
+| 5J8TC2H32ML021386 | 2021 Acura RDX | $26,486 | $25,278 | -$1,208 |
+| 1FMJU1J80SEA28756 | 2025 Ford Expedition | $54,485 | $53,314 | -$1,171 |
+| 5TDJRKEC1NS103814 | 2022 Toyota Sienna | $43,584 | $42,436 | -$1,148 |
+| 5TFCZ5AN3KX198996 | 2019 Toyota Tacoma | $30,584 | $29,469 | -$1,115 |
+| 1FTBR1Y8XRKB12207 | 2024 Ford Transit-250 | $33,076 | $31,962 | -$1,114 |

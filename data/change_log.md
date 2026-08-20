@@ -1474,3 +1474,38 @@
 | 5TDJRKEC1NS103814 | 2022 Toyota Sienna | $43,584 | $42,436 | -$1,148 |
 | 5TFCZ5AN3KX198996 | 2019 Toyota Tacoma | $30,584 | $29,469 | -$1,115 |
 | 1FTBR1Y8XRKB12207 | 2024 Ford Transit-250 | $33,076 | $31,962 | -$1,114 |
+
+## 2026-08-20
+
+- New listings: 197
+- Removed / sold: 304
+- Price changes: 842
+- Biggest price drop: null null null $49,936 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GT49ME71PF206181 | null null null | $49,936 | $490 | -$49,446 |
+| JM3KKDHCXS1198065 | null null null | $43,616 | $595 | -$43,021 |
+| KNDNE5K34S6491152 | null null null | $42,526 | $490 | -$42,036 |
+| 1FTEW1EP1PFC27267 | null null null | $41,810 | $325 | -$41,485 |
+| 5GAEVAKS4TJ135039 | null null null | $41,649 | $490 | -$41,159 |
+| KM8R7DGE3RU728151 | null null null | $41,178 | $220 | -$40,958 |
+| 5J8YE1H87PL040395 | null null null | $42,594 | $2,000 | -$40,594 |
+| 1C4PJXEN7TW186002 | null null null | $41,715 | $2,195 | -$39,520 |
+| 5TDJSKFC3PS099030 | null null null | $41,349 | $2,000 | -$39,349 |
+| 2GCUDDEDXP1101442 | null null null | $37,867 | $490 | -$37,377 |
+| 3C6MR5AL0PG565858 | null null null | $37,485 | $490 | -$36,995 |
+| 1FTEX1EP5PKE26312 | null null null | $36,488 | $325 | -$36,163 |
+| 2HKRS4H78SH445960 | null null null | $36,489 | $490 | -$35,999 |
+| 1FTBR1Y80SKA55683 | null null null | $36,409 | $535 | -$35,874 |
+| 5FPYK3F84PB011100 | null null null | $36,067 | $490 | -$35,577 |
+| 1C4RJHBG0SC313144 | null null null | $38,461 | $2,925 | -$35,536 |
+| KMUHBDSBXPU139586 | null null null | $35,985 | $490 | -$35,495 |
+| SALGS2RU9MA427681 | null null null | $35,485 | $490 | -$34,995 |
+| 5NMJECDE3SH517521 | null null null | $34,489 | $140 | -$34,349 |
+| JALCDW165L7010640 | null null null | $33,830 | $235 | -$33,595 |
+| 2HKRS4H46RH426694 | null null null | $33,688 | $100 | -$33,588 |
+| 2HKRS4H43TH425669 | null null null | $35,485 | $2,000 | -$33,485 |
+| 3MVDMBEY7SM768735 | null null null | $33,467 | $100 | -$33,367 |
+| 5XYP3DGC9RG460388 | null null null | $33,548 | $225 | -$33,323 |
+| 5NMJCCDE0TH616837 | null null null | $33,168 | $240 | -$32,928 |

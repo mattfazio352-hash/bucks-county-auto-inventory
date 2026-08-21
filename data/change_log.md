@@ -1509,3 +1509,38 @@
 | 3MVDMBEY7SM768735 | null null null | $33,467 | $100 | -$33,367 |
 | 5XYP3DGC9RG460388 | null null null | $33,548 | $225 | -$33,323 |
 | 5NMJCCDE0TH616837 | null null null | $33,168 | $240 | -$32,928 |
+
+## 2026-08-21
+
+- New listings: 139
+- Removed / sold: 145
+- Price changes: 382
+- Biggest price drop: null null null $62,049 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GKS2GKD6RR273016 | null null null | $62,049 | $490 | -$61,559 |
+| 3FMCR9DA3SRE58043 | 2025 Ford Bronco Sport | $34,084 | $490 | -$33,594 |
+| 3GNAXPEG8TL259610 | null null null | $25,485 | $490 | -$24,995 |
+| 1GNEVHKW6MJ118858 | null null null | $25,485 | $490 | -$24,995 |
+| 5N1DR3BC3RC297434 | 2024 Nissan Pathfinder | $26,988 | $2,000 | -$24,988 |
+| 5XXG64J2XRG265315 | 2024 Kia K5 | $22,485 | $800 | -$21,685 |
+| 55SWF8EB4KU291994 | 2019 Mercedes-Benz C-Class | $19,849 | $2,000 | -$17,849 |
+| SALKP9E99SA290535 | 2025 Land Rover Range Rover | $124,290 | $117,990 | -$6,300 |
+| SALKP9E7XPA029064 | 2023 Land Rover Range Rover | $103,290 | $96,990 | -$6,300 |
+| SAL1L9FU3PA143466 | 2023 Land Rover Range Rover Sport | $74,290 | $67,990 | -$6,300 |
+| SAL1P9EU7PA114946 | 2023 Land Rover Range Rover Sport | $61,290 | $56,990 | -$4,300 |
+| SALE27EU6P2113866 | 2023 Land Rover Defender | $55,490 | $51,990 | -$3,500 |
+| SAL1L9FU3RA416943 | 2024 Land Rover Range Rover Sport | $82,790 | $79,990 | -$2,800 |
+| 1C4PJXFN7TW155041 | 2026 Jeep Wrangler | $45,930 | $43,270 | -$2,660 |
+| SAL1L9FU5RA198178 | 2024 Land Rover Range Rover Sport | $78,990 | $76,490 | -$2,500 |
+| 1C6RR7MT5ES216987 | 2014 Ram 1500 | $29,989 | $27,489 | -$2,500 |
+| SAL119E93SA448218 | 2025 Land Rover Range Rover Sport | $107,290 | $104,990 | -$2,300 |
+| 1C6RRFFGXPN636935 | 2023 Ram 1500 | $38,418 | $36,409 | -$2,009 |
+| WA1AXBF76ND017394 | 2022 Audi Q7 | $32,489 | $30,489 | -$2,000 |
+| 3N1AB8CV0PY318899 | 2023 Nissan Sentra | $23,390 | $21,489 | -$1,901 |
+| 1C4RJHDG0N8623797 | 2022 Jeep Grand Cherokee | $31,893 | $30,025 | -$1,868 |
+| SAL1L9FU1SA438302 | 2025 Land Rover Range Rover Sport | $90,990 | $89,190 | -$1,800 |
+| 1C6SRFHP6TN225086 | 2026 Ram 1500 | $63,099 | $61,405 | -$1,694 |
+| 3GTUUCED0NG547923 | 2022 GMC Sierra 1500 | $42,985 | $41,485 | -$1,500 |
+| 2T2BAMCA2RC077825 | 2024 LEXUS RX | $50,270 | $48,783 | -$1,487 |

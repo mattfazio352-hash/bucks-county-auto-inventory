@@ -1544,3 +1544,38 @@
 | 1C6SRFHP6TN225086 | 2026 Ram 1500 | $63,099 | $61,405 | -$1,694 |
 | 3GTUUCED0NG547923 | 2022 GMC Sierra 1500 | $42,985 | $41,485 | -$1,500 |
 | 2T2BAMCA2RC077825 | 2024 LEXUS RX | $50,270 | $48,783 | -$1,487 |
+
+## 2026-08-22
+
+- New listings: 153
+- Removed / sold: 121
+- Price changes: 955
+- Biggest price drop: null null null $35,044 -> $215
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KM8R5DHE2NU378154 | null null null | $35,044 | $215 | -$34,829 |
+| 3GCPDDEKXPG292136 | null null null | $36,215 | $2,000 | -$34,215 |
+| 5LM5J7XC4LGL31681 | null null null | $34,965 | $1,180 | -$33,785 |
+| 5LMCJ1DA9RUL08611 | null null null | $34,981 | $2,000 | -$32,981 |
+| W1N0G8EB7NV374094 | 2022 Mercedes-Benz GLC | $32,481 | $2,000 | -$30,481 |
+| 5FNYF8H65PB034133 | 2023 Honda Passport | $31,580 | $2,000 | -$29,580 |
+| 2HKRS4H70RH413370 | 2024 Honda CR-V | $30,592 | $2,000 | -$28,592 |
+| KM8R4DGE2PU630671 | 2023 Hyundai Palisade | $33,389 | $4,950 | -$28,439 |
+| KM8JCCD19RU190320 | null null null | $27,586 | $245 | -$27,341 |
+| KNDPUCAG4P7086348 | null null null | $27,363 | $175 | -$27,188 |
+| KNDERCAA1T7832317 | null null null | $27,441 | $800 | -$26,641 |
+| 5XYRLDLC8NG139886 | null null null | $26,584 | $100 | -$26,484 |
+| 5NTJBDAE3NH033764 | null null null | $27,179 | $695 | -$26,484 |
+| 1C4RJKBG5M8130373 | null null null | $27,029 | $995 | -$26,034 |
+| 5NMS5DA13PH011237 | null null null | $25,789 | $210 | -$25,579 |
+| 5NMJBCDE9TH612160 | null null null | $27,409 | $2,000 | -$25,409 |
+| KNDPUCAG9P7106593 | null null null | $25,031 | $175 | -$24,856 |
+| 1FMCU9MN4PUB11516 | null null null | $25,974 | $1,595 | -$24,379 |
+| 5NMJFCDE2RH430300 | null null null | $26,808 | $2,500 | -$24,308 |
+| 5NTJDDAF2NH006087 | null null null | $23,761 | $120 | -$23,641 |
+| 2HGFE2F51RH595610 | null null null | $25,635 | $2,000 | -$23,635 |
+| 3VWGM7BU6RM009286 | null null null | $25,409 | $2,000 | -$23,409 |
+| 5XYK3CAF1PG113772 | null null null | $25,368 | $2,000 | -$23,368 |
+| 5NMJACDE9RH378632 | null null null | $23,389 | $130 | -$23,259 |
+| 1C4JJXP63NW275953 | null null null | $27,288 | $4,145 | -$23,143 |

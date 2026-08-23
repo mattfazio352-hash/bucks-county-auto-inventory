@@ -1579,3 +1579,38 @@
 | 5XYK3CAF1PG113772 | null null null | $25,368 | $2,000 | -$23,368 |
 | 5NMJACDE9RH378632 | null null null | $23,389 | $130 | -$23,259 |
 | 1C4JJXP63NW275953 | null null null | $27,288 | $4,145 | -$23,143 |
+
+## 2026-08-23
+
+- New listings: 149
+- Removed / sold: 160
+- Price changes: 260
+- Biggest price drop: null null null $53,480 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KMTFC4SD3PU028422 | null null null | $53,480 | $490 | -$52,990 |
+| 2C3CDXGJ2PH539013 | null null null | $58,840 | $5,995 | -$52,845 |
+| 1GT59ME73RF411170 | null null null | $52,390 | $2,110 | -$50,280 |
+| 2T2BAMCA4PC038327 | null null null | $47,845 | $330 | -$47,515 |
+| 5J8YE1H81RL006293 | null null null | $46,870 | $490 | -$46,380 |
+| 1GCUDGED0NZ598166 | null null null | $43,409 | $100 | -$43,309 |
+| 1FT8X3BN0PED42182 | null null null | $48,173 | $5,115 | -$43,058 |
+| 1FMJU2AT8NEA59171 | null null null | $43,009 | $490 | -$42,519 |
+| JTEVA5BR8S5050951 | null null null | $42,912 | $490 | -$42,422 |
+| 4JGFB4KB7NA619511 | null null null | $42,488 | $100 | -$42,388 |
+| KMUHCESC2RU193897 | null null null | $53,982 | $12,400 | -$41,582 |
+| 7FARS6H8XTE116346 | null null null | $41,388 | $100 | -$41,288 |
+| 5J8TC2H50SL001054 | null null null | $41,480 | $490 | -$40,990 |
+| 2C3CDZFJ5MH530802 | null null null | $45,990 | $5,995 | -$39,995 |
+| 3GTUUCED0NG547923 | 2022 GMC Sierra 1500 | $41,485 | $2,000 | -$39,485 |
+| 1FTEW1E40LFA46340 | null null null | $40,478 | $1,295 | -$39,183 |
+| 1FTEW1EP7PFB67009 | null null null | $40,450 | $1,325 | -$39,125 |
+| JTJAM7BX2M5279338 | null null null | $43,188 | $4,785 | -$38,403 |
+| 1FMEE5DP2NLB63472 | null null null | $41,456 | $4,995 | -$36,461 |
+| 3GCPDKEK9RG141344 | null null null | $33,485 | $490 | -$32,995 |
+| KNDCT3LE4R5144177 | null null null | $29,395 | $125 | -$29,270 |
+| 2HGFE1F92RH306490 | null null null | $28,863 | $100 | -$28,763 |
+| 1FMSK8DH8PGA09060 | null null null | $30,140 | $3,540 | -$26,600 |
+| 1N6ED1EK3NN622013 | null null null | $26,245 | $1,990 | -$24,255 |
+| KMHLM4DG2RU719834 | null null null | $19,350 | $210 | -$19,140 |

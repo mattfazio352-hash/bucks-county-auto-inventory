@@ -1614,3 +1614,38 @@
 | 1FMSK8DH8PGA09060 | null null null | $30,140 | $3,540 | -$26,600 |
 | 1N6ED1EK3NN622013 | null null null | $26,245 | $1,990 | -$24,255 |
 | KMHLM4DG2RU719834 | null null null | $19,350 | $210 | -$19,140 |
+
+## 2026-08-24
+
+- New listings: 51
+- Removed / sold: 140
+- Price changes: 84
+- Biggest price drop: 2024 GMC Yukon $76,480 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GKS2EKT5RR209013 | 2024 GMC Yukon | $76,480 | $2,000 | -$74,480 |
+| 2HKRS4H70RH413370 | 2024 Honda CR-V | $35,488 | $30,592 | -$4,896 |
+| JN8AZ1MW6CW239511 | 2012 Nissan Murano | $2,000 | $135 | -$1,865 |
+| 5NMMDDTC6TH050277 | 2026 Genesis GV70 | $2,000 | $195 | -$1,805 |
+| 1FMCU9J96EUA94173 | 2014 Ford Escape | $2,000 | $490 | -$1,510 |
+| 1FAHP3FN7BW128695 | 2011 Ford Focus | $2,000 | $590 | -$1,410 |
+| 5N1AZ2MS2KN128761 | 2019 Nissan Murano | $14,971 | $13,891 | -$1,080 |
+| JF1VA1H62M9814143 | 2021 Subaru WRX | $25,978 | $24,905 | -$1,073 |
+| 1HGCY2F75TA016877 | 2026 Honda Accord Hybrid | $36,345 | $35,390 | -$955 |
+| 1HGCY1F44SA065888 | 2025 Honda Accord | $28,187 | $27,488 | -$699 |
+| 5N1DR3CD6PC250158 | 2023 Nissan Pathfinder | $34,988 | $34,384 | -$604 |
+| 5FNRL6H79TB027237 | 2026 Honda Odyssey | $42,058 | $41,488 | -$570 |
+| 7FARS6H94TE072398 | 2026 Honda CR-V Hybrid | $41,988 | $41,488 | -$500 |
+| 5TDAAAB52RS032491 | 2024 Toyota Grand Highlander | $46,388 | $45,888 | -$500 |
+| 5FNYG1H67SB163441 | 2025 Honda Pilot | $47,388 | $46,888 | -$500 |
+| 5TFSZ5AN5GX039769 | 2016 Toyota Tacoma | $26,468 | $25,974 | -$494 |
+| 5J8YD4H57KL026693 | 2019 Acura MDX | $22,868 | $22,424 | -$444 |
+| 5FNYG1H41PB010429 | 2023 Honda Pilot | $38,088 | $37,678 | -$410 |
+| 3CZRZ2H33TM722047 | 2026 Honda HR-V | $28,888 | $28,488 | -$400 |
+| JM3KFBAY0R0373406 | 2024 Mazda CX-5 | $32,488 | $32,088 | -$400 |
+| 1HGCY2F67SA089819 | 2025 Honda Accord Hybrid | $32,488 | $32,088 | -$400 |
+| 19XFL2H82SE013673 | 2025 Honda Civic | $26,615 | $26,288 | -$327 |
+| WAUL2AF28KN049200 | 2019 Audi A6 | $24,047 | $23,725 | -$322 |
+| KM8R3DHEXMU331877 | 2021 Hyundai Palisade | $26,005 | $25,688 | -$317 |
+| 2C4RC1BG0KR523753 | 2019 Chrysler Pacifica | $19,488 | $19,188 | -$300 |

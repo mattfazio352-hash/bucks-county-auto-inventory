@@ -1649,3 +1649,38 @@
 | WAUL2AF28KN049200 | 2019 Audi A6 | $24,047 | $23,725 | -$322 |
 | KM8R3DHEXMU331877 | 2021 Hyundai Palisade | $26,005 | $25,688 | -$317 |
 | 2C4RC1BG0KR523753 | 2019 Chrysler Pacifica | $19,488 | $19,188 | -$300 |
+
+## 2026-08-25
+
+- New listings: 148
+- Removed / sold: 96
+- Price changes: 525
+- Biggest price drop: null null null $43,479 -> $2,770
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTFW3LD8RFA86824 | null null null | $43,479 | $2,770 | -$40,709 |
+| 19UUB6F56PA005601 | 2023 Acura TLX | $37,981 | $490 | -$37,491 |
+| 1GNERGKW5PJ314714 | 2023 Chevrolet Traverse | $27,308 | $1,295 | -$26,013 |
+| JF2SKACC3NH409666 | 2022 Subaru Forester | $25,340 | $2,000 | -$23,340 |
+| KL4MMBS28NB132316 | null null null | $17,992 | $995 | -$16,997 |
+| 1FT8W2BT8PED33497 | 2023 Ford F-250SD | $69,990 | $66,614 | -$3,376 |
+| 1FTFW1E80MFA75698 | 2021 Ford F-150 | $38,486 | $35,424 | -$3,062 |
+| 1FT8X3B65FEA01058 | 2015 Ford F-350SD | $24,460 | $21,422 | -$3,038 |
+| 1C4PJXFG2RW181489 | 2024 Jeep Wrangler | $43,879 | $40,979 | -$2,900 |
+| 1FTFW1E8XNKF18707 | 2022 Ford F-150 | $44,480 | $42,022 | -$2,458 |
+| 1C6RRFFG1PN558156 | 2023 Ram 1500 | $38,575 | $36,562 | -$2,013 |
+| 1C6RRFFG0PN583615 | 2023 Ram 1500 | $38,614 | $36,601 | -$2,013 |
+| 1FT7W2BT6PED50813 | 2023 Ford F-250 | $72,480 | $70,480 | -$2,000 |
+| 1GKKNULS9JZ199095 | 2018 GMC Acadia | $12,485 | $10,485 | -$2,000 |
+| WBA23GG08S7S53430 | 2025 BMW 228 Gran Coupe | $30,979 | $28,979 | -$2,000 |
+| 1G1FE3D77R0104463 | 2024 Chevrolet Camaro | $46,979 | $44,979 | -$2,000 |
+| 5LM5J7XC5SGL28173 | 2025 Lincoln Aviator | $64,990 | $62,990 | -$2,000 |
+| 1C6RR7MT5ES216987 | 2014 Ram 1500 | $29,979 | $27,979 | -$2,000 |
+| JN8AY2DB5R9851681 | 2024 Nissan Armada | $47,978 | $45,989 | -$1,989 |
+| 1V2LC2CA6PC219119 | 2023 Volkswagen Atlas Cross Sport | $26,979 | $24,999 | -$1,980 |
+| 1FTEW1EP2PFA80828 | 2023 Ford F-150 | $43,980 | $42,008 | -$1,972 |
+| 1V2HN2CAXTC506005 | 2026 Volkswagen Atlas | $40,354 | $38,489 | -$1,865 |
+| JF2GPABCXGG311784 | 2016 Subaru Crosstrek | $11,811 | $9,979 | -$1,832 |
+| 1FTFW1EF2DFA41700 | 2013 Ford F-150 | $2,000 | $375 | -$1,625 |
+| 1C4RJKAG1S8630318 | 2025 Jeep Grand Cherokee L | $37,950 | $36,414 | -$1,536 |

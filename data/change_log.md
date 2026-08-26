@@ -1684,3 +1684,38 @@
 | JF2GPABCXGG311784 | 2016 Subaru Crosstrek | $11,811 | $9,979 | -$1,832 |
 | 1FTFW1EF2DFA41700 | 2013 Ford F-150 | $2,000 | $375 | -$1,625 |
 | 1C4RJKAG1S8630318 | 2025 Jeep Grand Cherokee L | $37,950 | $36,414 | -$1,536 |
+
+## 2026-08-26
+
+- New listings: 161
+- Removed / sold: 172
+- Price changes: 590
+- Biggest price drop: 2023 Ford F-150 $36,590 -> $3,955
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTFW1E85PKE79575 | 2023 Ford F-150 | $36,590 | $3,955 | -$32,635 |
+| 1N6ED1FK4PN622619 | 2023 Nissan Frontier | $32,888 | $2,000 | -$30,888 |
+| KNDPUCAG6P7112481 | 2023 Kia Sportage Hybrid | $26,372 | $175 | -$26,197 |
+| WDCTG4GB6JJ490845 | 2018 Mercedes-Benz GLA | $23,895 | $18,954 | -$4,941 |
+| 5UX23EU02R9V38312 | 2024 BMW X5 | $54,995 | $51,995 | -$3,000 |
+| 58ADZ1B19MU109790 | 2021 LEXUS ES | $38,934 | $36,402 | -$2,532 |
+| 1GNEVHKW3PJ295890 | 2023 Chevrolet Traverse | $32,481 | $30,375 | -$2,106 |
+| 5UX53DP03P9R03368 | 2023 BMW X3 | $35,481 | $33,375 | -$2,106 |
+| 1FTYE1C81RKA84147 | 2024 Ford Transit-150 | $30,485 | $28,485 | -$2,000 |
+| 5J6RS6H89RL006545 | 2024 Honda CR-V Hybrid | $36,911 | $34,911 | -$2,000 |
+| 2C4RC1EG2LR209907 | 2020 Chrysler Pacifica | $22,911 | $20,911 | -$2,000 |
+| SALKP9FU8PA026765 | 2023 Land Rover Range Rover | $78,989 | $76,989 | -$2,000 |
+| 1FTFW1E58NFB13783 | 2022 Ford F-150 | $29,526 | $27,573 | -$1,953 |
+| 5J8YD8H94NL002396 | 2022 Acura MDX | $37,930 | $35,989 | -$1,941 |
+| 5NMZUDLB9JH066662 | 2018 Hyundai Santa Fe Sport | $2,000 | $125 | -$1,875 |
+| 3N1CN8DV2SL823153 | 2025 Nissan Versa | $2,000 | $140 | -$1,860 |
+| 1FT8W3BT7PED30788 | 2023 Ford F-350SD | $52,329 | $50,485 | -$1,844 |
+| 5NMP5DGL7RH032352 | 2024 Hyundai Santa Fe | $36,072 | $34,292 | -$1,780 |
+| 5N1DR3CC8PC211420 | 2023 Nissan Pathfinder | $27,078 | $25,375 | -$1,703 |
+| 5LMCJ2D94NUL33812 | 2022 Lincoln Corsair | $31,044 | $29,375 | -$1,669 |
+| 2LMPJ8K92NBL07245 | 2022 Lincoln Nautilus | $32,011 | $30,375 | -$1,636 |
+| 5LM5J7XC7PGL17621 | 2023 Lincoln Aviator | $45,991 | $44,375 | -$1,616 |
+| 1GC4YUEY8RF338577 | 2024 Chevrolet Silverado 3500HD | $65,990 | $64,390 | -$1,600 |
+| 5FNYF8H97MB029280 | 2021 Honda Passport | $25,511 | $23,911 | -$1,600 |
+| WDD2J5KB3KA027679 | 2019 Mercedes-Benz CLS | $35,933 | $34,375 | -$1,558 |

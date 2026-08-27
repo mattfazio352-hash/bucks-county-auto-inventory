@@ -16,12 +16,13 @@
       "financingUrl": null
     }
   },
-  "vehicleCount": 133,
+  "vehicleCount": 130,
+  "scrapedAt": "2026-08-27T15:15:48.756Z",
   "vehicles": [
     {
       "dealerId": "oneil-nissan",
       "listingUrl": "https://www.oneilnissan.com/promotions/used/index.htm",
-      "vin": "5N1BT3BB3TC852910",
+      "vin": "5N1DR3DK3TC283237",
       "stockNumber": null,
       "year": null,
       "make": null,
@@ -37,19 +38,18 @@
       "drivetrain": null,
       "fuelType": null,
       "fuelEconomyMpg": null,
-      "salePrice": 30340,
+      "salePrice": 50370,
       "marketValuePrice": null,
       "availability": null,
-      "photoCount": 5,
+      "photoCount": 4,
       "photos": [
         "https://pictures.dealer.com/o/oneilnissanpa/1234/8df6879eb74e437bbb38a8970ce0a033.PNG",
-        "https://pictures.dealer.com/o/oneilnissanpa/0798/eb3685425002022a03cb1f24b3d5b204x.jpg",
-        "https://pictures.dealer.com/o/oneilnissanpa/0930/4b1fe6e3dc9bd9141e763362195cf21bx.jpg",
         "https://pictures.dealer.com/o/oneilnissanpa/0115/970c245a0fd432755a6580de2ac66523x.jpg",
-        "https://pictures.dealer.com/o/oneilnissanpa/1456/41997d7fa537f586415b50edd836bf0dx.jpg"
+        "https://pictures.dealer.com/o/oneilnissanpa/1583/933f900ec7497b1ef7b27955d6474e4cx.jpg",
+        "https://pictures.dealer.com/o/oneilnissanpa/0798/eb3685425002022a03cb1f24b3d5b204x.jpg"
       ],
       "description": null,
-      "scrapedAt": "2026-08-26T04:52:37.090Z"
+      "scrapedAt": "2026-08-27T15:12:49.210Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -78,7 +78,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0167/2c78e9c2cc8501b692c610014f87eea0x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $26990",
-      "scrapedAt": "2026-08-26T04:52:39.603Z"
+      "scrapedAt": "2026-08-27T15:12:51.538Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -107,7 +107,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0167/2c78e9c2cc8501b692c610014f87eea0x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $26990",
-      "scrapedAt": "2026-08-26T04:52:39.931Z"
+      "scrapedAt": "2026-08-27T15:12:50.161Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -136,7 +136,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0904/45cd6fc0459f4f7d11f9b9e8ff27a7c1x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Gun Metallic SL SUV available for $35598",
-      "scrapedAt": "2026-08-26T04:52:40.405Z"
+      "scrapedAt": "2026-08-27T15:12:51.437Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -165,7 +165,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0904/45cd6fc0459f4f7d11f9b9e8ff27a7c1x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Gun Metallic SL SUV available for $35598",
-      "scrapedAt": "2026-08-26T04:52:40.119Z"
+      "scrapedAt": "2026-08-27T15:12:50.967Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -194,7 +194,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0009/1daad0edeea79ac514b6e4204f5c9095x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Gun Metallic SL SUV available for $30490",
-      "scrapedAt": "2026-08-26T04:52:45.854Z"
+      "scrapedAt": "2026-08-27T15:12:55.142Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -223,7 +223,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0009/1daad0edeea79ac514b6e4204f5c9095x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Gun Metallic SL SUV available for $30490",
-      "scrapedAt": "2026-08-26T04:52:47.384Z"
+      "scrapedAt": "2026-08-27T15:12:57.407Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -252,7 +252,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1481/cb6d8f059d1ef7636068de51e06df80fx.jpg"
       ],
       "description": "Is this 2022 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Deep Ocean Blue Pearl SV SUV available for $23490",
-      "scrapedAt": "2026-08-26T04:52:47.053Z"
+      "scrapedAt": "2026-08-27T15:12:56.574Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -281,7 +281,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1242/0e6fdf0839472c741dd441d4747bbc94x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV SUV available for $22990",
-      "scrapedAt": "2026-08-26T04:52:49.220Z"
+      "scrapedAt": "2026-08-27T15:12:59.198Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -310,7 +310,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1362/597b299b817aef055fa46e19dbcfecc3x.jpg"
       ],
       "description": "Is this 2025 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Gun Metallic SL SUV available for $35026",
-      "scrapedAt": "2026-08-26T04:52:46.931Z"
+      "scrapedAt": "2026-08-27T15:13:00.762Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -339,7 +339,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0965/6c3604420d64c48e7eaf59af9a316d23x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV SUV available for $25370",
-      "scrapedAt": "2026-08-26T04:52:49.528Z"
+      "scrapedAt": "2026-08-27T15:13:00.766Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -368,7 +368,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1692/46203e377a8eebacd3e1ca0186394d35x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $25609",
-      "scrapedAt": "2026-08-26T04:52:54.354Z"
+      "scrapedAt": "2026-08-27T15:13:04.113Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -397,7 +397,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0088/f458aa078e1a4a82145f534964a3fa19x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $25078",
-      "scrapedAt": "2026-08-26T04:52:54.827Z"
+      "scrapedAt": "2026-08-27T15:13:04.590Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -426,7 +426,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0441/b197b37c97c6a634a7fd2b76ee72addbx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $23762",
-      "scrapedAt": "2026-08-26T04:52:55.835Z"
+      "scrapedAt": "2026-08-27T15:13:05.221Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -455,7 +455,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0021/4a63aec3c4037b110dfd502d0ee35211x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Deep Ocean Blue Pearl SL SUV available for $36445",
-      "scrapedAt": "2026-08-26T04:52:56.133Z"
+      "scrapedAt": "2026-08-27T15:13:08.809Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -484,7 +484,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1949/9e46bd8f320d1a8b0fb64de468a238a7x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Caspian Blue Metallic SL SUV available for $25951",
-      "scrapedAt": "2026-08-26T04:52:57.785Z"
+      "scrapedAt": "2026-08-27T15:13:09.035Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -513,7 +513,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0589/4d9e6b9ce304881165daafc7419b731fx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black Platinum SUV available for $26082",
-      "scrapedAt": "2026-08-26T04:52:58.871Z"
+      "scrapedAt": "2026-08-27T15:13:08.563Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -542,7 +542,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1268/ef51947924344c5eae5a523b28e71eadx.jpg"
       ],
       "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Afterburn Orange PRO-4X Truck Crew Cab available for $41780",
-      "scrapedAt": "2026-08-26T04:53:02.581Z"
+      "scrapedAt": "2026-08-27T15:13:12.444Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -571,36 +571,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1503/6cd740615c7fc296bb24d127d33093cfx.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Deep Ocean Blue Pearl SL SUV available for $34695",
-      "scrapedAt": "2026-08-26T04:53:03.524Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Altima-3d506cfaac18279a8a8609aceebcd3ef.htm",
-      "vin": "1N4BL4DV4PN377835",
-      "stockNumber": "7987",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 29614,
-      "exteriorColor": "Super Black",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "FWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "27/39 MPG City/HwyDetails",
-      "salePrice": 21930,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1981/0edd6dacee0974fad3c17374b887f1b0x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Super Black 2.5 SV Sedan available for $21930",
-      "scrapedAt": "2026-08-26T04:53:04.706Z"
+      "scrapedAt": "2026-08-27T15:13:12.043Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -629,7 +600,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0787/547d1eba12ba22d59379fec642064bd7x.jpg"
       ],
       "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat 2.5 SV Sedan available for $23478",
-      "scrapedAt": "2026-08-26T04:53:05.645Z"
+      "scrapedAt": "2026-08-27T15:13:12.495Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -658,7 +629,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0392/51e9ddc6c838d5ee71389b794e2f4df9x.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black SL SUV available for $34490",
-      "scrapedAt": "2026-08-26T04:53:06.847Z"
+      "scrapedAt": "2026-08-27T15:13:17.819Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -687,7 +658,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0492/077077dc53a95f9c92069bdd0e080668x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $22490",
-      "scrapedAt": "2026-08-26T04:53:06.736Z"
+      "scrapedAt": "2026-08-27T15:13:17.562Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -716,7 +687,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0775/7cae8a088c0a1f8f5082cfe0ab8d6115x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $24150",
-      "scrapedAt": "2026-08-26T04:53:11.674Z"
+      "scrapedAt": "2026-08-27T15:13:18.676Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -745,7 +716,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0930/33182dac38eeb9e34065b6456e51df58x.jpg"
       ],
       "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Afterburn Orange PRO-4X Truck Crew Cab available for $41305",
-      "scrapedAt": "2026-08-26T04:53:12.332Z"
+      "scrapedAt": "2026-08-27T15:13:21.515Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -774,94 +745,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0197/e715144a87c4d490450b0812fcb63c9fx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl SL SUV available for $26710",
-      "scrapedAt": "2026-08-26T04:53:13.726Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Altima-6684393aac185f3310451e592d4a700b.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "1N4BL4DW0PN381437",
-      "stockNumber": "7997",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 37957,
-      "exteriorColor": "Pearl White Tricoat",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "26/36 MPG City/HwyDetails",
-      "salePrice": 23478,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0787/547d1eba12ba22d59379fec642064bd7x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat 2.5 SV Sedan available for $23478",
-      "scrapedAt": "2026-08-26T04:53:14.967Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Pathfinder-661cbfe9ac180b21af76d64659ad8a16.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "5N1DR3CD3PC269069",
-      "stockNumber": "7995",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "trim": "Powertrain",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 29968,
-      "exteriorColor": "Super Black",
-      "interiorColor": "Charcoal",
-      "engine": "V-6 cyl",
-      "transmission": "9-Speed Automatic",
-      "drivetrain": "4WD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "20/25 MPG City/HwyDetails",
-      "salePrice": 34490,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0392/51e9ddc6c838d5ee71389b794e2f4df9x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black SL SUV available for $34490",
-      "scrapedAt": "2026-08-26T04:53:15.975Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-6b43243cac180f7172833b10bad3cfe7.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "JN8BT3BB6PW473042",
-      "stockNumber": "8000",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 46384,
-      "exteriorColor": "Super Black",
-      "interiorColor": "Charcoal",
-      "engine": "I-3 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
-      "salePrice": 22490,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0492/077077dc53a95f9c92069bdd0e080668x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $22490",
-      "scrapedAt": "2026-08-26T04:53:14.667Z"
+      "scrapedAt": "2026-08-27T15:13:20.557Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -890,7 +774,94 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0049/53fb0e149d8c6c0541b5567003a8fe4cx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Champagne Silver Metallic Platinum SUV available for $29149",
-      "scrapedAt": "2026-08-26T04:53:20.499Z"
+      "scrapedAt": "2026-08-27T15:13:21.127Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Pathfinder-661cbfe9ac180b21af76d64659ad8a16.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "5N1DR3CD3PC269069",
+      "stockNumber": "7995",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "Powertrain",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 29968,
+      "exteriorColor": "Super Black",
+      "interiorColor": "Charcoal",
+      "engine": "V-6 cyl",
+      "transmission": "9-Speed Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "20/25 MPG City/HwyDetails",
+      "salePrice": 34490,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0392/51e9ddc6c838d5ee71389b794e2f4df9x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black SL SUV available for $34490",
+      "scrapedAt": "2026-08-27T15:13:26.765Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-6b43243cac180f7172833b10bad3cfe7.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "JN8BT3BB6PW473042",
+      "stockNumber": "8000",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Driver door bin",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 46384,
+      "exteriorColor": "Super Black",
+      "interiorColor": "Charcoal",
+      "engine": "I-3 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
+      "salePrice": 22490,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0492/077077dc53a95f9c92069bdd0e080668x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $22490",
+      "scrapedAt": "2026-08-27T15:13:26.811Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-6b4326e4ac1808e420067eb133b50bd3.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "5N1BT3BB8PC827426",
+      "stockNumber": "7999",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Split folding rear seat",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 39111,
+      "exteriorColor": "Pearl White Tricoat",
+      "interiorColor": "Charcoal",
+      "engine": "I-3 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
+      "salePrice": 24150,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0775/7cae8a088c0a1f8f5082cfe0ab8d6115x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $24150",
+      "scrapedAt": "2026-08-27T15:13:27.070Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -919,7 +890,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1795/b7a722bed967457007de6984e7bdaa82x.jpg"
       ],
       "description": "Is this 2026 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Deep Ocean Blue Pearl SV SUV available for $29490",
-      "scrapedAt": "2026-08-26T04:53:21.940Z"
+      "scrapedAt": "2026-08-27T15:13:29.994Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -948,36 +919,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1051/4b4fe0bec41d13aeb558bea01fe81988x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Caspian Blue SV SUV available for $24823",
-      "scrapedAt": "2026-08-26T04:53:21.917Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2017-Nissan-Rogue-89b9d715ac1808fae17e6de25748fd9d.htm",
-      "vin": "5N1AT2MV0HC790810",
-      "stockNumber": "7923A",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Rogue",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 68400,
-      "exteriorColor": "Brilliant Silver",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "25/32 MPG City/HwyDetails",
-      "salePrice": 16690,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0824/322392643e30a35005169b8b6aff51f3x.jpg"
-      ],
-      "description": "Is this 2017 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Brilliant Silver SV SUV available for $16690",
-      "scrapedAt": "2026-08-26T04:53:24.005Z"
+      "scrapedAt": "2026-08-27T15:13:31.194Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1006,7 +948,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0293/8bec026afd5047a81a21b6b23a04faadx.jpg"
       ],
       "description": "Is this 2021 Mercedes-Benz Sprinter 2500 your perfect car? Contact O'Neil Nissan to see this Iridium Silver Standard Roof V6 Van Cargo Van available for $38516",
-      "scrapedAt": "2026-08-26T04:53:22.829Z"
+      "scrapedAt": "2026-08-27T15:13:31.189Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1035,7 +977,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1233/fbcf1187da5a696e5ba38a6a4151fd7ex.jpg"
       ],
       "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl PRO-4X Truck Crew Cab available for $42105",
-      "scrapedAt": "2026-08-26T04:53:24.925Z"
+      "scrapedAt": "2026-08-27T15:13:35.321Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1064,7 +1006,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1311/b5abcc0c201624a5061a5dc150bc22b9x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Caspian Blue Metallic Platinum SUV available for $29510",
-      "scrapedAt": "2026-08-26T04:53:29.160Z"
+      "scrapedAt": "2026-08-27T15:13:35.401Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1093,7 +1035,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0387/3e1c872ada2b1267d7d62a9b7c042864x.jpg"
       ],
       "description": "Is this 2025 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SL SUV available for $33911",
-      "scrapedAt": "2026-08-26T04:53:31.042Z"
+      "scrapedAt": "2026-08-27T15:13:36.667Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1122,7 +1064,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0819/915a79b2491f4f064f3cfa912190c509x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SL SUV available for $27434",
-      "scrapedAt": "2026-08-26T04:53:31.610Z"
+      "scrapedAt": "2026-08-27T15:13:39.085Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1151,7 +1093,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0722/aea7d9a7418d2bec520fc29e50d5b6bfx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV SUV available for $25372",
-      "scrapedAt": "2026-08-26T04:53:31.626Z"
+      "scrapedAt": "2026-08-27T15:13:39.960Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1180,7 +1122,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1012/82f69e586e90b7666b2f03b3e3e6a537x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $24716",
-      "scrapedAt": "2026-08-26T04:53:32.614Z"
+      "scrapedAt": "2026-08-27T15:13:39.631Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1209,7 +1151,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1898/422578e8fea7f36af85b5d3bf90a92b1x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV SUV available for $24293",
-      "scrapedAt": "2026-08-26T04:53:33.190Z"
+      "scrapedAt": "2026-08-27T15:13:44.194Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1238,7 +1180,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1349/cc46458a15304abd796e12074de93c69x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Brilliant Silver SV SUV available for $24490",
-      "scrapedAt": "2026-08-26T04:53:37.898Z"
+      "scrapedAt": "2026-08-27T15:13:43.793Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1267,7 +1209,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1258/b8612050ca780db25ca3068f058788ffx.jpg"
       ],
       "description": "Is this 2024 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Black Diamond Pearl EVOLVE+ SUV available for $33190",
-      "scrapedAt": "2026-08-26T04:53:39.221Z"
+      "scrapedAt": "2026-08-27T15:13:45.030Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1296,7 +1238,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1066/3ad5f22a70b37d36185c424b8f4717acx.jpg"
       ],
       "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Super Black PRO-4X Truck Crew Cab available for $40607",
-      "scrapedAt": "2026-08-26T04:53:39.458Z"
+      "scrapedAt": "2026-08-27T15:13:48.039Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1325,7 +1267,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1800/0d9a30bb655130b16dc6dbb8494f1ae9x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $25930",
-      "scrapedAt": "2026-08-26T04:53:40.990Z"
+      "scrapedAt": "2026-08-27T15:13:47.730Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1354,7 +1296,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0913/2f7c5c6fa365ef6443b8cbf17a5daedbx.jpg"
       ],
       "description": "Is this 2023 INFINITI QX55 your perfect car? Contact O'Neil Nissan to see this Radiant White SENSORY SUV available for $33941",
-      "scrapedAt": "2026-08-26T04:53:40.703Z"
+      "scrapedAt": "2026-08-27T15:13:48.258Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1383,94 +1325,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1633/a974f0999dbec7c7973be54cdce88046x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Glacier White S SUV available for $23151",
-      "scrapedAt": "2026-08-26T04:53:42.307Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-8fbb8c0bac1840c24df21808a84878da.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "5N1BT3BB5PC858925",
-      "stockNumber": "8027",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 35608,
-      "exteriorColor": "Brilliant Silver",
-      "interiorColor": "Charcoal",
-      "engine": "I-3 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
-      "salePrice": 24490,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1349/cc46458a15304abd796e12074de93c69x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Brilliant Silver SV SUV available for $24490",
-      "scrapedAt": "2026-08-26T04:53:46.335Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2024-Nissan-ARIYA-94e53a77ac18152ec7ee5973f0f3fa00.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "JN1DF0BB0RM736234",
-      "stockNumber": "8035",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "ARIYA",
-      "trim": "Powertrain",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 16974,
-      "exteriorColor": "Black Diamond Pearl",
-      "interiorColor": "Hai Gray",
-      "engine": null,
-      "transmission": "CVT",
-      "drivetrain": "AWD",
-      "fuelType": "BEV (battery electric vehicle)",
-      "fuelEconomyMpg": "92Details",
-      "salePrice": 33190,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1258/b8612050ca780db25ca3068f058788ffx.jpg"
-      ],
-      "description": "Is this 2024 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Black Diamond Pearl EVOLVE+ SUV available for $33190",
-      "scrapedAt": "2026-08-26T04:53:48.670Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2025-Nissan-Frontier-9476a563ac18152ec7ee5973079d70c6.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "1N6ED1EK2SN643818",
-      "stockNumber": "8034",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Frontier",
-      "trim": "Split folding rear seat",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 12954,
-      "exteriorColor": "Super Black",
-      "interiorColor": "Charcoal",
-      "engine": "V-6 cyl",
-      "transmission": "9-Speed Automatic with Overdrive",
-      "drivetrain": "4WD",
-      "fuelType": "Regular gasoline",
-      "fuelEconomyMpg": "18/22 MPG City/HwyDetails",
-      "salePrice": 40607,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1066/3ad5f22a70b37d36185c424b8f4717acx.jpg"
-      ],
-      "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Super Black PRO-4X Truck Crew Cab available for $40607",
-      "scrapedAt": "2026-08-26T04:53:48.888Z"
+      "scrapedAt": "2026-08-27T15:13:51.694Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1499,7 +1354,94 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1816/82f088f6e266d581a2ddd5bff8c7caf8x.jpg"
       ],
       "description": "Is this 2025 Honda HR-V your perfect car? Contact O'Neil Nissan to see this Lunar Silver Metallic Sport SUV available for $27490",
-      "scrapedAt": "2026-08-26T04:53:49.311Z"
+      "scrapedAt": "2026-08-27T15:13:52.118Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2025-Nissan-Frontier-9476a563ac18152ec7ee5973079d70c6.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "1N6ED1EK2SN643818",
+      "stockNumber": "8034",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "Split folding rear seat",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 12954,
+      "exteriorColor": "Super Black",
+      "interiorColor": "Charcoal",
+      "engine": "V-6 cyl",
+      "transmission": "9-Speed Automatic with Overdrive",
+      "drivetrain": "4WD",
+      "fuelType": "Regular gasoline",
+      "fuelEconomyMpg": "18/22 MPG City/HwyDetails",
+      "salePrice": 40607,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1066/3ad5f22a70b37d36185c424b8f4717acx.jpg"
+      ],
+      "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Super Black PRO-4X Truck Crew Cab available for $40607",
+      "scrapedAt": "2026-08-27T15:13:54.102Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-9476a403ac18152ec7ee5973de9900e8.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "JN8BT3BB6PW492903",
+      "stockNumber": "8033",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Driver door bin",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 23565,
+      "exteriorColor": "Super Black",
+      "interiorColor": "Charcoal",
+      "engine": "I-3 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
+      "salePrice": 25930,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1800/0d9a30bb655130b16dc6dbb8494f1ae9x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $25930",
+      "scrapedAt": "2026-08-27T15:13:57.237Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/INFINITI/2023-INFINITI-QX55-a89d76f9ac185770be9bb432afe2691f.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "3PCAJ5LR5PF114502",
+      "stockNumber": "8041",
+      "year": 2023,
+      "make": "INFINITI",
+      "model": "QX55",
+      "trim": "Split folding rear seat",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 47058,
+      "exteriorColor": "Radiant White",
+      "interiorColor": "Monaco Red/Graphite",
+      "engine": "I-4 cyl",
+      "transmission": "CVT",
+      "drivetrain": "AWD",
+      "fuelType": "Premium Unleaded",
+      "fuelEconomyMpg": "22/28 MPG City/HwyDetails",
+      "salePrice": 33941,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0913/2f7c5c6fa365ef6443b8cbf17a5daedbx.jpg"
+      ],
+      "description": "Is this 2023 INFINITI QX55 your perfect car? Contact O'Neil Nissan to see this Radiant White SENSORY SUV available for $33941",
+      "scrapedAt": "2026-08-27T15:13:56.525Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1528,7 +1470,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0014/d48ba921c3cb5282575d134f89ab88c9x.jpg"
       ],
       "description": "Is this 2016 Buick Encore your perfect car? Contact O'Neil Nissan to see this Winterberry Red SUV available for $14295",
-      "scrapedAt": "2026-08-26T04:53:49.861Z"
+      "scrapedAt": "2026-08-27T15:13:57.318Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1557,7 +1499,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1075/61e8d0848be2b95cdc14b70de3c72ef1x.jpg"
       ],
       "description": "Is this 2023 Subaru Ascent your perfect car? Contact O'Neil Nissan to see this Ice Silver Limited 7-Passenger SUV available for $30934",
-      "scrapedAt": "2026-08-26T04:53:51.910Z"
+      "scrapedAt": "2026-08-27T15:14:01.024Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1586,7 +1528,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1415/6c513068678febdb8e88f931444a0f28x.jpg"
       ],
       "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Gray Sky Pearl 2.5 SR Sedan available for $25490",
-      "scrapedAt": "2026-08-26T04:53:54.888Z"
+      "scrapedAt": "2026-08-27T15:14:01.244Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1615,7 +1557,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0125/7afaa591c4e00aff8923770ddf4aaf68x.jpg"
       ],
       "description": "Is this 2023 Nissan Maxima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat Platinum Sedan available for $37489",
-      "scrapedAt": "2026-08-26T04:53:56.697Z"
+      "scrapedAt": "2026-08-27T15:14:01.542Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1644,7 +1586,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1787/0cffe338505fa2c8f62b2dc1a9280ebbx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $25292",
-      "scrapedAt": "2026-08-26T04:53:57.689Z"
+      "scrapedAt": "2026-08-27T15:14:04.825Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1673,7 +1615,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0405/cc68aad45f6a70f315183994f55f06d7x.jpg"
       ],
       "description": "Is this 2023 Buick Encore GX your perfect car? Contact O'Neil Nissan to see this Cinnabar Preferred SUV available for $20490",
-      "scrapedAt": "2026-08-26T04:53:56.951Z"
+      "scrapedAt": "2026-08-27T15:14:05.161Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1702,7 +1644,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0664/acf937dce6a31705610e91bbcaff4844x.jpg"
       ],
       "description": "Is this 2025 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Bluestone Pearl SL Sedan available for $30042",
-      "scrapedAt": "2026-08-26T04:53:59.273Z"
+      "scrapedAt": "2026-08-27T15:14:05.532Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1731,7 +1673,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1826/0b17589ac7f351a17b6fcefa76d98358x.jpg"
       ],
       "description": "Is this 2020 Nissan Sentra your perfect car? Contact O'Neil Nissan to see this Rosewood SV Sedan available for $19489",
-      "scrapedAt": "2026-08-26T04:54:01.113Z"
+      "scrapedAt": "2026-08-27T15:14:09.484Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1760,7 +1702,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0994/fcd19df9e0ba7b0488aa4d122a837606x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Caspian Blue S SUV available for $22490",
-      "scrapedAt": "2026-08-26T04:54:03.669Z"
+      "scrapedAt": "2026-08-27T15:14:10.334Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1789,7 +1731,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1945/2bba70f40ffd896a24cbca7dbac2aea6x.jpg"
       ],
       "description": "Is this 2023 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl Black Diamond Pearl EVOLVE+ SUV available for $29807",
-      "scrapedAt": "2026-08-26T04:54:06.151Z"
+      "scrapedAt": "2026-08-27T15:14:09.781Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1818,7 +1760,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0619/ec17bce0bc9919efdb1ad218fcf306a7x.jpg"
       ],
       "description": "Is this 2024 Nissan Versa your perfect car? Contact O'Neil Nissan to see this Super Black Metallic 1.6 S Sedan available for $19090",
-      "scrapedAt": "2026-08-26T04:54:05.633Z"
+      "scrapedAt": "2026-08-27T15:14:13.391Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1847,7 +1789,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0287/3984fd64e36420b97db41482ba1cbe57x.jpg"
       ],
       "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Super Black 2.5 SV Sedan available for $20455",
-      "scrapedAt": "2026-08-26T04:54:06.231Z"
+      "scrapedAt": "2026-08-27T15:14:14.652Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1876,7 +1818,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0396/edd703803e19d388fb67281949a1bd40x.jpg"
       ],
       "description": "Is this 2023 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl SL SUV available for $32942",
-      "scrapedAt": "2026-08-26T04:54:09.035Z"
+      "scrapedAt": "2026-08-27T15:14:13.874Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1905,7 +1847,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0945/160bbe7399633f4cbfe70fdf74de805cx.jpg"
       ],
       "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat Super Black Rock Creek SUV available for $36490",
-      "scrapedAt": "2026-08-26T04:54:09.434Z"
+      "scrapedAt": "2026-08-27T15:14:17.740Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1934,7 +1876,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0622/b273a4b9dcc9ddaa5fe638948387be08x.jpg"
       ],
       "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat 2.5 SV Sedan available for $23490",
-      "scrapedAt": "2026-08-26T04:54:13.573Z"
+      "scrapedAt": "2026-08-27T15:14:19.401Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -1963,94 +1905,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0721/86c5a888f59b51f881b7f8dad5b08787x.jpg"
       ],
       "description": "Is this 2022 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SL SUV available for $25190",
-      "scrapedAt": "2026-08-26T04:54:15.029Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2024-Nissan-Versa-1a5f27efac185cc92880da079aaacd1e.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "3N1CN8DVXRL850319",
-      "stockNumber": "8068",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Versa",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 12900,
-      "exteriorColor": "Super Black Metallic",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT",
-      "drivetrain": "FWD",
-      "fuelType": "Regular gasoline",
-      "fuelEconomyMpg": "32/40 MPG City/HwyDetails",
-      "salePrice": 19090,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0619/ec17bce0bc9919efdb1ad218fcf306a7x.jpg"
-      ],
-      "description": "Is this 2024 Nissan Versa your perfect car? Contact O'Neil Nissan to see this Super Black Metallic 1.6 S Sedan available for $19090",
-      "scrapedAt": "2026-08-26T04:54:14.470Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Altima-1f832cfdac183768508a175fc9062a78.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "1N4BL4DVXPN402866",
-      "stockNumber": "8073",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 57602,
-      "exteriorColor": "Super Black",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "FWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "27/39 MPG City/HwyDetails",
-      "salePrice": 20455,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0287/3984fd64e36420b97db41482ba1cbe57x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Super Black 2.5 SV Sedan available for $20455",
-      "scrapedAt": "2026-08-26T04:54:14.864Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Murano-1f10b8ebac183768508a175f6b606611.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "5N1AZ2CS1PC136287",
-      "stockNumber": "8070",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Murano",
-      "trim": "Power passenger seat",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 10271,
-      "exteriorColor": "Boulder Gray Pearl",
-      "interiorColor": "Graphite",
-      "engine": "V-6 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "20/28 MPG City/HwyDetails",
-      "salePrice": 32942,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0396/edd703803e19d388fb67281949a1bd40x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl SL SUV available for $32942",
-      "scrapedAt": "2026-08-26T04:54:19.029Z"
+      "scrapedAt": "2026-08-27T15:14:18.516Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2079,7 +1934,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0259/d0541c85f57bd1654a0f74c68f158720x.jpg"
       ],
       "description": "Is this 2026 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Aurora Blue Pearl Metallic Super Black Platinum SUV available for $43490",
-      "scrapedAt": "2026-08-26T04:54:17.118Z"
+      "scrapedAt": "2026-08-27T15:14:22.519Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2108,7 +1963,94 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1727/82f6f047f6c100e564fdd1b56ebbda6bx.jpg"
       ],
       "description": "Is this 2026 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Champagne Silver Metallic Platinum SUV available for $43490",
-      "scrapedAt": "2026-08-26T04:54:22.711Z"
+      "scrapedAt": "2026-08-27T15:14:23.098Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Murano-1f10b8ebac183768508a175f6b606611.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "5N1AZ2CS1PC136287",
+      "stockNumber": "8070",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "trim": "Power passenger seat",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 10271,
+      "exteriorColor": "Boulder Gray Pearl",
+      "interiorColor": "Graphite",
+      "engine": "V-6 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "20/28 MPG City/HwyDetails",
+      "salePrice": 32942,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0396/edd703803e19d388fb67281949a1bd40x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl SL SUV available for $32942",
+      "scrapedAt": "2026-08-27T15:14:23.367Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Pathfinder-1f10baceac185abe565e24b0be39b49e.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "5N1DR3BD8PC251295",
+      "stockNumber": "8072",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "trim": "Powertrain",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 16083,
+      "exteriorColor": "Pearl White Tricoat Super Black",
+      "interiorColor": "Charcoal",
+      "engine": "V-6 cyl",
+      "transmission": "9-Speed Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Premium Unleaded",
+      "fuelEconomyMpg": "20/23 MPG City/HwyDetails",
+      "salePrice": 36490,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0945/160bbe7399633f4cbfe70fdf74de805cx.jpg"
+      ],
+      "description": "Is this 2023 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat Super Black Rock Creek SUV available for $36490",
+      "scrapedAt": "2026-08-27T15:14:26.398Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Altima-24aa011aac182d12aed28c669e7e3717.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "1N4BL4DV6PN397987",
+      "stockNumber": "8075",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Altima",
+      "trim": "Driver door bin",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 17389,
+      "exteriorColor": "Pearl White Tricoat",
+      "interiorColor": "Light Gray",
+      "engine": "I-4 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "FWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "27/39 MPG City/HwyDetails",
+      "salePrice": 23490,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0622/b273a4b9dcc9ddaa5fe638948387be08x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat 2.5 SV Sedan available for $23490",
+      "scrapedAt": "2026-08-27T15:14:28.988Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2137,7 +2079,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1074/15799ea2100fda9f2b914ac237c94caex.jpg"
       ],
       "description": "Is this 2024 Nissan Versa your perfect car? Contact O'Neil Nissan to see this Brilliant Silver Metallic 1.6 S Sedan available for $19715",
-      "scrapedAt": "2026-08-26T04:54:24.182Z"
+      "scrapedAt": "2026-08-27T15:14:28.636Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2166,7 +2108,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1326/133dafca2ec980dca85ad4eb58613813x.jpg"
       ],
       "description": "Is this 2019 INFINITI QX80 your perfect car? Contact O'Neil Nissan to see this Moonstone White LUXE SUV available for $27299",
-      "scrapedAt": "2026-08-26T04:54:23.044Z"
+      "scrapedAt": "2026-08-27T15:14:29.846Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2195,7 +2137,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2014 Nissan Juke your perfect car? Contact O'Neil Nissan to see this Brilliant Silver SV SUV available for $13480",
-      "scrapedAt": "2026-08-26T04:54:23.972Z"
+      "scrapedAt": "2026-08-27T15:14:29.999Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2224,7 +2166,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0011/1eca0f16570d5f8a7b5eeae6239fd772x.jpg"
       ],
       "description": "Is this 2025 Nissan Z your perfect car? Contact O'Neil Nissan to see this Pearl White Super Black Performance Coupe available for $49290",
-      "scrapedAt": "2026-08-26T04:54:26.734Z"
+      "scrapedAt": "2026-08-27T15:14:32.423Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2253,7 +2195,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1332/1ea8c5d9f8161b7f09654584b7084d07x.jpg"
       ],
       "description": "Is this 2016 BMW 528i your perfect car? Contact O'Neil Nissan to see this White Metallic xDrive Sedan available for $13689",
-      "scrapedAt": "2026-08-26T04:54:28.197Z"
+      "scrapedAt": "2026-08-27T15:14:35.251Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2282,7 +2224,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1474/af97d61f0d9d5cb1e5de52a83052ca96x.jpg"
       ],
       "description": "Is this 2019 Mazda Mazda CX-9 your perfect car? Contact O'Neil Nissan to see this Snowflake White Pearl Mica Sport SUV available for $19380",
-      "scrapedAt": "2026-08-26T04:54:31.181Z"
+      "scrapedAt": "2026-08-27T15:14:36.992Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2311,36 +2253,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1677/a4b72cb8fe1534a2edbb5c71af851074x.jpg"
       ],
       "description": "Is this 2024 Mazda CX-5 your perfect car? Contact O'Neil Nissan to see this Platinum Quartz 2.5 S Preferred Package SUV available for $28289",
-      "scrapedAt": "2026-08-26T04:54:32.140Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/INFINITI/2026-INFINITI-QX80-6270325eac1851c1ca6e0f38a34fdcec.htm",
-      "vin": "JN8AZ3DB9T9433747",
-      "stockNumber": "8090",
-      "year": 2026,
-      "make": "INFINITI",
-      "model": "QX80",
-      "trim": "Powertrain",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 4566,
-      "exteriorColor": "Mineral Black",
-      "interiorColor": "Dusk Blue",
-      "engine": "V-6 cyl",
-      "transmission": "9-Speed Automatic",
-      "drivetrain": "4WD",
-      "fuelType": "Premium Unleaded",
-      "fuelEconomyMpg": "16/19 MPG City/HwyDetails",
-      "salePrice": 83480,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0291/3701ea17f0758dedf77dd70cd186ef74x.jpg"
-      ],
-      "description": "Is this 2026 INFINITI QX80 your perfect car? Contact O'Neil Nissan to see this Mineral Black SPORT SUV available for $83480",
-      "scrapedAt": "2026-08-26T04:54:33.167Z"
+      "scrapedAt": "2026-08-27T15:14:37.137Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2369,7 +2282,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0087/ed679939723e2aebe92e8ade60d2e28fx.jpg"
       ],
       "description": "Is this 2023 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Scarlet Ember Tintcoat SL SUV available for $30399",
-      "scrapedAt": "2026-08-26T04:54:32.215Z"
+      "scrapedAt": "2026-08-27T15:14:39.433Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2398,7 +2311,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1881/10297f647a043a4bdfed8436ff4f56a6x.jpg"
       ],
       "description": "Is this 2025 INFINITI QX55 your perfect car? Contact O'Neil Nissan to see this Dynamic Sunstone Red SENSORY SUV available for $39409",
-      "scrapedAt": "2026-08-26T04:54:35.705Z"
+      "scrapedAt": "2026-08-27T15:14:38.933Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2427,36 +2340,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0696/b69550ca346d44ed5b307d36dec70f95x.jpg"
       ],
       "description": "Is this 2017 Nissan Rogue Sport your perfect car? Contact O'Neil Nissan to see this Magnetic Black SV SUV available for $16480",
-      "scrapedAt": "2026-08-26T04:54:37.530Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Chevrolet/2016-Chevrolet-Equinox-9589daeaac180aac8449eac6e37680ab.htm",
-      "vin": "2GNALCEK2G1185746",
-      "stockNumber": "8098",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "trim": "Rear seat center armrest",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 46764,
-      "exteriorColor": "Mosaic Black Metallic",
-      "interiorColor": "Jet Black",
-      "engine": "I-4 cyl",
-      "transmission": "6-Speed Automatic with Overdrive",
-      "drivetrain": "FWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "22/32 MPG City/HwyDetails",
-      "salePrice": 14480,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0734/2ae99a3edf5f0eac15b577ebbe41e71fx.jpg"
-      ],
-      "description": "Is this 2016 Chevrolet Equinox your perfect car? Contact O'Neil Nissan to see this Mosaic Black Metallic LT SUV available for $14480",
-      "scrapedAt": "2026-08-26T04:54:38.837Z"
+      "scrapedAt": "2026-08-27T15:14:42.026Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2485,7 +2369,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0152/3fb76cc0497a525bd632e4a324f71a53x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $26890",
-      "scrapedAt": "2026-08-26T04:54:41.217Z"
+      "scrapedAt": "2026-08-27T15:14:43.700Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2514,7 +2398,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1343/04f1a25b925d7cb3e488e31f49524ea3x.jpg"
       ],
       "description": "Is this 2020 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SL SUV available for $21490",
-      "scrapedAt": "2026-08-26T04:54:41.593Z"
+      "scrapedAt": "2026-08-27T15:14:46.359Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2543,7 +2427,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1882/32fe17b6d79d07db6ebf5b3d7650e339x.jpg"
       ],
       "description": "Is this 2024 Mazda MX-5 Miata your perfect car? Contact O'Neil Nissan to see this Zircon Sand Grand Touring Convertible available for $31090",
-      "scrapedAt": "2026-08-26T04:54:42.003Z"
+      "scrapedAt": "2026-08-27T15:14:46.573Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2572,123 +2456,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1466/df77637a8e27d67c0a01703c321fdceex.jpg"
       ],
       "description": "Is this 2006 GMC Envoy your perfect car? Contact O'Neil Nissan to see this Carbon SUV available for $9290",
-      "scrapedAt": "2026-08-26T04:54:44.704Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2017-Nissan-Rogue-Sport-8b3cb3f3ac1814e012e1fffcb436338a.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "JN1BJ1CRXHW136928",
-      "stockNumber": "26G747A",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Rogue Sport",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 60702,
-      "exteriorColor": "Magnetic Black",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "24/30 MPG City/HwyDetails",
-      "salePrice": 16480,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0696/b69550ca346d44ed5b307d36dec70f95x.jpg"
-      ],
-      "description": "Is this 2017 Nissan Rogue Sport your perfect car? Contact O'Neil Nissan to see this Magnetic Black SV SUV available for $16480",
-      "scrapedAt": "2026-08-26T04:54:47.110Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Chevrolet/2016-Chevrolet-Equinox-9589daeaac180aac8449eac6e37680ab.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "2GNALCEK2G1185746",
-      "stockNumber": "8098",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "trim": "Rear seat center armrest",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 46764,
-      "exteriorColor": "Mosaic Black Metallic",
-      "interiorColor": "Jet Black",
-      "engine": "I-4 cyl",
-      "transmission": "6-Speed Automatic with Overdrive",
-      "drivetrain": "FWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "22/32 MPG City/HwyDetails",
-      "salePrice": 14480,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0734/2ae99a3edf5f0eac15b577ebbe41e71fx.jpg"
-      ],
-      "description": "Is this 2016 Chevrolet Equinox your perfect car? Contact O'Neil Nissan to see this Mosaic Black Metallic LT SUV available for $14480",
-      "scrapedAt": "2026-08-26T04:54:48.089Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2023-Nissan-Rogue-a6ae80eaac1810ac5033d1c6f9cfea41.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "5N1BT3BB2PC868912",
-      "stockNumber": "8099",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 16320,
-      "exteriorColor": "Pearl White Tricoat",
-      "interiorColor": "Light Gray",
-      "engine": "I-3 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
-      "salePrice": 26890,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0152/3fb76cc0497a525bd632e4a324f71a53x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $26890",
-      "scrapedAt": "2026-08-26T04:54:49.591Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2023-Nissan-Rogue-c9e2ca32ac1851dcd4ad6f6fb859e3ec.htm",
-      "vin": "5N1BT3AB9PC933787",
-      "stockNumber": "26G659A",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "trim": "AM/FM Radio",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 17064,
-      "exteriorColor": "Glacier White",
-      "interiorColor": "Charcoal",
-      "engine": "I-3 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
-      "salePrice": 23274,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1514/fecaf4dd07637a2bc5d3a4f5d3f315ecx.jpg"
-      ],
-      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Glacier White S SUV available for $23274",
-      "scrapedAt": "2026-08-26T04:54:50.698Z"
+      "scrapedAt": "2026-08-27T15:14:47.461Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2717,7 +2485,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0200/cac7e5d9751114b993736d246b19b0f4x.jpg"
       ],
       "description": "Is this 2017 Ford Escape your perfect car? Contact O'Neil Nissan to see this Magnetic SE SUV available for $14390",
-      "scrapedAt": "2026-08-26T04:54:51.201Z"
+      "scrapedAt": "2026-08-27T15:14:48.065Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2746,7 +2514,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0537/f319dc32b7b71dd86054ec2c846d9a0cx.jpg"
       ],
       "description": "Is this 2022 Hyundai Tucson your perfect car? Contact O'Neil Nissan to see this Amazon Gray SEL SUV available for $20000",
-      "scrapedAt": "2026-08-26T04:54:53.505Z"
+      "scrapedAt": "2026-08-27T15:14:51.713Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2775,7 +2543,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2023 INFINITI QX60 your perfect car? Contact O'Neil Nissan to see this Majestic White LUXE SUV available for $35483",
-      "scrapedAt": "2026-08-26T04:54:53.911Z"
+      "scrapedAt": "2026-08-27T15:14:51.735Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2804,7 +2572,94 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2024 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Everest White Pearl Tricoat Black Diamond Pearl EVOLVE+ SUV available for $30890",
-      "scrapedAt": "2026-08-26T04:54:56.293Z"
+      "scrapedAt": "2026-08-27T15:14:54.132Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/Mazda/2024-Mazda-MX-5-Miata-b6262053ac18477fe6a88025d2fba46e.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "JM1NDAD75R0600985",
+      "stockNumber": "8105",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "MX-5 Miata",
+      "trim": "Powertrain",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 19428,
+      "exteriorColor": "Zircon Sand",
+      "interiorColor": "Black",
+      "engine": "I-4 cyl",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "RWD",
+      "fuelType": "Premium Unleaded",
+      "fuelEconomyMpg": "26/35 MPG City/HwyDetails",
+      "salePrice": 31090,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1882/32fe17b6d79d07db6ebf5b3d7650e339x.jpg"
+      ],
+      "description": "Is this 2024 Mazda MX-5 Miata your perfect car? Contact O'Neil Nissan to see this Zircon Sand Grand Touring Convertible available for $31090",
+      "scrapedAt": "2026-08-27T15:14:55.946Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/GMC/2006-GMC-Envoy-c9e2cb6aac1851dcd4ad6f6f2e2c89b7.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "1GKDT13S362345553",
+      "stockNumber": "26F122A",
+      "year": 2006,
+      "make": "GMC",
+      "model": "Envoy",
+      "trim": "Front Reclining Bucket Seats",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 56157,
+      "exteriorColor": "Carbon",
+      "interiorColor": "Ebony",
+      "engine": "I-6 cyl",
+      "transmission": "4-Speed Automatic with Overdrive",
+      "drivetrain": "4WD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "15/21 MPG City/HwyDetails",
+      "salePrice": 9290,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1466/df77637a8e27d67c0a01703c321fdceex.jpg"
+      ],
+      "description": "Is this 2006 GMC Envoy your perfect car? Contact O'Neil Nissan to see this Carbon SUV available for $9290",
+      "scrapedAt": "2026-08-27T15:14:56.344Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/Ford/2017-Ford-Escape-c9e2c1a5ac182e378e8730dc0b81bf43.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "1FMCU0GDXHUB94787",
+      "stockNumber": "8107",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "trim": "Powertrain",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 66353,
+      "exteriorColor": "Magnetic",
+      "interiorColor": "Charcoal Black",
+      "engine": "I-4 cyl",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "23/30 MPG City/HwyDetails",
+      "salePrice": 14390,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0200/cac7e5d9751114b993736d246b19b0f4x.jpg"
+      ],
+      "description": "Is this 2017 Ford Escape your perfect car? Contact O'Neil Nissan to see this Magnetic SE SUV available for $14390",
+      "scrapedAt": "2026-08-27T15:14:55.152Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2833,7 +2688,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0205/9f6f496b7a346f42658e054994d71c12x.jpg"
       ],
       "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Super Black 2.5 SV Sedan available for $23390",
-      "scrapedAt": "2026-08-26T04:54:58.576Z"
+      "scrapedAt": "2026-08-27T15:15:00.869Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2862,7 +2717,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0224/28fc2719b4b7c0b784315034850a942ax.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SL SUV available for $29392",
-      "scrapedAt": "2026-08-26T04:55:00.294Z"
+      "scrapedAt": "2026-08-27T15:15:00.632Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2891,7 +2746,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2024 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Deep Ocean Blue Pearl SL SUV available for $37655",
-      "scrapedAt": "2026-08-26T04:54:59.166Z"
+      "scrapedAt": "2026-08-27T15:15:02.002Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2920,36 +2775,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1311/b48ab1583c8964f97a1fa8e551bed3d1x.jpg"
       ],
       "description": "Is this 2024 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Gun Metallic ENGAGE+ SUV available for $30119",
-      "scrapedAt": "2026-08-26T04:55:01.632Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2025-Nissan-Kicks-de7a9f19ac18341fab2e75cb0c167081.htm",
-      "vin": "3N8AP6CB3SL302313",
-      "stockNumber": "8112R",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "trim": "Driver door bin",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 8379,
-      "exteriorColor": "Fresh Powder",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular gasoline",
-      "fuelEconomyMpg": "27/34 MPG City/HwyDetails",
-      "salePrice": 25480,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1834/eaf2c7b3509b0bcf225205ddd992ce06x.jpg"
-      ],
-      "description": "Is this 2025 Nissan Kicks your perfect car? Contact O'Neil Nissan to see this Fresh Powder SV SUV available for $25480",
-      "scrapedAt": "2026-08-26T04:55:02.180Z"
+      "scrapedAt": "2026-08-27T15:15:03.418Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -2978,7 +2804,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1089/48d0f7174c03ff6033aafd3fe919022dx.jpg"
       ],
       "description": "Is this 2023 INFINITI QX50 your perfect car? Contact O'Neil Nissan to see this Radiant White SPORT SUV available for $34356",
-      "scrapedAt": "2026-08-26T04:55:05.588Z"
+      "scrapedAt": "2026-08-27T15:15:05.123Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3007,7 +2833,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0835/96566f3c20d03870866ae4e26c9b5e07x.jpg"
       ],
       "description": "Is this 2019 LEXUS IS 300 your perfect car? Contact O'Neil Nissan to see this White Pearl Sedan available for $34489",
-      "scrapedAt": "2026-08-26T04:55:06.776Z"
+      "scrapedAt": "2026-08-27T15:15:04.863Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3036,7 +2862,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1063/ca059150beedc52f30254ebf91acc55fx.jpg"
       ],
       "description": "Is this 2023 Nissan Sentra your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV Sedan available for $22290",
-      "scrapedAt": "2026-08-26T04:55:09.592Z"
+      "scrapedAt": "2026-08-27T15:15:10.126Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3065,7 +2891,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0170/82784ce34abecd03e9668e5907c61386x.jpg"
       ],
       "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat 2.5 SL Sedan available for $28465",
-      "scrapedAt": "2026-08-26T04:55:08.519Z"
+      "scrapedAt": "2026-08-27T15:15:09.398Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3094,7 +2920,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2016 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Cayenne Red SV SUV available for $16290",
-      "scrapedAt": "2026-08-26T04:55:09.348Z"
+      "scrapedAt": "2026-08-27T15:15:09.416Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3123,65 +2949,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1882/e6e8f78814b8548f325bf2c603af716cx.jpg"
       ],
       "description": "Is this 2024 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Everest White Pearl Tricoat Black Diamond Pearl PLATINUM+ SUV available for $35989",
-      "scrapedAt": "2026-08-26T04:55:12.231Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2023-Nissan-Sentra-e258f20dac18003fe20877a2ffc1a882.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "3N1AB8CVXPY227929",
-      "stockNumber": "8080RA",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Sentra",
-      "trim": "Radio: AM/FM w/RDS/MP3/Aux-In",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 17958,
-      "exteriorColor": "Gun Metallic",
-      "interiorColor": "Charcoal",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "FWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "29/39 MPG City/HwyDetails",
-      "salePrice": 22290,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1063/ca059150beedc52f30254ebf91acc55fx.jpg"
-      ],
-      "description": "Is this 2023 Nissan Sentra your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV Sedan available for $22290",
-      "scrapedAt": "2026-08-26T04:55:15.176Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Altima-e330daf4ac18003fe20877a2617a9705.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "1N4BL4EW3PN416325",
-      "stockNumber": "8116",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": "Power passenger seat",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 17246,
-      "exteriorColor": "Pearl White Tricoat",
-      "interiorColor": "Light Gray",
-      "engine": "I-4 cyl",
-      "transmission": "CVT with Xtronic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "26/36 MPG City/HwyDetails",
-      "salePrice": 28465,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0170/82784ce34abecd03e9668e5907c61386x.jpg"
-      ],
-      "description": "Is this 2023 Nissan Altima your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat 2.5 SL Sedan available for $28465",
-      "scrapedAt": "2026-08-26T04:55:16.501Z"
+      "scrapedAt": "2026-08-27T15:15:11.809Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3210,7 +2978,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0489/31e4d5b8e18473fa91d2e4b4d0da4318x.jpg"
       ],
       "description": "Is this 2023 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Tactical Green PRO-4X Truck Crew Cab available for $39289",
-      "scrapedAt": "2026-08-26T04:55:17.024Z"
+      "scrapedAt": "2026-08-27T15:15:13.487Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3239,7 +3007,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1399/4b1fd34c02d6ae065bad043fedbd46c7x.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $26989",
-      "scrapedAt": "2026-08-26T04:55:16.991Z"
+      "scrapedAt": "2026-08-27T15:15:14.025Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3268,7 +3036,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1955/9b3558b8160cb1a35b36b3b10ba7c138x.jpg"
       ],
       "description": "Is this 2016 Kia Optima your perfect car? Contact O'Neil Nissan to see this Moss Gray EX Sedan available for $11480",
-      "scrapedAt": "2026-08-26T04:55:18.009Z"
+      "scrapedAt": "2026-08-27T15:15:18.375Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3297,7 +3065,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0366/187db030d2075363a8079215cc4dde1bx.jpg"
       ],
       "description": "Is this 2024 Nissan ARIYA your perfect car? Contact O'Neil Nissan to see this Boulder Gray Pearl Black Diamond Pearl PLATINUM+ SUV available for $36240",
-      "scrapedAt": "2026-08-26T04:55:21.176Z"
+      "scrapedAt": "2026-08-27T15:15:18.622Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3326,7 +3094,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1948/144cf1d7e21a8441ca1a4a20cfca51b2x.jpg"
       ],
       "description": "Is this 2026 Nissan Armada your perfect car? Contact O'Neil Nissan to see this Super Black PRO-4X SUV available for $70489",
-      "scrapedAt": "2026-08-26T04:55:23.606Z"
+      "scrapedAt": "2026-08-27T15:15:18.424Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3355,7 +3123,94 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0083/748a21e705ab743cc9ba1d8d3791cb88x.jpg"
       ],
       "description": "Is this 2025 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Super Black SV Truck Crew Cab available for $32989",
-      "scrapedAt": "2026-08-26T04:55:24.395Z"
+      "scrapedAt": "2026-08-27T15:15:20.033Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Frontier-fd617f1fac184a64f5d1c0fe2de6504c.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "1N6ED1EK3PN667326",
+      "stockNumber": "8121",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Frontier",
+      "trim": "Split folding rear seat",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 24663,
+      "exteriorColor": "Tactical Green",
+      "interiorColor": "Steel",
+      "engine": "V-6 cyl",
+      "transmission": "9-Speed Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "17/22 MPG City/HwyDetails",
+      "salePrice": 39289,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0489/31e4d5b8e18473fa91d2e4b4d0da4318x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Frontier your perfect car? Contact O'Neil Nissan to see this Tactical Green PRO-4X Truck Crew Cab available for $39289",
+      "scrapedAt": "2026-08-27T15:15:22.344Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-f7dc378dac180512e887ce9c39dabdd1.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "JN8BT3BB2PW488959",
+      "stockNumber": "8120",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Split folding rear seat",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 14587,
+      "exteriorColor": "Pearl White Tricoat",
+      "interiorColor": "Charcoal",
+      "engine": "I-3 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
+      "salePrice": 26989,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1399/4b1fd34c02d6ae065bad043fedbd46c7x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Pearl White Tricoat SV SUV available for $26989",
+      "scrapedAt": "2026-08-27T15:15:22.865Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/Kia/2016-Kia-Optima-07a92a8dac1820d641fd6599397fa79a.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "5XXGU4L35GG095969",
+      "stockNumber": "26A131B",
+      "year": 2016,
+      "make": "Kia",
+      "model": "Optima",
+      "trim": "AM/FM/CD/MP3 Radio",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 81451,
+      "exteriorColor": "Moss Gray",
+      "interiorColor": "Gray",
+      "engine": "I-4 cyl",
+      "transmission": "6-Speed Automatic with Sportmatic",
+      "drivetrain": "FWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "24/35 MPG City/HwyDetails",
+      "salePrice": 11480,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1955/9b3558b8160cb1a35b36b3b10ba7c138x.jpg"
+      ],
+      "description": "Is this 2016 Kia Optima your perfect car? Contact O'Neil Nissan to see this Moss Gray EX Sedan available for $11480",
+      "scrapedAt": "2026-08-27T15:15:27.610Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3384,7 +3239,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0833/a922659d5cecfa8aaffc8a7e11113625x.jpg"
       ],
       "description": "Is this 2016 Ford Escape your perfect car? Contact O'Neil Nissan to see this Deep Impact Blue SE SUV available for $14390",
-      "scrapedAt": "2026-08-26T04:55:25.283Z"
+      "scrapedAt": "2026-08-27T15:15:26.966Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3413,7 +3268,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2018 Toyota RAV4 your perfect car? Contact O'Neil Nissan to see this Blizzard Pearl Limited SUV available for $18390",
-      "scrapedAt": "2026-08-26T04:55:25.424Z"
+      "scrapedAt": "2026-08-27T15:15:26.388Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3442,7 +3297,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2020 LEXUS NX 300 your perfect car? Contact O'Neil Nissan to see this Eminent White Pearl SUV available for $490",
-      "scrapedAt": "2026-08-26T04:55:25.639Z"
+      "scrapedAt": "2026-08-27T15:15:27.805Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3471,7 +3326,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2012 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Glacier Pearl SV AWD SUV available for $9490",
-      "scrapedAt": "2026-08-26T04:55:28.729Z"
+      "scrapedAt": "2026-08-27T15:15:28.317Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3484,7 +3339,7 @@
       "trim": "Powertrain",
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 37199,
+      "mileage": 37206,
       "exteriorColor": "Midnight Black",
       "interiorColor": "Gallery White",
       "engine": "V-6 cyl",
@@ -3500,7 +3355,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0852/6c512881b83072b8a9a3727313963767x.jpg"
       ],
       "description": "Is this 2023 INFINITI Q50 your perfect car? Contact O'Neil Nissan to see this Midnight Black RED SPORT 400 Sedan available for $43345",
-      "scrapedAt": "2026-08-26T04:55:32.369Z"
+      "scrapedAt": "2026-08-27T15:15:30.952Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3529,7 +3384,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1616/3695abf5554fd0d137466f07fe104ae5x.jpg"
       ],
       "description": "Is this 2024 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black Rock Creek SUV available for $35989",
-      "scrapedAt": "2026-08-26T04:55:32.192Z"
+      "scrapedAt": "2026-08-27T15:15:34.384Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3558,7 +3413,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1545/316efd758fecb755cbd0fa794bba6cb2x.jpg"
       ],
       "description": "Is this 2024 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Obsidian Green Pearl SL SUV available for $37989",
-      "scrapedAt": "2026-08-26T04:55:33.368Z"
+      "scrapedAt": "2026-08-27T15:15:34.121Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3587,7 +3442,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Scarlet Ember Tintcoat Platinum SUV available for $28480",
-      "scrapedAt": "2026-08-26T04:55:33.398Z"
+      "scrapedAt": "2026-08-27T15:15:34.656Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3616,94 +3471,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0463/41fa3ea859b5788f52b242e3e4f98c03x.jpg"
       ],
       "description": "Is this 2023 INFINITI QX80 your perfect car? Contact O'Neil Nissan to see this Moonstone White PREMIUM SELECT SUV available for $52289",
-      "scrapedAt": "2026-08-26T04:55:32.950Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2012-Nissan-Murano-1b6a0d2fac182cb634fa901d055fd13b.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "JN8AZ1MW4CW227857",
-      "stockNumber": "8126",
-      "year": 2012,
-      "make": "Nissan",
-      "model": "Murano",
-      "trim": "AM/FM/CD Radio",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 101039,
-      "exteriorColor": "Glacier Pearl",
-      "interiorColor": "Beige",
-      "engine": "V-6 cyl",
-      "transmission": "CVT",
-      "drivetrain": "AWD",
-      "fuelType": "Regular Unleaded",
-      "fuelEconomyMpg": "18/23 MPG City/HwyDetails",
-      "salePrice": 9490,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
-      ],
-      "description": "Is this 2012 Nissan Murano your perfect car? Contact O'Neil Nissan to see this Glacier Pearl SV AWD SUV available for $9490",
-      "scrapedAt": "2026-08-26T04:55:36.162Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/used/INFINITI/2023-INFINITI-Q50-1bd6b5b1ac180771c28b0c0ecd356313.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "JN1FV7DR8PM590564",
-      "stockNumber": "8132",
-      "year": 2023,
-      "make": "INFINITI",
-      "model": "Q50",
-      "trim": "Powertrain",
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 37199,
-      "exteriorColor": "Midnight Black",
-      "interiorColor": "Gallery White",
-      "engine": "V-6 cyl",
-      "transmission": "7-Speed Automatic with Overdrive",
-      "drivetrain": "AWD",
-      "fuelType": "Premium Unleaded",
-      "fuelEconomyMpg": "19/26 MPG City/HwyDetails",
-      "salePrice": 43345,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/0852/6c512881b83072b8a9a3727313963767x.jpg"
-      ],
-      "description": "Is this 2023 INFINITI Q50 your perfect car? Contact O'Neil Nissan to see this Midnight Black RED SPORT 400 Sedan available for $43345",
-      "scrapedAt": "2026-08-26T04:55:40.637Z"
-    },
-    {
-      "dealerId": "oneil-nissan",
-      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2024-Nissan-Pathfinder-1bd6b454ac18341f4df4ff9e19f863c7.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
-      "vin": "5N1DR3BD5RC213798",
-      "stockNumber": "8131",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "trim": "Powertrain",
-      "bodyStyle": null,
-      "condition": "Certified",
-      "mileage": 24477,
-      "exteriorColor": "Super Black",
-      "interiorColor": "Charcoal",
-      "engine": "V-6 cyl",
-      "transmission": "9-Speed Automatic",
-      "drivetrain": "4WD",
-      "fuelType": "Premium Unleaded",
-      "fuelEconomyMpg": "20/23 MPG City/HwyDetails",
-      "salePrice": 35989,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/o/oneilnissanpa/1616/3695abf5554fd0d137466f07fe104ae5x.jpg"
-      ],
-      "description": "Is this 2024 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black Rock Creek SUV available for $35989",
-      "scrapedAt": "2026-08-26T04:55:39.514Z"
+      "scrapedAt": "2026-08-27T15:15:35.543Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3732,7 +3500,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1044/be64f70c816c11fc5b79776e66adb2dfx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $24389",
-      "scrapedAt": "2026-08-26T04:55:41.184Z"
+      "scrapedAt": "2026-08-27T15:15:36.790Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3761,7 +3529,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2015 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV SUV available for $15390",
-      "scrapedAt": "2026-08-26T04:55:41.048Z"
+      "scrapedAt": "2026-08-27T15:15:39.345Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3790,7 +3558,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2006 Chrysler PT Cruiser your perfect car? Contact O'Neil Nissan to see this Marine Blue Pearlcoat Touring Convertible available for $490",
-      "scrapedAt": "2026-08-26T04:55:41.375Z"
+      "scrapedAt": "2026-08-27T15:15:41.513Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3819,7 +3587,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
       ],
       "description": "Is this 2008 Ford F-150 SuperCrew your perfect car? Contact O'Neil Nissan to see this Silver Truck SuperCrew Cab available for $490",
-      "scrapedAt": "2026-08-26T04:55:43.290Z"
+      "scrapedAt": "2026-08-27T15:15:41.903Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3848,7 +3616,7 @@
         "https://pictures.dealer.com/o/oneilnissanpa/1456/41997d7fa537f586415b50edd836bf0dx.jpg"
       ],
       "description": "Is this 2026 Nissan Pathfinder your perfect car? Contact O'Neil Nissan to see this Super Black Platinum SUV available for $48240",
-      "scrapedAt": "2026-08-26T04:55:44.889Z"
+      "scrapedAt": "2026-08-27T15:15:43.462Z"
     },
     {
       "dealerId": "oneil-nissan",
@@ -3877,7 +3645,152 @@
         "https://pictures.dealer.com/o/oneilnissanpa/0930/4b1fe6e3dc9bd9141e763362195cf21bx.jpg"
       ],
       "description": "Is this 2023 INFINITI QX60 your perfect car? Contact O'Neil Nissan to see this Mineral SENSORY SUV available for $42789",
-      "scrapedAt": "2026-08-26T04:55:45.122Z"
+      "scrapedAt": "2026-08-27T15:15:43.342Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2023-Nissan-Rogue-254ccc9eac181da0dd1bebc3b1e18fd4.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "JN8BT3BB3PW352954",
+      "stockNumber": "8134",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Driver door bin",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 34882,
+      "exteriorColor": "Super Black",
+      "interiorColor": "Light Gray",
+      "engine": "I-3 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "28/35 MPG City/HwyDetails",
+      "salePrice": 24389,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/1044/be64f70c816c11fc5b79776e66adb2dfx.jpg"
+      ],
+      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Super Black SV SUV available for $24389",
+      "scrapedAt": "2026-08-27T15:15:44.458Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/Nissan/2015-Nissan-Rogue-2ada1ba9ac181bbdf7ea8270a509fb74.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "5N1AT2MV6FC786225",
+      "stockNumber": "26K139A",
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Driver door bin",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 79335,
+      "exteriorColor": "Gun Metallic",
+      "interiorColor": "Charcoal",
+      "engine": "I-4 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "25/32 MPG City/HwyDetails",
+      "salePrice": 15390,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
+      ],
+      "description": "Is this 2015 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Gun Metallic SV SUV available for $15390",
+      "scrapedAt": "2026-08-27T15:15:47.003Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/Chrysler/2006-Chrysler-PT-Cruiser-3b2b2185ac184f13ca20cd1819f009aa.htm?autoOpen=true&dsLoad=true&route=paymentOptions",
+      "vin": "3C3JY55E36T283668",
+      "stockNumber": "26F148B",
+      "year": 2006,
+      "make": "Chrysler",
+      "model": "PT Cruiser",
+      "trim": "Powertrain",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 61449,
+      "exteriorColor": "Marine Blue Pearlcoat",
+      "interiorColor": "Pastel Slate Gray",
+      "engine": "I-4 cyl",
+      "transmission": "4-Speed Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "22/29 MPG City/HwyDetails",
+      "salePrice": 490,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
+      ],
+      "description": "Is this 2006 Chrysler PT Cruiser your perfect car? Contact O'Neil Nissan to see this Marine Blue Pearlcoat Touring Convertible available for $490",
+      "scrapedAt": "2026-08-27T15:15:47.933Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/used/CADILLAC/2020-CADILLAC-XT6-3f7cec7bac180b4132bfb57192c72354.htm",
+      "vin": "1GYKPDRS0LZ105955",
+      "stockNumber": "8090A",
+      "year": 2020,
+      "make": "CADILLAC",
+      "model": "XT6",
+      "trim": "Powertrain",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 114224,
+      "exteriorColor": "Crystal White Tricoat",
+      "interiorColor": "Dark Auburn",
+      "engine": "V-6 cyl",
+      "transmission": "9-Speed Automatic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "17/24 MPG City/HwyDetails",
+      "salePrice": 490,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0730/cca361378f735b271efbb008d176b2ccx.jpg"
+      ],
+      "description": "Is this 2020 CADILLAC XT6 your perfect car? Contact O'Neil Nissan to see this Crystal White Tricoat Premium Luxury SUV available for $490",
+      "scrapedAt": "2026-08-27T15:15:47.894Z"
+    },
+    {
+      "dealerId": "oneil-nissan",
+      "listingUrl": "https://www.oneilnissan.com/certified/Nissan/2023-Nissan-Rogue-404fe5deac1827bd9540ac676bf87a5c.htm",
+      "vin": "5N1BT3CB0PC903395",
+      "stockNumber": "8141",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "trim": "Power passenger seat",
+      "bodyStyle": null,
+      "condition": "Certified",
+      "mileage": 29164,
+      "exteriorColor": "Scarlet Ember Tintcoat",
+      "interiorColor": "Charcoal",
+      "engine": "I-3 cyl",
+      "transmission": "CVT with Xtronic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular Unleaded",
+      "fuelEconomyMpg": "28/34 MPG City/HwyDetails",
+      "salePrice": 27924,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/o/oneilnissanpa/0883/119490bd6704ad96b0c8c2c113a797c2x.jpg"
+      ],
+      "description": "Is this 2023 Nissan Rogue your perfect car? Contact O'Neil Nissan to see this Scarlet Ember Tintcoat SL SUV available for $27924",
+      "scrapedAt": "2026-08-27T15:15:48.753Z"
     }
   ]
 }

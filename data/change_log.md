@@ -1719,3 +1719,38 @@
 | 1GC4YUEY8RF338577 | 2024 Chevrolet Silverado 3500HD | $65,990 | $64,390 | -$1,600 |
 | 5FNYF8H97MB029280 | 2021 Honda Passport | $25,511 | $23,911 | -$1,600 |
 | WDD2J5KB3KA027679 | 2019 Mercedes-Benz CLS | $35,933 | $34,375 | -$1,558 |
+
+## 2026-08-27
+
+- New listings: 90
+- Removed / sold: 3008
+- Price changes: 405
+- Biggest price drop: null null On the Lot $53,560 -> $100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTER4LR9RLE48133 | null null On the Lot | $53,560 | $100 | -$53,460 |
+| 1FTFW3LD2RFA21807 | null null On the Lot | $43,360 | $2,770 | -$40,590 |
+| 1FMUK8KH4SGA01901 | null null null | $39,485 | $1,360 | -$38,125 |
+| 1FM5K8GC1PGB22054 | null null On the Lot | $43,760 | $5,890 | -$37,870 |
+| WAUS2BF24NN014532 | null null null | $37,180 | $490 | -$36,690 |
+| 3GTP9EELXNG140287 | null null null | $36,280 | $490 | -$35,790 |
+| 1C6SRFBT9MN734225 | null null null | $35,480 | $490 | -$34,990 |
+| 1G6KN5R66KU142382 | null null null | $33,980 | $490 | -$33,490 |
+| 4S4GUHL66S3762263 | null null 6 Speakers | $30,990 | $490 | -$30,500 |
+| 1FMSK8DH2PGB08313 | 2023 Ford Explorer | $32,484 | $3,540 | -$28,944 |
+| JF2SLDDC9SH432586 | null null null | $28,777 | $500 | -$28,277 |
+| 1FMSK8DH9PGA98962 | 2023 Ford Explorer | $31,460 | $3,540 | -$27,920 |
+| 1GKS2BKD9MR363739 | null null null | $30,185 | $3,530 | -$26,655 |
+| 1G6DB5RK6L0132927 | null null null | $25,980 | $490 | -$25,490 |
+| 3VV8B7AX2PM002858 | null null null | $25,489 | $100 | -$25,389 |
+| 4T1T11BK4PU077354 | null null null | $24,990 | $490 | -$24,500 |
+| 5UXCR6C05LLL65308 | null null null | $24,489 | $100 | -$24,389 |
+| JM3KFBCM7P0235563 | 2023 Mazda CX-5 | $25,592 | $2,000 | -$23,592 |
+| 5XYRLDLC3NG142226 | null null null | $25,488 | $2,000 | -$23,488 |
+| 2HGFE2F51RH595610 | null null null | $25,385 | $2,000 | -$23,385 |
+| KM8R2DHE2MU294522 | null null null | $23,507 | $225 | -$23,282 |
+| JM3KFBBM7N0599951 | null null null | $23,447 | $175 | -$23,272 |
+| 3CZRZ1H34PM735700 | null null null | $23,594 | $2,000 | -$21,594 |
+| 3VV2B7AX0NM160909 | null null null | $21,489 | $100 | -$21,389 |
+| 1C4HJXDG5LW106428 | null null null | $24,454 | $3,200 | -$21,254 |

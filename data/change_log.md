@@ -1754,3 +1754,38 @@
 | 3CZRZ1H34PM735700 | null null null | $23,594 | $2,000 | -$21,594 |
 | 3VV2B7AX0NM160909 | null null null | $21,489 | $100 | -$21,389 |
 | 1C4HJXDG5LW106428 | null null null | $24,454 | $3,200 | -$21,254 |
+
+## 2026-08-28
+
+- New listings: 3010
+- Removed / sold: 61
+- Price changes: 216
+- Biggest price drop: null null null $44,990 -> $2,500
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5LMJJ2LT3MEL07988 | null null null | $44,990 | $2,500 | -$42,490 |
+| 1FTFW1E83PFA69303 | null null null | $45,485 | $3,955 | -$41,530 |
+| WA12AAGE3PB011130 | null null null | $31,089 | $100 | -$30,989 |
+| 1V2SC2CA2PC225897 | null null null | $30,489 | $490 | -$29,999 |
+| JF2SKAGC7RH464945 | null null null | $27,089 | $2,000 | -$25,089 |
+| 4T1BZ1HK8JU007360 | null null null | $22,094 | $254 | -$21,840 |
+| 4T1C11AKXNU632905 | null null null | $21,690 | $490 | -$21,200 |
+| 1C4AJWBG5DL666144 | null null null | $18,874 | $490 | -$18,384 |
+| 1C4GJXAG8JW282886 | null null null | $18,467 | $795 | -$17,672 |
+| 1GNEVHKW5KJ179387 | null null null | $14,866 | $650 | -$14,216 |
+| 3GNAXTEX3JS510433 | null null null | $13,983 | $490 | -$13,493 |
+| 1V2KR2CA2JC570384 | null null null | $14,440 | $2,000 | -$12,440 |
+| 1C4RJFBG1HC942814 | null null null | $14,031 | $4,300 | -$9,731 |
+| 1FTFX1E83MFC09620 | 2021 Ford F-150 | $21,929 | $17,573 | -$4,356 |
+| 1FTFW1EF2DFA41700 | 2013 Ford F-150 | $18,373 | $15,273 | -$3,100 |
+| 1GKS2JKC9KR191064 | 2019 GMC Yukon XL | $18,232 | $15,473 | -$2,759 |
+| 2HGFC2F86KH540656 | 2019 Honda Civic | $17,540 | $15,573 | -$1,967 |
+| 3VWPW31C49M506946 | 2009 Volkswagen New Beetle | $9,566 | $7,800 | -$1,766 |
+| 2C4RC1FG8KR567641 | 2019 Chrysler Pacifica | $18,085 | $16,422 | -$1,663 |
+| 3GKALTEG0PL121888 | 2023 GMC Terrain | $26,390 | $24,989 | -$1,401 |
+| 1C4RJHAG0PC541315 | 2023 Jeep Grand Cherokee | $33,390 | $31,989 | -$1,401 |
+| 3GNAXREV6JL115433 | 2018 Chevrolet Equinox | $15,426 | $14,268 | -$1,158 |
+| 3KPF54AD2PE666847 | 2023 Kia Forte | $22,490 | $21,387 | -$1,103 |
+| JTND4MBE9N3180120 | 2022 Toyota Corolla Hatchback | $19,459 | $18,368 | -$1,091 |
+| KMHD84LF3HU275542 | 2017 Hyundai Elantra | $10,980 | $9,890 | -$1,090 |

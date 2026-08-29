@@ -1789,3 +1789,38 @@
 | 3KPF54AD2PE666847 | 2023 Kia Forte | $22,490 | $21,387 | -$1,103 |
 | JTND4MBE9N3180120 | 2022 Toyota Corolla Hatchback | $19,459 | $18,368 | -$1,091 |
 | KMHD84LF3HU275542 | 2017 Hyundai Elantra | $10,980 | $9,890 | -$1,090 |
+
+## 2026-08-29
+
+- New listings: 144
+- Removed / sold: 111
+- Price changes: 225
+- Biggest price drop: null null null $42,485 -> $480
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FBAX2Y82RKA73656 | null null null | $42,485 | $480 | -$42,005 |
+| 4JGFB4KB7NA619511 | null null null | $41,988 | $100 | -$41,888 |
+| 3GCPKDEK3SG400515 | null null null | $42,178 | $565 | -$41,613 |
+| 5NMP4DGL2TH196375 | null null null | $41,753 | $610 | -$41,143 |
+| 2T2BAMCA8PC029033 | null null null | $41,180 | $100 | -$41,080 |
+| 5NMMADTBXRH001396 | null null null | $41,871 | $6,000 | -$35,871 |
+| 5J8TC2H54RL020751 | 2024 Acura RDX | $36,489 | $2,000 | -$34,489 |
+| 1FTER1FH8PLE16806 | null null null | $34,978 | $495 | -$34,483 |
+| 5FNYF8H51PB028319 | 2023 Honda Passport | $32,923 | $2,000 | -$30,923 |
+| 3HDSA2H51SM714123 | null null null | $35,731 | $5,000 | -$30,731 |
+| 3FMCR9BN2SRE11172 | null null null | $29,460 | $100 | -$29,360 |
+| 5TDGZRBH5NS249474 | null null null | $29,780 | $490 | -$29,290 |
+| 1GNEVHKW3PJ295890 | null null null | $30,375 | $2,000 | -$28,375 |
+| 3VV8B7AX5RM020094 | null null null | $29,440 | $2,000 | -$27,440 |
+| 2LMPJ8K92NBL07245 | null null null | $30,375 | $4,535 | -$25,840 |
+| 1FMSK8DH9PGB68332 | 2023 Ford Explorer | $27,584 | $3,540 | -$24,044 |
+| 5NMJBCDE9SH466227 | 2025 Hyundai Tucson | $24,311 | $2,000 | -$22,311 |
+| 19UDE2F75NA001845 | 2022 Acura ILX | $23,978 | $2,000 | -$21,978 |
+| 3VVUC7B29SM045794 | 2025 Volkswagen Taos | $22,541 | $2,000 | -$20,541 |
+| KMHRC8A38PU276804 | null null null | $19,858 | $120 | -$19,738 |
+| 3N1CP5CVXPL543689 | null null null | $19,893 | $235 | -$19,658 |
+| 2C4RC1BG1PR631564 | 2023 Chrysler Pacifica | $21,385 | $2,000 | -$19,385 |
+| 2C4RC1BG5PR532150 | null null null | $19,638 | $490 | -$19,148 |
+| 3VWEX7BU6SM022463 | null null null | $19,467 | $490 | -$18,977 |
+| 3VW5X7BU9SM030704 | null null null | $19,467 | $490 | -$18,977 |

@@ -1824,3 +1824,38 @@
 | 2C4RC1BG5PR532150 | null null null | $19,638 | $490 | -$19,148 |
 | 3VWEX7BU6SM022463 | null null null | $19,467 | $490 | -$18,977 |
 | 3VW5X7BU9SM030704 | null null null | $19,467 | $490 | -$18,977 |
+
+## 2026-08-30
+
+- New listings: 116
+- Removed / sold: 150
+- Price changes: 278
+- Biggest price drop: 2024 Mercedes-Benz AMGÂ® GT $161,860 -> $124,781
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| W1KRJ8AB8RF001450 | 2024 Mercedes-Benz AMGÂ® GT | $161,860 | $124,781 | -$37,079 |
+| 3FMCR9GN6SRE07585 | 2025 Ford Bronco Sport | $30,488 | $2,000 | -$28,488 |
+| 5NMJBCAE1PH285523 | null null null | $23,695 | $490 | -$23,205 |
+| KMHLL4DG7RU729231 | null null null | $18,482 | $210 | -$18,272 |
+| 3N1CN8DV4SL857854 | null null null | $18,394 | $140 | -$18,254 |
+| 19XFC2F72HE202309 | null null null | $18,436 | $490 | -$17,946 |
+| 1G1ZD5ST9RF106756 | null null null | $18,389 | $490 | -$17,899 |
+| 3GNAXTEGXRL227453 | null null null | $18,467 | $1,395 | -$17,072 |
+| JM1DKFD74J0320803 | null null null | $18,347 | $1,435 | -$16,912 |
+| SHHFK7H66KU413288 | null null null | $18,480 | $2,000 | -$16,480 |
+| 2HKRS4H70RH413370 | 2024 Honda CR-V | $35,488 | $30,592 | -$4,896 |
+| 3FTTW8F91PRA87207 | 2023 Ford Maverick | $28,693 | $26,225 | -$2,468 |
+| 1FMCU9G66LUA91090 | 2020 Ford Escape | $20,487 | $18,087 | -$2,400 |
+| W1KAF4HB2TR320880 | 2026 Mercedes-Benz C 300 | $54,890 | $52,820 | -$2,070 |
+| 5UX23EU0XT9221143 | 2026 BMW X5 | $72,485 | $70,485 | -$2,000 |
+| 5UX23EU01S9W45132 | 2025 BMW X5 | $61,485 | $59,485 | -$2,000 |
+| W1NYC7HJ1RX511911 | 2024 Mercedes-Benz AMG G 63 | $185,820 | $183,820 | -$2,000 |
+| WA1L2BFZ1PP066285 | 2023 Audi Q4 e-tron | $29,409 | $27,419 | -$1,990 |
+| WA1GAAFY1P2128450 | 2023 Audi Q5 | $31,409 | $29,419 | -$1,990 |
+| 1V2WSPE84SC007268 | 2025 Volkswagen ID.4 | $38,409 | $36,419 | -$1,990 |
+| WA124AFY0P2126660 | 2023 Audi SQ5 Sportback | $39,409 | $37,419 | -$1,990 |
+| WA1LVBF76SD030625 | 2025 Audi Q7 | $49,409 | $47,419 | -$1,990 |
+| KM8K6CAB7NU779918 | 2022 Hyundai Kona | $22,139 | $20,411 | -$1,728 |
+| 1FTSE3EL3EDB21121 | 2014 Ford E-350SD | $2,000 | $295 | -$1,705 |
+| 1FMJU2AT8NEA59171 | 2022 Ford Expedition | $43,009 | $41,419 | -$1,590 |

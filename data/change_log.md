@@ -1859,3 +1859,38 @@
 | KM8K6CAB7NU779918 | 2022 Hyundai Kona | $22,139 | $20,411 | -$1,728 |
 | 1FTSE3EL3EDB21121 | 2014 Ford E-350SD | $2,000 | $295 | -$1,705 |
 | 1FMJU2AT8NEA59171 | 2022 Ford Expedition | $43,009 | $41,419 | -$1,590 |
+
+## 2026-08-31
+
+- New listings: 41
+- Removed / sold: 127
+- Price changes: 72
+- Biggest price drop: 2025 GMC Sierra 1500 $38,485 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GTUUDED6SZ295144 | 2025 GMC Sierra 1500 | $38,485 | $2,000 | -$36,485 |
+| 1GTUUDED8SZ268236 | 2025 GMC Sierra 1500 | $38,485 | $2,000 | -$36,485 |
+| 2HKRS4H43RH482916 | 2024 Honda CR-V | $33,088 | $22,488 | -$10,600 |
+| 5N1AT2MV7EC816007 | 2014 Nissan Rogue | $2,000 | $135 | -$1,865 |
+| 5TDDKRFHXFS089000 | 2015 Toyota Highlander | $2,000 | $225 | -$1,775 |
+| 3VV2B7AXXLM112184 | 2020 Volkswagen Tiguan | $2,000 | $595 | -$1,405 |
+| 1C4RJFBGXFC644811 | 2015 Jeep Grand Cherokee | $13,488 | $12,488 | -$1,000 |
+| 5N1BT3BB1PC942742 | 2023 Nissan Rogue | $21,488 | $20,488 | -$1,000 |
+| 1G1ZD5STXRF141628 | 2024 Chevrolet Malibu | $19,288 | $18,488 | -$800 |
+| 2HKRS4H77RH451825 | 2024 Honda CR-V | $34,488 | $33,788 | -$700 |
+| 5N1AT2MV4GC900532 | 2016 Nissan Rogue | $2,000 | $1,320 | -$680 |
+| 7FARS6H68TE053715 | 2026 Honda CR-V Hybrid | $38,088 | $37,488 | -$600 |
+| 19UUB6F56PA005601 | 2023 Acura TLX | $37,481 | $36,881 | -$600 |
+| 2HKRS4H46RH426694 | 2024 Honda CR-V | $32,815 | $32,288 | -$527 |
+| 7FARS4H70SE004746 | 2025 Honda CR-V | $33,240 | $32,739 | -$501 |
+| 5NMS1DAJ3PH517016 | 2023 Hyundai Santa Fe | $18,488 | $17,988 | -$500 |
+| JTJBARBZ6K2199114 | 2019 LEXUS NX 300 | $23,988 | $23,488 | -$500 |
+| 3GCPDDEKXPG292136 | 2023 Chevrolet Silverado 1500 | $34,488 | $33,988 | -$500 |
+| YV4062PN2P1997256 | 2023 Volvo XC90 | $34,488 | $33,988 | -$500 |
+| 5FNRL6H79TB027237 | 2026 Honda Odyssey | $40,988 | $40,488 | -$500 |
+| 5FNYG1H67SB163441 | 2025 Honda Pilot | $46,378 | $45,878 | -$500 |
+| 5J6RS6H82RL032176 | 2024 Honda CR-V Hybrid | $35,455 | $34,989 | -$466 |
+| 1HGCY1F48SA063450 | 2025 Honda Accord | $27,488 | $27,075 | -$413 |
+| 5NMS2DAJ8NH410120 | 2022 Hyundai Santa Fe | $18,888 | $18,488 | -$400 |
+| KM8JFCDE8RU305435 | 2024 Hyundai Tucson | $21,888 | $21,488 | -$400 |

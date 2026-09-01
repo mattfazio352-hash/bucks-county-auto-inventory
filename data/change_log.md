@@ -1894,3 +1894,38 @@
 | 1HGCY1F48SA063450 | 2025 Honda Accord | $27,488 | $27,075 | -$413 |
 | 5NMS2DAJ8NH410120 | 2022 Hyundai Santa Fe | $18,888 | $18,488 | -$400 |
 | KM8JFCDE8RU305435 | 2024 Hyundai Tucson | $21,888 | $21,488 | -$400 |
+
+## 2026-09-01
+
+- New listings: 211
+- Removed / sold: 106
+- Price changes: 308
+- Biggest price drop: 2018 Volkswagen Tiguan $25,000 -> $12,790
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3VV0B7AX4JM113397 | 2018 Volkswagen Tiguan | $25,000 | $12,790 | -$12,210 |
+| WMZ23GA04S7S74836 | 2025 MINI Cooper S Countryman | $44,380 | $35,990 | -$8,390 |
+| 1FT8W3BMXRED04097 | 2024 Ford F-350 | $87,400 | $82,480 | -$4,920 |
+| JTMRFREV1HD201882 | 2017 Toyota RAV4 | $25,000 | $21,483 | -$3,517 |
+| 7MMVABBM2SN306427 | 2025 Mazda CX-50 | $27,487 | $24,467 | -$3,020 |
+| 5UX23EU00S9X82806 | 2025 BMW X5 | $61,490 | $58,480 | -$3,010 |
+| WP1AC2A25FLA81980 | 2015 Porsche Cayenne | $29,480 | $26,680 | -$2,800 |
+| 1GYKPPRL5RZ121880 | 2024 CADILLAC LYRIQ | $40,180 | $37,480 | -$2,700 |
+| 3GCUYGET5LG442777 | 2020 Chevrolet Silverado 1500 | $39,989 | $37,378 | -$2,611 |
+| 1FTFW3LD2RFA21807 | 2024 Ford F-150 | $43,360 | $41,070 | -$2,290 |
+| 7SVAAABA1SX061466 | 2025 Toyota Sequoia | $77,489 | $75,378 | -$2,111 |
+| 1C4RJYB64P8773845 | 2023 Jeep Grand Cherokee 4xe | $27,487 | $25,467 | -$2,020 |
+| SALE27EU6P2113866 | 2023 Land Rover Defender | $52,480 | $50,480 | -$2,000 |
+| 4JGFD6BB4SB431654 | 2025 Mercedes-Benz AMG GLE 53 Coupe | $85,480 | $83,480 | -$2,000 |
+| JF1GUABC0R8318849 | 2024 Subaru Impreza | $25,390 | $23,489 | -$1,901 |
+| 1N4BL4CV3RN435874 | 2024 Nissan Altima | $26,390 | $24,489 | -$1,901 |
+| 7SAYGDEE0PF805053 | 2023 Tesla Model Y | $34,390 | $32,489 | -$1,901 |
+| 1FTEW3LP5RKD26974 | 2024 Ford F-150 | $42,960 | $41,070 | -$1,890 |
+| 3FMCR9C62RRF38084 | 2024 Ford Bronco Sport | $32,080 | $30,480 | -$1,600 |
+| 7FARS6H99PE018083 | 2023 Honda CR-V Hybrid | $32,887 | $31,290 | -$1,597 |
+| KM8R5DGE6RU708465 | 2024 Hyundai Palisade | $37,165 | $35,587 | -$1,578 |
+| 5NMJBCDE8SH571390 | 2025 Hyundai Tucson | $28,589 | $27,042 | -$1,547 |
+| 1V2HN2CAXTC506005 | 2026 Volkswagen Atlas | $38,489 | $36,975 | -$1,514 |
+| W1K5J4HB6PN354785 | 2023 Mercedes-Benz CLA | $32,981 | $31,481 | -$1,500 |
+| 2C4RC1PG0RR147770 | 2024 Chrysler Pacifica | $36,489 | $35,080 | -$1,409 |

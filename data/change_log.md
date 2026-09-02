@@ -1929,3 +1929,38 @@
 | 1V2HN2CAXTC506005 | 2026 Volkswagen Atlas | $38,489 | $36,975 | -$1,514 |
 | W1K5J4HB6PN354785 | 2023 Mercedes-Benz CLA | $32,981 | $31,481 | -$1,500 |
 | 2C4RC1PG0RR147770 | 2024 Chrysler Pacifica | $36,489 | $35,080 | -$1,409 |
+
+## 2026-09-02
+
+- New listings: 158
+- Removed / sold: 210
+- Price changes: 697
+- Biggest price drop: 2019 LEXUS GX 460 $33,346 -> $260
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| JTJBM7FX4K5223753 | 2019 LEXUS GX 460 | $33,346 | $260 | -$33,086 |
+| 3GNAXREV6JL115433 | 2018 Chevrolet Equinox | $14,268 | $490 | -$13,778 |
+| 19UUB5F43PA003970 | 2023 Acura TLX | $45,735 | $32,008 | -$13,727 |
+| 1FMJU1J87SEA09511 | 2025 Ford Expedition | $60,188 | $55,501 | -$4,687 |
+| 1C4RJHBR9TC299201 | 2026 Jeep Grand Cherokee | $50,874 | $46,374 | -$4,500 |
+| 1FMJU2A81REA34839 | 2024 Ford Expedition | $45,479 | $41,270 | -$4,209 |
+| JN8AZ3DB0S9404376 | 2025 INFINITI QX80 | $72,449 | $69,120 | -$3,329 |
+| 7YAMTFS34TY004778 | 2026 Hyundai IONIQ 9 | $47,589 | $44,273 | -$3,316 |
+| 1FMJU1J88SEA42081 | 2025 Ford Expedition | $58,749 | $55,922 | -$2,827 |
+| WBA53FJ01TCV77490 | 2026 BMW 5 Series | $56,061 | $53,645 | -$2,416 |
+| 1FMWK8GC1SGB90903 | 2025 Ford Explorer | $48,675 | $46,390 | -$2,285 |
+| KNDERCAA1M7216389 | 2021 Kia Seltos | $20,206 | $17,940 | -$2,266 |
+| KM8R5DHE7LU046031 | 2020 Hyundai Palisade | $27,478 | $25,454 | -$2,024 |
+| 1FTEW1EP1MKD32068 | 2021 Ford F-150 | $24,480 | $22,480 | -$2,000 |
+| 1C4PJXAN3SW658989 | 2025 Jeep Wrangler | $39,478 | $37,478 | -$2,000 |
+| 3N8AP6DD4TL320580 | 2026 Nissan Kicks | $33,286 | $31,286 | -$2,000 |
+| 3N8AP6DD4TL364708 | 2026 Nissan Kicks | $33,683 | $31,683 | -$2,000 |
+| SALE27EU0T2605741 | 2026 Land Rover Defender 110 | $88,470 | $86,479 | -$1,991 |
+| 3N1AB7AP5HL676089 | 2017 Nissan Sentra | $10,205 | $8,258 | -$1,947 |
+| 1FMDE9AH6SLA55948 | 2025 Ford Bronco | $49,134 | $47,216 | -$1,918 |
+| 2C4RC1BG9PR613359 | 2023 Chrysler Pacifica | $22,268 | $20,393 | -$1,875 |
+| KNDJ23AU7P7207259 | 2023 Kia Soul | $18,184 | $16,310 | -$1,874 |
+| 5UXCW2C03L9C95776 | 2020 BMW X7 | $32,269 | $30,499 | -$1,770 |
+| 4S4BSETC5J3203094 | 2018 Subaru Outback | $25,000 | $23,235 | -$1,765 |
+| 4S4WMAAD0M3444100 | 2021 Subaru Ascent | $16,035 | $14,302 | -$1,733 |

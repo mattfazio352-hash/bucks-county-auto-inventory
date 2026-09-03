@@ -1964,3 +1964,38 @@
 | 5UXCW2C03L9C95776 | 2020 BMW X7 | $32,269 | $30,499 | -$1,770 |
 | 4S4BSETC5J3203094 | 2018 Subaru Outback | $25,000 | $23,235 | -$1,765 |
 | 4S4WMAAD0M3444100 | 2021 Subaru Ascent | $16,035 | $14,302 | -$1,733 |
+
+## 2026-09-03
+
+- New listings: 137
+- Removed / sold: 126
+- Price changes: 242
+- Biggest price drop: null null null $41,780 -> $3,080
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1N6ED1EK5SN628892 | null null null | $41,780 | $3,080 | -$38,700 |
+| KM8RMES23TU050309 | 2026 Hyundai Palisade | $81,855 | $49,489 | -$32,366 |
+| KMHLM4DJ5SU145120 | 2025 Hyundai Elantra Hybrid | $52,155 | $26,403 | -$25,752 |
+| JN8BT3BB7PW474121 | null null null | $24,716 | $100 | -$24,616 |
+| KL79MPS29PB055674 | null null null | $22,989 | $100 | -$22,889 |
+| JM3KFBBM4M0335388 | null null null | $23,022 | $490 | -$22,532 |
+| 5NMJBCDE3SH492712 | null null null | $23,592 | $2,000 | -$21,592 |
+| 3VW5W7BU4TM001101 | null null null | $23,014 | $2,000 | -$21,014 |
+| 1FMCU9H67NUB36720 | null null null | $23,031 | $2,370 | -$20,661 |
+| 1N4BL4BV8LC210984 | null null null | $14,419 | $100 | -$14,319 |
+| JF1GPAC65FH301153 | null null null | $14,409 | $100 | -$14,309 |
+| 5TDBK3EH4BS089154 | null null null | $13,789 | $490 | -$13,299 |
+| 1FM5K8F84JGA89474 | null null null | $13,686 | $490 | -$13,196 |
+| JF1GPAU6XG8244612 | 2016 Subaru Impreza | $14,592 | $1,500 | -$13,092 |
+| SADCT2EX7TA758197 | 2026 Jaguar F-PACE | $62,658 | $50,477 | -$12,181 |
+| 1C4RJFBG1HC942814 | null null null | $14,031 | $4,300 | -$9,731 |
+| ZN661YUS2NX382076 | 2022 Maserati Levante | $65,485 | $55,785 | -$9,700 |
+| SADCT2EX7TA756854 | 2026 Jaguar F-PACE | $66,728 | $60,480 | -$6,248 |
+| 2HGFB2F82CH608357 | null null null | $5,990 | $490 | -$5,500 |
+| 3N1AB6AP1CL701461 | null null null | $6,409 | $2,000 | -$4,409 |
+| 5UX53GP05T9171692 | 2026 BMW X3 | $57,355 | $53,489 | -$3,866 |
+| W1N4N4HB2PJ471127 | 2023 Mercedes-Benz GLA | $31,481 | $28,481 | -$3,000 |
+| 5NMP5DGL3RH025947 | 2024 Hyundai Santa Fe | $38,518 | $35,831 | -$2,687 |
+| 5J8TB4H30GL001382 | 2016 Acura RDX | $17,042 | $14,476 | -$2,566 |
+| 5NMJECDEXRH371564 | 2024 Hyundai Tucson | $29,199 | $26,975 | -$2,224 |

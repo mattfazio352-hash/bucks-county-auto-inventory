@@ -1999,3 +1999,38 @@
 | 5NMP5DGL3RH025947 | 2024 Hyundai Santa Fe | $38,518 | $35,831 | -$2,687 |
 | 5J8TB4H30GL001382 | 2016 Acura RDX | $17,042 | $14,476 | -$2,566 |
 | 5NMJECDEXRH371564 | 2024 Hyundai Tucson | $29,199 | $26,975 | -$2,224 |
+
+## 2026-09-04
+
+- New listings: 187
+- Removed / sold: 125
+- Price changes: 652
+- Biggest price drop: 2025 Ford F-250SD $50,973 -> $100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FT7W2BNXSEC55469 | 2025 Ford F-250SD | $50,973 | $100 | -$50,873 |
+| 1GKS2JKL8PR251293 | 2023 GMC Yukon XL | $49,485 | $490 | -$48,995 |
+| 1FTEW3LP6RKD57666 | 2024 Ford F-150 | $41,070 | $100 | -$40,970 |
+| 1FMDE7BH9SLA83505 | 2025 Ford Bronco | $39,970 | $1,540 | -$38,430 |
+| 3TYCZ5AN0PT163706 | 2023 Toyota Tacoma | $37,364 | $490 | -$36,874 |
+| 5NMMADTB0RH014786 | null null null | $41,007 | $6,000 | -$35,007 |
+| 5LM5J6XC1NGL19937 | 2022 Lincoln Aviator | $33,734 | $1,500 | -$32,234 |
+| 2HKRS4H77RH420199 | 2024 Honda CR-V | $32,489 | $490 | -$31,999 |
+| 2HKRS4H7XPH401370 | 2023 Honda CR-V | $30,389 | $490 | -$29,899 |
+| 3CZRZ2H52RM703726 | 2024 Honda HR-V | $28,422 | $490 | -$27,932 |
+| 3MVDMBCM8PM566767 | 2023 Mazda CX-30 | $25,762 | $225 | -$25,537 |
+| LRBFZPR48PD072936 | 2023 Buick Envision | $26,016 | $1,495 | -$24,521 |
+| 1C4HJXDG5NW140694 | 2022 Jeep Wrangler | $25,270 | $2,000 | -$23,270 |
+| 5FNYF6H51JB036299 | 2018 Honda Pilot | $19,939 | $2,000 | -$17,939 |
+| 1FTEW1E56KFC74382 | 2019 Ford F-150 | $39,379 | $34,378 | -$5,001 |
+| 5UX23EU05T9300008 | 2026 BMW X5 | $78,115 | $73,377 | -$4,738 |
+| SAL1L9FU1SA438302 | 2025 Land Rover Range Rover Sport | $89,680 | $85,380 | -$4,300 |
+| SAL1L9FU1PA124480 | 2023 Land Rover Range Rover Sport | $64,780 | $60,480 | -$4,300 |
+| W1NKM4HB4TF470794 | 2026 Mercedes-Benz GLC | $53,881 | $49,981 | -$3,900 |
+| KMUHEESC2TU315997 | 2026 Genesis GV80 | $80,485 | $77,469 | -$3,016 |
+| W1NKM4HB8TF465873 | 2026 Mercedes-Benz GLC | $52,981 | $49,981 | -$3,000 |
+| 5UX43EX02S9Z53785 | 2025 BMW X6 | $93,340 | $90,489 | -$2,851 |
+| W1N4N4HB9SJ729006 | 2025 Mercedes-Benz GLA | $38,781 | $36,481 | -$2,300 |
+| W1NKM4HB1TF440717 | 2026 Mercedes-Benz GLC | $51,981 | $49,881 | -$2,100 |
+| 5UXCX6C17N9N11416 | 2022 BMW Alpina XB7 | $79,480 | $77,380 | -$2,100 |

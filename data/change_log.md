@@ -2034,3 +2034,38 @@
 | W1N4N4HB9SJ729006 | 2025 Mercedes-Benz GLA | $38,781 | $36,481 | -$2,300 |
 | W1NKM4HB1TF440717 | 2026 Mercedes-Benz GLC | $51,981 | $49,881 | -$2,100 |
 | 5UXCX6C17N9N11416 | 2022 BMW Alpina XB7 | $79,480 | $77,380 | -$2,100 |
+
+## 2026-09-05
+
+- New listings: 77
+- Removed / sold: 2110
+- Price changes: 189
+- Biggest price drop: 2025 Ford Bronco Sport $27,330 -> $1,895
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3FMCR9BN2SRE01435 | 2025 Ford Bronco Sport | $27,330 | $1,895 | -$25,435 |
+| 3FMCR9B64RRE06221 | 2024 Ford Bronco Sport | $26,488 | $1,785 | -$24,703 |
+| 5J8TB4H53EL001715 | 2014 Acura RDX | $40,000 | $16,835 | -$23,165 |
+| KM8JFCDE8RU305435 | 2024 Hyundai Tucson | $21,488 | $490 | -$20,998 |
+| 4JGFB5KB7TB588354 | 2026 Mercedes-Benz GLE 450 | $85,560 | $78,820 | -$6,740 |
+| 1GKS2DKL8MR109376 | 2021 GMC Yukon | $6,500 | $490 | -$6,010 |
+| W1N4N4HB6TJ748601 | 2026 Mercedes-Benz GLA 250 | $50,495 | $44,820 | -$5,675 |
+| W1N4N4HB8TJ865063 | 2026 Mercedes-Benz GLA 250 | $48,765 | $44,820 | -$3,945 |
+| 4JGFB4FB5TB502012 | 2026 Mercedes-Benz GLE 350 | $73,670 | $69,820 | -$3,850 |
+| W1NKM4HB9TF571068 | 2026 Mercedes-Benz GLC 300 | $58,670 | $54,820 | -$3,850 |
+| W1NKM4HB7TU117025 | 2026 Mercedes-Benz GLC 300 | $58,605 | $54,820 | -$3,785 |
+| W1NKM4HB1TF475659 | 2026 Mercedes-Benz GLC 300 | $58,505 | $54,820 | -$3,685 |
+| JM3KMBHA7T0111842 | 2026 Mazda CX-5 | $34,750 | $31,260 | -$3,490 |
+| 4JGFB4FB7TB535643 | 2026 Mercedes-Benz GLE 350 | $73,305 | $69,820 | -$3,485 |
+| W1N4N4HB4TJ817513 | 2026 Mercedes-Benz GLA 250 | $46,170 | $42,820 | -$3,350 |
+| JM3KKBHA7R1159897 | 2024 Mazda CX-90 Plug-In Hybrid | $31,467 | $28,467 | -$3,000 |
+| 1FMSK8DH9PGB68332 | 2023 Ford Explorer | $30,488 | $27,584 | -$2,904 |
+| W1NKM4HB9TU113218 | 2026 Mercedes-Benz GLC 300 | $55,505 | $52,820 | -$2,685 |
+| 4JGFB4FB8TB501663 | 2026 Mercedes-Benz GLE 350 | $72,470 | $69,820 | -$2,650 |
+| 1FMCU9HD7JUD54018 | 2018 Ford Escape | $15,107 | $12,461 | -$2,646 |
+| W1NKM4HB4TF564321 | 2026 Mercedes-Benz GLC 300 | $59,440 | $56,820 | -$2,620 |
+| KM8K3CA38PU010669 | 2023 Hyundai Kona | $21,044 | $18,488 | -$2,556 |
+| 2C4RC1BG9RR135785 | 2024 Chrysler Pacifica | $24,479 | $21,974 | -$2,505 |
+| W1N4N4HB4TJ758205 | 2026 Mercedes-Benz GLA 250 | $47,205 | $44,820 | -$2,385 |
+| 3GNAXKEVXKS509614 | 2019 Chevrolet Equinox | $13,509 | $11,485 | -$2,024 |

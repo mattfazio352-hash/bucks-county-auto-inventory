@@ -2069,3 +2069,38 @@
 | 2C4RC1BG9RR135785 | 2024 Chrysler Pacifica | $24,479 | $21,974 | -$2,505 |
 | W1N4N4HB4TJ758205 | 2026 Mercedes-Benz GLA 250 | $47,205 | $44,820 | -$2,385 |
 | 3GNAXKEVXKS509614 | 2019 Chevrolet Equinox | $13,509 | $11,485 | -$2,024 |
+
+## 2026-09-06
+
+- New listings: 2169
+- Removed / sold: 103
+- Price changes: 110
+- Biggest price drop: 2023 Chevrolet Silverado 1500 $35,990 -> $1,100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3GCPDKEK8PG257051 | 2023 Chevrolet Silverado 1500 | $35,990 | $1,100 | -$34,890 |
+| 7MMVABEM6RN170115 | 2024 Mazda CX-50 | $28,985 | $110 | -$28,875 |
+| KL79MRSL1PB143347 | 2023 Chevrolet Trailblazer | $21,070 | $520 | -$20,550 |
+| SALRL2FXXS2516994 | 2025 Land Rover Discovery | $73,333 | $59,490 | -$13,843 |
+| SADCT2EX7TA758197 | 2026 Jaguar F-PACE | $62,658 | $50,477 | -$12,181 |
+| SADCT2FU2TA755955 | 2026 Jaguar F-PACE | $73,878 | $65,480 | -$8,398 |
+| SADCT2EX6TA757784 | 2026 Jaguar F-PACE | $62,128 | $54,480 | -$7,648 |
+| SADCT2EX7TA756854 | 2026 Jaguar F-PACE | $66,728 | $60,480 | -$6,248 |
+| 4JGFB4FB4TB497174 | 2026 Mercedes-Benz GLE 350 | $72,970 | $69,820 | -$3,150 |
+| 1FMSK8DHXNGB11179 | 2022 Ford Explorer | $26,146 | $24,773 | -$1,373 |
+| JN8AF5MV6ET361233 | 2014 Nissan Juke | $13,480 | $12,269 | -$1,211 |
+| 3GNAXXEG8PL157908 | 2023 Chevrolet Equinox | $22,448 | $21,320 | -$1,128 |
+| 1FMCU9GN6SUB21064 | 2025 Ford Escape | $20,570 | $19,515 | -$1,055 |
+| 5FNRL6H6XTB002726 | 2026 Honda Odyssey | $41,421 | $40,421 | -$1,000 |
+| 4JGFF5KE2PA882562 | 2023 Mercedes-Benz GLS | $64,548 | $63,638 | -$910 |
+| 1N4BL4CV3PN397883 | 2023 Nissan Altima | $20,267 | $19,467 | -$800 |
+| 5UXCR6C09P9P07555 | 2023 BMW X5 | $42,790 | $41,990 | -$800 |
+| 5UXWX9C35H0W67060 | 2017 BMW X3 | $14,784 | $13,998 | -$786 |
+| 3FTTW8F91PRA87207 | 2023 Ford Maverick | $26,225 | $25,442 | -$783 |
+| SALZJ2FX0TH295104 | 2026 Land Rover Range Rover Evoque | $47,257 | $46,477 | -$780 |
+| 5N1AZ2MH4GN102979 | 2016 Nissan Murano | $19,489 | $18,710 | -$779 |
+| SALZJ2FX4TH307948 | 2026 Land Rover Range Rover Evoque | $47,740 | $46,990 | -$750 |
+| 2C4RC1FG8KR567641 | 2019 Chrysler Pacifica | $16,422 | $15,675 | -$747 |
+| 1GCGTDEN7J1293490 | 2018 Chevrolet Colorado | $29,490 | $28,749 | -$741 |
+| 3N1AB8CVXPY323995 | 2023 Nissan Sentra | $23,390 | $22,696 | -$694 |

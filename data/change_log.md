@@ -2104,3 +2104,38 @@
 | 2C4RC1FG8KR567641 | 2019 Chrysler Pacifica | $16,422 | $15,675 | -$747 |
 | 1GCGTDEN7J1293490 | 2018 Chevrolet Colorado | $29,490 | $28,749 | -$741 |
 | 3N1AB8CVXPY323995 | 2023 Nissan Sentra | $23,390 | $22,696 | -$694 |
+
+## 2026-09-07
+
+- New listings: 54
+- Removed / sold: 123
+- Price changes: 49
+- Biggest price drop: null null null $20,990 -> $435
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3N1CP5CV6PL565138 | null null null | $20,990 | $435 | -$20,555 |
+| KMHLS4AG1PU613186 | null null null | $20,451 | $210 | -$20,241 |
+| 1N4AA6AV6KC365241 | null null null | $20,425 | $1,140 | -$19,285 |
+| 1N4AL21E09C101266 | 2009 Nissan Altima | $2,000 | $135 | -$1,865 |
+| 3FADP4EJ5BM115477 | 2011 Ford Fiesta | $2,000 | $595 | -$1,405 |
+| 2FMPK4J91RBA78808 | 2024 Ford Edge | $26,088 | $24,772 | -$1,316 |
+| 3FA6P0D92FR108522 | 2015 Ford Fusion | $2,000 | $995 | -$1,005 |
+| WAUGUGFF4KA075012 | 2019 Audi A3 | $23,481 | $22,481 | -$1,000 |
+| YV4062RX9P1199321 | 2023 Volvo XC60 | $37,981 | $36,981 | -$1,000 |
+| 5J8YE1H40RL017704 | 2024 Acura MDX | $46,788 | $46,135 | -$653 |
+| 1FMCU9G97HUA18117 | 2017 Ford Escape | $9,988 | $9,488 | -$500 |
+| 2HKRM4H59FH612891 | 2015 Honda CR-V | $13,488 | $12,988 | -$500 |
+| 2HKRS4H77RH416511 | 2024 Honda CR-V | $33,988 | $33,488 | -$500 |
+| 2HKRS6H8XSH801040 | 2025 Honda CR-V Hybrid | $37,865 | $37,365 | -$500 |
+| 1C6RJTEG9TL160559 | 2026 Jeep Gladiator | $46,378 | $45,878 | -$500 |
+| 7JRL12TL3NG193322 | 2022 Volvo S60 | $27,481 | $26,981 | -$500 |
+| SALRL2FX7S2516550 | 2025 Land Rover Discovery | $69,738 | $69,248 | -$490 |
+| WA1L2BFZ1PP066285 | 2023 Audi Q4 e-tron | $26,393 | $25,989 | -$404 |
+| 2HGFE2F59RH511890 | 2024 Honda Civic | $27,888 | $27,488 | -$400 |
+| 2HKRS4H43RH482916 | 2024 Honda CR-V | $32,488 | $32,088 | -$400 |
+| 2HKRS4H41RH422116 | 2024 Honda CR-V | $32,865 | $32,468 | -$397 |
+| 5NPE34AB6KH734538 | 2019 Hyundai Sonata | $18,112 | $17,769 | -$343 |
+| 1YVHP82A695M26191 | 2009 Mazda Mazda6 | $7,488 | $7,165 | -$323 |
+| 19XFL1H71PE016377 | 2023 Honda Civic | $27,075 | $26,765 | -$310 |
+| 2FMDK52C69BA23208 | 2009 Ford Flex | $6,788 | $6,488 | -$300 |

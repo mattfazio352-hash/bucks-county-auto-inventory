@@ -2139,3 +2139,38 @@
 | 1YVHP82A695M26191 | 2009 Mazda Mazda6 | $7,488 | $7,165 | -$323 |
 | 19XFL1H71PE016377 | 2023 Honda Civic | $27,075 | $26,765 | -$310 |
 | 2FMDK52C69BA23208 | 2009 Ford Flex | $6,788 | $6,488 | -$300 |
+
+## 2026-09-08
+
+- New listings: 82
+- Removed / sold: 30
+- Price changes: 222
+- Biggest price drop: null null null $28,102 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 3MVDMBEY9PM552294 | null null null | $28,102 | $490 | -$27,612 |
+| 5UXCR6C03M9F09438 | null null null | $28,084 | $490 | -$27,594 |
+| 19UUB6F43MA002934 | null null null | $28,071 | $490 | -$27,581 |
+| 5FPYK3F17MB014166 | null null null | $27,981 | $490 | -$27,491 |
+| 1V2KE2CA7RC227593 | null null null | $29,489 | $2,000 | -$27,489 |
+| 1N6ED0EBXLN725727 | null null null | $27,853 | $445 | -$27,408 |
+| 5N1DR3BC3RC297434 | null null null | $27,893 | $490 | -$27,403 |
+| JF2GUADC8R8278285 | null null null | $27,858 | $500 | -$27,358 |
+| 5NMS3DAJ3PH636453 | null null null | $27,770 | $490 | -$27,280 |
+| KNDCR3LE0P5046954 | null null null | $27,730 | $490 | -$27,240 |
+| JTMDWRFV8LD539518 | null null null | $28,094 | $1,025 | -$27,069 |
+| 4T1T11AKXRU859985 | null null null | $27,642 | $1,100 | -$26,542 |
+| 3FMCR9BN1SRF22876 | null null null | $28,080 | $2,000 | -$26,080 |
+| WAUABAF40PA010379 | null null null | $27,993 | $2,000 | -$25,993 |
+| 1C4JJXP6XPW683899 | null null null | $27,731 | $1,895 | -$25,836 |
+| 3VVMB7AXXRM072335 | null null null | $26,489 | $2,000 | -$24,489 |
+| KMHLS4DG2SU892863 | null null null | $21,978 | $240 | -$21,738 |
+| 5NPEH4J28MH111703 | null null null | $19,715 | $115 | -$19,600 |
+| 3N1CP5CVXPL543689 | null null null | $19,621 | $235 | -$19,386 |
+| KL79MRSLXNB046600 | null null null | $19,726 | $770 | -$18,956 |
+| KMHRC8A30SU351021 | null null null | $19,664 | $2,000 | -$17,664 |
+| 2C4RC1BG5PR532150 | null null null | $19,638 | $2,000 | -$17,638 |
+| 3VWBM7BU0PM039925 | null null null | $19,489 | $2,000 | -$17,489 |
+| JTMRFREV5ED080006 | 2014 Toyota RAV4 | $25,000 | $14,099 | -$10,901 |
+| KM8J3CA4XJU761624 | 2018 Hyundai Tucson | $25,000 | $17,340 | -$7,660 |

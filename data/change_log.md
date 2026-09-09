@@ -2174,3 +2174,38 @@
 | 3VWBM7BU0PM039925 | null null null | $19,489 | $2,000 | -$17,489 |
 | JTMRFREV5ED080006 | 2014 Toyota RAV4 | $25,000 | $14,099 | -$10,901 |
 | KM8J3CA4XJU761624 | 2018 Hyundai Tucson | $25,000 | $17,340 | -$7,660 |
+
+## 2026-09-09
+
+- New listings: 141
+- Removed / sold: 191
+- Price changes: 580
+- Biggest price drop: null null null $64,485 -> $1,890
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GCUDEEL5RZ378748 | null null null | $64,485 | $1,890 | -$62,595 |
+| 1GKS2CKD7RR286415 | null null null | $62,980 | $1,150 | -$61,830 |
+| 1GC4YUEY8RF338577 | null null null | $63,890 | $2,675 | -$61,215 |
+| 5FNYG1H70RB037263 | null null null | $42,488 | $490 | -$41,998 |
+| 5TDAAAB57RS005531 | null null null | $42,594 | $2,000 | -$40,594 |
+| 1FMDE8BH3RLA76758 | null null null | $43,460 | $2,930 | -$40,530 |
+| 1N6ED1EK5SN628892 | null null null | $41,489 | $3,080 | -$38,409 |
+| W1Y4EBHY3MT060119 | null null null | $38,189 | $753 | -$37,436 |
+| KMHRC8A36TU456521 | 2026 Hyundai Venue | $59,055 | $25,245 | -$33,810 |
+| KMHRC8A38TU455578 | 2026 Hyundai Venue | $59,820 | $26,010 | -$33,810 |
+| KM8HD3A36TU471211 | 2026 Hyundai Kona | $64,325 | $30,515 | -$33,810 |
+| KM8HFCAB6TU413536 | 2026 Hyundai Kona | $64,775 | $30,965 | -$33,810 |
+| KMHL64JAXTA526799 | 2026 Hyundai Sonata | $67,110 | $33,300 | -$33,810 |
+| KM8JADD1XTU498647 | 2026 Hyundai Tucson Hybrid | $69,170 | $35,360 | -$33,810 |
+| 5NTJBDDE2TH164709 | 2026 Hyundai Santa Cruz | $69,785 | $35,975 | -$33,810 |
+| KMHL34JJ5SA112997 | 2025 Hyundai Sonata Hybrid | $66,568 | $33,445 | -$33,123 |
+| 5NTJBDDEXSH140964 | 2025 Hyundai Santa Cruz | $67,731 | $34,830 | -$32,901 |
+| 5NTJDDDF2SH146728 | 2025 Hyundai Santa Cruz | $75,320 | $42,615 | -$32,705 |
+| 1V2KR2CA3RC531721 | null null null | $34,489 | $2,000 | -$32,489 |
+| 1FAGP8UH1S5106560 | null null null | $33,485 | $2,000 | -$31,485 |
+| 3VVMR7RMXTM000970 | null null null | $33,189 | $2,000 | -$31,189 |
+| 3FMCR9GN6SRE07585 | 2025 Ford Bronco Sport | $32,990 | $2,000 | -$30,990 |
+| WA1GAAFY1P2151520 | null null null | $30,489 | $100 | -$30,389 |
+| 5LMCJ1DA6PUL21040 | null null null | $33,971 | $3,595 | -$30,376 |
+| 1FATP8FF9F5374904 | null null null | $30,945 | $1,295 | -$29,650 |

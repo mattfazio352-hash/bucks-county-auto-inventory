@@ -2209,3 +2209,38 @@
 | WA1GAAFY1P2151520 | null null null | $30,489 | $100 | -$30,389 |
 | 5LMCJ1DA6PUL21040 | null null null | $33,971 | $3,595 | -$30,376 |
 | 1FATP8FF9F5374904 | null null null | $30,945 | $1,295 | -$29,650 |
+
+## 2026-09-10
+
+- New listings: 125
+- Removed / sold: 238
+- Price changes: 544
+- Biggest price drop: null null null $59,485 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GKS2HKD8RR132647 | null null null | $59,485 | $490 | -$58,995 |
+| 2GCUDJED2R1266404 | null null null | $50,393 | $2,125 | -$48,268 |
+| 1GNSKEKD8NR118775 | null null null | $48,944 | $2,525 | -$46,419 |
+| 3GCUDDED9PG363346 | null null null | $40,485 | $490 | -$39,995 |
+| 1GTP6DEK3P1229906 | null null null | $38,485 | $490 | -$37,995 |
+| 3C6UR5CL2LG111148 | null null null | $38,485 | $490 | -$37,995 |
+| YV40621N5P1911009 | null null null | $35,477 | $385 | -$35,092 |
+| JM3KKDHA1R1143481 | null null null | $34,111 | $595 | -$33,516 |
+| JM3KKBHD0R1142126 | null null null | $30,366 | $595 | -$29,771 |
+| 1C6RRFBG4MN834959 | 2021 Ram 1500 | $28,490 | $1,300 | -$27,190 |
+| JM3KFBCM7P0285718 | null null null | $27,490 | $595 | -$26,895 |
+| 3N8AP6CB9TL327833 | null null null | $25,490 | $300 | -$25,190 |
+| ZASPATTW0S3091757 | 2025 Alfa Romeo Tonale | $49,485 | $43,485 | -$6,000 |
+| 5NTJBDDEXSH140964 | 2025 Hyundai Santa Cruz | $34,830 | $30,106 | -$4,724 |
+| ZN682AVM1P7427413 | 2023 Maserati Grecale | $44,485 | $40,485 | -$4,000 |
+| 5N1AL1HZ3VC330544 | 2027 INFINITI QX60 | $64,489 | $60,625 | -$3,864 |
+| KM8HCCAB1RU051455 | 2024 Hyundai Kona | $26,623 | $22,929 | -$3,694 |
+| 1C4SJSFP6RS158012 | 2024 Jeep Grand Wagoneer L | $46,744 | $43,544 | -$3,200 |
+| ZN661ZUA9KX328136 | 2019 Maserati Levante | $63,485 | $60,485 | -$3,000 |
+| ZN661YUS8PX423829 | 2023 Maserati Levante | $69,485 | $66,485 | -$3,000 |
+| ZASPAKBN5R7D89584 | 2024 Alfa Romeo Stelvio | $43,285 | $40,485 | -$2,800 |
+| 3VV8B7AX2RM181292 | 2024 Volkswagen Tiguan | $26,885 | $24,462 | -$2,423 |
+| 1C6RRFFG1PN689071 | 2023 Ram 1500 | $37,390 | $34,989 | -$2,401 |
+| 1FMEE0RR6RLB48024 | 2024 Ford Bronco | $68,807 | $66,541 | -$2,266 |
+| 7MMVABBM3SN310082 | 2025 Mazda CX-50 | $29,467 | $27,467 | -$2,000 |

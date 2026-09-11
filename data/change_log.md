@@ -2244,3 +2244,38 @@
 | 1C6RRFFG1PN689071 | 2023 Ram 1500 | $37,390 | $34,989 | -$2,401 |
 | 1FMEE0RR6RLB48024 | 2024 Ford Bronco | $68,807 | $66,541 | -$2,266 |
 | 7MMVABBM3SN310082 | 2025 Mazda CX-50 | $29,467 | $27,467 | -$2,000 |
+
+## 2026-09-11
+
+- New listings: 112
+- Removed / sold: 58
+- Price changes: 473
+- Biggest price drop: 2024 Ford F-150 $41,070 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FTEW3LP5RKD26974 | 2024 Ford F-150 | $41,070 | $2,000 | -$39,070 |
+| 1FTFW3LD2RFA21807 | null null null | $40,480 | $2,770 | -$37,710 |
+| JM3KMCHA5T0111988 | null null null | $34,880 | $595 | -$34,285 |
+| 1FTER4FH2LLA73678 | 2020 Ford Ranger | $30,955 | $100 | -$30,855 |
+| 5UXCR6C04LLL65946 | null null null | $32,480 | $2,300 | -$30,180 |
+| 3FMCR9B66PRD33835 | 2023 Ford Bronco Sport | $22,489 | $100 | -$22,389 |
+| 1FMCU9MN5RUA62040 | 2024 Ford Escape | $18,587 | $100 | -$18,487 |
+| 4JGFF5KE4SB417106 | 2025 Mercedes-Benz GLS | $80,508 | $74,526 | -$5,982 |
+| 1C6SRFJT3PN659463 | 2023 Ram 1500 | $48,150 | $45,561 | -$2,589 |
+| WDDXJ8FB7GA012157 | 2016 Mercedes-Benz S-Class | $38,489 | $35,929 | -$2,560 |
+| JTHP9JBH0R2077545 | 2024 LEXUS UX | $37,024 | $34,489 | -$2,535 |
+| WP1AA2A58RLB13762 | 2024 Porsche Macan | $60,900 | $58,590 | -$2,310 |
+| W1NYC6BJ9RX507737 | 2024 Mercedes-Benz G-Class | $151,981 | $149,981 | -$2,000 |
+| JF2GTHNC7N8221421 | 2022 Subaru Crosstrek | $22,489 | $20,489 | -$2,000 |
+| 7JRL12TL6RG317718 | 2024 Volvo S60 | $30,489 | $28,489 | -$2,000 |
+| 1C4JJXSJ2MW775242 | 2021 Jeep Wrangler | $49,334 | $47,334 | -$2,000 |
+| KM8K3CAB1PU047876 | 2023 Hyundai Kona | $24,485 | $22,576 | -$1,909 |
+| 2C3CDXCT0NH198408 | 2022 Dodge Charger | $38,244 | $36,567 | -$1,677 |
+| KMHLM4DG7RU657640 | 2024 Hyundai Elantra | $20,887 | $19,219 | -$1,668 |
+| 1C4RJXU6XRW143589 | 2024 Jeep Wrangler 4xe | $38,860 | $37,252 | -$1,608 |
+| 1GNS6TKL9TR126624 | 2026 Chevrolet Tahoe | $78,980 | $77,375 | -$1,605 |
+| 7FARS6H58TE131174 | 2026 Honda CR-V Hybrid | $38,988 | $37,488 | -$1,500 |
+| 1C4JJXFG3MW790508 | 2021 Jeep Wrangler | $35,662 | $34,188 | -$1,474 |
+| 4JGFF5KE9SB280261 | 2025 Mercedes-Benz GLS | $77,549 | $76,078 | -$1,471 |
+| 1C6SRFFP8TN249117 | 2026 Ram 1500 | $45,869 | $44,413 | -$1,456 |

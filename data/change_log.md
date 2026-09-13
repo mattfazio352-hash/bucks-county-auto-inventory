@@ -2279,3 +2279,38 @@
 | 1C4JJXFG3MW790508 | 2021 Jeep Wrangler | $35,662 | $34,188 | -$1,474 |
 | 4JGFF5KE9SB280261 | 2025 Mercedes-Benz GLS | $77,549 | $76,078 | -$1,471 |
 | 1C6SRFFP8TN249117 | 2026 Ram 1500 | $45,869 | $44,413 | -$1,456 |
+
+## 2026-09-13
+
+- New listings: 294
+- Removed / sold: 323
+- Price changes: 609
+- Biggest price drop: 2026 Hyundai Palisade $510,699 -> $48,471
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KM8RMES26TU024805 | 2026 Hyundai Palisade | $510,699 | $48,471 | -$462,228 |
+| 1GYS4FKL5PR201299 | null null null | $61,389 | $2,000 | -$59,389 |
+| 2GC4KMEY1S1132127 | null null null | $55,485 | $2,000 | -$53,485 |
+| 1FMWK8HC2SGB01192 | 2025 Ford Explorer | $43,990 | $4,725 | -$39,265 |
+| JN1EV7BR6PM543077 | 2023 INFINITI Q50 | $29,485 | $270 | -$29,215 |
+| 7MMVABBM2SN306427 | 2025 Mazda CX-50 | $24,467 | $595 | -$23,872 |
+| 5NMS1DAJ3PH517016 | 2023 Hyundai Santa Fe | $17,788 | $100 | -$17,688 |
+| 5XYPH4A14GG053486 | 2016 Kia Sorento | $25,000 | $15,049 | -$9,951 |
+| W1NYC7HJ1RX511911 | 2024 Mercedes-Benz AMG G 63 | $183,820 | $175,820 | -$8,000 |
+| 4S4BSBLC9F3326404 | 2015 Subaru Outback | $30,000 | $25,000 | -$5,000 |
+| 1HGCY2F57RA035423 | 2024 Honda Accord Hybrid | $34,535 | $30,378 | -$4,157 |
+| 1HGCV1F56KA040296 | 2019 Honda Accord | $26,390 | $22,989 | -$3,401 |
+| 1FT7W2BN5TEC23384 | 2026 Ford F-250 | $55,126 | $52,168 | -$2,958 |
+| 5TDFZRBH7MS080715 | 2021 Toyota Highlander | $33,782 | $31,332 | -$2,450 |
+| 4JGFF8GE9LA227299 | 2020 Mercedes-Benz GLS 580 | $39,480 | $37,280 | -$2,200 |
+| 1FMSK8DHXRGA90520 | 2024 Ford Explorer | $36,005 | $33,876 | -$2,129 |
+| KMUHEESCXSU270497 | 2025 Genesis GV80 | $67,489 | $65,400 | -$2,089 |
+| 1FDRF3B68GEB17732 | 2016 Ford F-350SD | $36,485 | $34,485 | -$2,000 |
+| 1FBAX2Y80RKA42843 | 2024 Ford Transit-350 | $40,485 | $38,485 | -$2,000 |
+| ZFBHRFBB2L6R88039 | 2020 Ram Promaster City | $17,485 | $15,485 | -$2,000 |
+| NM0LS7S23N1518536 | 2022 Ford Transit Connect Van | $22,485 | $20,485 | -$2,000 |
+| 5FNYG1H97SB064113 | 2025 Honda Pilot | $47,421 | $45,421 | -$2,000 |
+| 1FA6P8CF8T5405699 | 2026 Ford Mustang | $54,489 | $52,489 | -$2,000 |
+| JF1VBAF61P9816308 | 2023 Subaru WRX | $30,489 | $28,489 | -$2,000 |
+| 1V2HR2CA2SC523805 | 2025 Volkswagen Atlas | $32,489 | $30,489 | -$2,000 |

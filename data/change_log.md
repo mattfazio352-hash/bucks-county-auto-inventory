@@ -2314,3 +2314,38 @@
 | 1FA6P8CF8T5405699 | 2026 Ford Mustang | $54,489 | $52,489 | -$2,000 |
 | JF1VBAF61P9816308 | 2023 Subaru WRX | $30,489 | $28,489 | -$2,000 |
 | 1V2HR2CA2SC523805 | 2025 Volkswagen Atlas | $32,489 | $30,489 | -$2,000 |
+
+## 2026-09-14
+
+- New listings: 23
+- Removed / sold: 108
+- Price changes: 103
+- Biggest price drop: null null null $68,490 -> $2,270
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GT49WEY7RF313128 | null null null | $68,490 | $2,270 | -$66,220 |
+| 1FTFW4L87SFA44448 | null null null | $64,482 | $490 | -$63,992 |
+| 1GT49PEY0RF256213 | null null null | $60,780 | $4,070 | -$56,710 |
+| 1FMJU1J8XSEA43460 | null null null | $58,339 | $4,350 | -$53,989 |
+| 1GYS4DKL1NR180582 | null null null | $56,485 | $2,500 | -$53,985 |
+| WBA53FJ01TCV77490 | null null null | $52,484 | $490 | -$51,994 |
+| 4JGFF8GE8MA394190 | null null null | $51,480 | $490 | -$50,990 |
+| 1FMEE4DP7SLB29954 | null null null | $52,990 | $2,000 | -$50,990 |
+| 1C6SRFFT7NN285090 | null null null | $51,267 | $490 | -$50,777 |
+| 3GTUUEEL4RG194210 | null null null | $50,680 | $350 | -$50,330 |
+| 5TFJC5DB7RX042433 | null null null | $50,594 | $950 | -$49,644 |
+| 1FMEE2BP7RLA69370 | null null null | $52,478 | $2,930 | -$49,548 |
+| 1FMEE5DP6PLB86109 | null null null | $48,637 | $5,745 | -$42,892 |
+| KM8R7DGE9SU808124 | null null null | $42,612 | $245 | -$42,367 |
+| 5FNYG1H78RB011137 | null null null | $42,481 | $490 | -$41,991 |
+| 1C6SRFJT6PN526258 | null null null | $42,799 | $4,195 | -$38,604 |
+| 1FMEE5DPXPLB54974 | null null null | $42,948 | $5,745 | -$37,203 |
+| 5J8TC2H36PL018768 | null null null | $35,980 | $490 | -$35,490 |
+| 5NTJDDDF8SH132476 | null null null | $33,530 | $240 | -$33,290 |
+| 1GTW7AFP5S1179715 | null null null | $32,985 | $490 | -$32,495 |
+| 3FMCR9BN4TRE29433 | null null null | $33,485 | $1,800 | -$31,685 |
+| 5TDGZRBH3MS116887 | null null null | $32,071 | $490 | -$31,581 |
+| 19UDE4H30SA021311 | null null null | $33,480 | $2,000 | -$31,480 |
+| JTJBM7FX4K5223753 | null null null | $31,519 | $260 | -$31,259 |
+| 1FMSK8DH9PGB47982 | null null null | $33,480 | $3,540 | -$29,940 |

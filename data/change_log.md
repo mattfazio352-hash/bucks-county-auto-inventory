@@ -2349,3 +2349,38 @@
 | 19UDE4H30SA021311 | null null null | $33,480 | $2,000 | -$31,480 |
 | JTJBM7FX4K5223753 | null null null | $31,519 | $260 | -$31,259 |
 | 1FMSK8DH9PGB47982 | null null null | $33,480 | $3,540 | -$29,940 |
+
+## 2026-09-15
+
+- New listings: 151
+- Removed / sold: 233
+- Price changes: 455
+- Biggest price drop: 2024 Hyundai Palisade $39,517 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KM8R7DGE2RU658609 | 2024 Hyundai Palisade | $39,517 | $2,000 | -$37,517 |
+| KM8R3DGE2PU576422 | null null null | $28,329 | $120 | -$28,209 |
+| 5XYK6CAF6PG109286 | null null null | $28,350 | $1,500 | -$26,850 |
+| 5NPE24AF9GH405507 | 2016 Hyundai Sonata | $30,000 | $13,481 | -$16,519 |
+| 1FTFW3L86SKE48567 | 2025 Ford F-150 | $54,478 | $46,112 | -$8,366 |
+| 1GKS2JKL8NR354520 | 2022 GMC Yukon XL | $60,900 | $53,489 | -$7,411 |
+| 5UX33EM0XP9P29770 | 2023 BMW X7 | $68,480 | $64,674 | -$3,806 |
+| WBX73EF03T5493547 | 2026 BMW X1 | $48,340 | $45,340 | -$3,000 |
+| 5UX53GP01T9141816 | 2026 BMW X3 | $51,480 | $48,480 | -$3,000 |
+| 3PCAJ5KR1PF101229 | 2023 INFINITI QX55 | $31,487 | $28,568 | -$2,919 |
+| 3GNAXKEGXRS139194 | 2024 Chevrolet Equinox | $25,390 | $22,489 | -$2,901 |
+| 3C6LRVDG7SE570912 | 2025 Ram Promaster 2500 | $50,390 | $47,489 | -$2,901 |
+| KM8R24GE6RU804749 | 2024 Hyundai Palisade | $28,980 | $26,975 | -$2,005 |
+| WU1ARBF13TD008454 | 2026 Audi RS Q8 Performance | $126,490 | $124,490 | -$2,000 |
+| 3C6UR5FL1RG114403 | 2024 Ram 2500 | $53,900 | $51,989 | -$1,911 |
+| 2G1FK1EJ9D9141312 | 2013 Chevrolet Camaro | $26,416 | $24,592 | -$1,824 |
+| JN8AZ3DB0S9404376 | 2025 INFINITI QX80 | $69,120 | $67,388 | -$1,732 |
+| 1FMSK8DH0MGB11089 | 2021 Ford Explorer | $17,468 | $15,849 | -$1,619 |
+| WAULDAF87PN016243 | 2023 Audi A8 | $48,804 | $47,250 | -$1,554 |
+| JTDL9MFU7N3033071 | 2022 Toyota Prius | $22,027 | $20,489 | -$1,538 |
+| WBX73EF0XP5X33408 | 2023 BMW X1 | $34,980 | $33,480 | -$1,500 |
+| 1V2HN2CAXTC506005 | 2026 Volkswagen Atlas | $36,980 | $35,480 | -$1,500 |
+| 19UUB5F45SA002991 | 2025 Acura TLX | $40,980 | $39,480 | -$1,500 |
+| 1GNSKRKL3PR289080 | 2023 Chevrolet Tahoe | $54,980 | $53,480 | -$1,500 |
+| 5UX43EX00S9X81367 | 2025 BMW X6 | $86,480 | $84,980 | -$1,500 |

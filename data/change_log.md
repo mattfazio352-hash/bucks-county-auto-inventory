@@ -2384,3 +2384,38 @@
 | 19UUB5F45SA002991 | 2025 Acura TLX | $40,980 | $39,480 | -$1,500 |
 | 1GNSKRKL3PR289080 | 2023 Chevrolet Tahoe | $54,980 | $53,480 | -$1,500 |
 | 5UX43EX00S9X81367 | 2025 BMW X6 | $86,480 | $84,980 | -$1,500 |
+
+## 2026-09-16
+
+- New listings: 292
+- Removed / sold: 121
+- Price changes: 639
+- Biggest price drop: null null null $49,485 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GNSKNKT8PR467963 | null null null | $49,485 | $490 | -$48,995 |
+| 1V2FN2CA5TC507070 | null null null | $46,393 | $2,000 | -$44,393 |
+| 3TYLC5LN2TT059730 | null null null | $49,594 | $8,290 | -$41,304 |
+| 1GCUDGED0NZ598166 | null null null | $41,399 | $100 | -$41,299 |
+| 58AJZ1B19PU144515 | null null null | $43,117 | $2,000 | -$41,117 |
+| 4JGFB4KB7NA619511 | null null null | $41,088 | $100 | -$40,988 |
+| 1FMDE5BH6PLC05457 | null null null | $40,478 | $100 | -$40,378 |
+| 1FTFW1E8XNKF18707 | null null null | $41,410 | $1,195 | -$40,215 |
+| 1FTEX1EP2PFB60224 | null null null | $40,480 | $325 | -$40,155 |
+| KM8R4DGE1SU866964 | null null null | $40,247 | $140 | -$40,107 |
+| 1GTUUDED8SZ268236 | null null null | $41,857 | $2,000 | -$39,857 |
+| 5J8YE1H4XPL029162 | null null null | $39,980 | $490 | -$39,490 |
+| 5FNYG1H43SB063478 | 2025 Honda Pilot | $41,385 | $2,000 | -$39,385 |
+| 1FTEW1EP6PFB87798 | null null null | $39,480 | $325 | -$39,155 |
+| 19UUB5F45SA002991 | null null null | $39,480 | $490 | -$38,990 |
+| 5XYRHDJFXTG418042 | null null null | $38,968 | $235 | -$38,733 |
+| 1C4HJXFG3PW596001 | null null null | $38,180 | $170 | -$38,010 |
+| 1FTEW1E46LFB97067 | null null null | $38,938 | $1,295 | -$37,643 |
+| KNDNE5K32S6459185 | null null null | $40,124 | $2,500 | -$37,624 |
+| KM8RLES25TU097389 | null null null | $39,516 | $2,000 | -$37,516 |
+| 5J8YE1H05PL015389 | null null null | $37,975 | $490 | -$37,485 |
+| 1N6ED1EKXSN660317 | null null null | $40,479 | $3,080 | -$37,399 |
+| 1FMUK8KH7SGB50738 | null null null | $37,968 | $594 | -$37,374 |
+| 3GNKBKRS7SS127236 | null null null | $38,485 | $1,375 | -$37,110 |
+| JTMFB3FV3RD198474 | null null null | $39,594 | $2,585 | -$37,009 |

@@ -2419,3 +2419,38 @@
 | 1FMUK8KH7SGB50738 | null null null | $37,968 | $594 | -$37,374 |
 | 3GNKBKRS7SS127236 | null null null | $38,485 | $1,375 | -$37,110 |
 | JTMFB3FV3RD198474 | null null null | $39,594 | $2,585 | -$37,009 |
+
+## 2026-09-17
+
+- New listings: 134
+- Removed / sold: 121
+- Price changes: 467
+- Biggest price drop: null null null $39,909 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FMJU2A87REA21805 | null null null | $39,909 | $2,000 | -$37,909 |
+| JM3KKAHD5T1361620 | null null null | $35,580 | $595 | -$34,985 |
+| 5FNYF8H6XPB032751 | 2023 Honda Passport | $34,785 | $2,000 | -$32,785 |
+| 5FNRL6H82PB009435 | null null null | $33,985 | $2,000 | -$31,985 |
+| 5XYK33DF8RG185812 | null null null | $27,689 | $175 | -$27,514 |
+| 1N6ED0EBXLN725727 | null null null | $27,853 | $445 | -$27,408 |
+| KM8KNDAF3PU191240 | null null null | $27,570 | $205 | -$27,365 |
+| NM0GE9F27N1541073 | null null null | $27,485 | $200 | -$27,285 |
+| 3MVDMBCM1SM779925 | null null null | $27,487 | $490 | -$26,997 |
+| 4T1DAACK0SU114265 | null null null | $27,485 | $490 | -$26,995 |
+| 1FTRF3B61HED71269 | null null null | $27,485 | $915 | -$26,570 |
+| 1GYKNDRS2MZ112879 | null null null | $27,346 | $1,025 | -$26,321 |
+| 1FTER4FH5KLA52144 | null null null | $27,480 | $1,295 | -$26,185 |
+| 3FMCR9G63PRD12661 | null null null | $27,200 | $1,145 | -$26,055 |
+| 2FMPK4J99PBA47917 | null null null | $27,478 | $1,595 | -$25,883 |
+| 3TYJDAHN9RT005808 | null null null | $27,486 | $2,000 | -$25,486 |
+| JN8BT3CB5PW482913 | null null null | $27,485 | $2,000 | -$25,485 |
+| 1G1YY12S425129132 | null null null | $27,455 | $2,000 | -$25,455 |
+| 5NMJCCDE8SH487146 | null null null | $27,322 | $2,000 | -$25,322 |
+| 1HGCV3F96JA013872 | 2018 Honda Accord Hybrid | $21,978 | $2,000 | -$19,978 |
+| 1FMEE5DP6PLB86109 | 2023 Ford Bronco | $48,637 | $44,872 | -$3,765 |
+| 1C6SRFU95NN216633 | 2022 Ram 1500 | $72,390 | $69,540 | -$2,850 |
+| 1FTFW1E86PFC09540 | 2023 Ford F-150 | $55,209 | $52,478 | -$2,731 |
+| 1FTFW1E54PFA95494 | 2023 Ford F-150 | $47,485 | $44,985 | -$2,500 |
+| 5N1AL1HU8TC351505 | 2026 INFINITI QX60 | $59,489 | $57,040 | -$2,449 |

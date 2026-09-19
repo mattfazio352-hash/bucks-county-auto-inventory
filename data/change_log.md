@@ -2489,3 +2489,38 @@
 | 5N1AZ2BSXRC110856 | 2024 Nissan Murano | $28,210 | $26,487 | -$1,723 |
 | 3N1AB8DV2RY249537 | 2024 Nissan Sentra | $20,885 | $19,168 | -$1,717 |
 | JM3KFBEM0S0622705 | 2025 Mazda CX-5 | $37,091 | $35,534 | -$1,557 |
+
+## 2026-09-19
+
+- New listings: 148
+- Removed / sold: 37
+- Price changes: 436
+- Biggest price drop: 2024 Jeep Wrangler $50,000 -> $7,500
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1C4PJXAN9RW366435 | 2024 Jeep Wrangler | $50,000 | $7,500 | -$42,500 |
+| 7FARS6H68TE053715 | 2026 Honda CR-V Hybrid | $36,689 | $2,000 | -$34,689 |
+| JM3KFBBL2S0695764 | 2025 Mazda CX-5 | $24,587 | $490 | -$24,097 |
+| 5LMCJ1D95NUL27656 | 2022 Lincoln Corsair | $26,869 | $2,775 | -$24,094 |
+| 1FTEX1EB8JFB48588 | 2018 Ford F-150 | $22,661 | $100 | -$22,561 |
+| 3VW7M7BU9PM048029 | 2023 Volkswagen Jetta | $21,406 | $2,000 | -$19,406 |
+| 5NMJACAE0PH254928 | 2023 Hyundai Tucson | $21,387 | $2,000 | -$19,387 |
+| KNMAT2MV4GP598253 | 2016 Nissan Rogue | $25,000 | $14,487 | -$10,513 |
+| 1C4SDJCTXKC625435 | 2019 Dodge Durango | $32,489 | $27,489 | -$5,000 |
+| 1C4RJYB61RC158797 | 2024 Jeep Grand Cherokee 4xe | $24,587 | $21,479 | -$3,108 |
+| SALE2EFE5S2368299 | 2025 Land Rover Defender 110 | $99,485 | $96,485 | -$3,000 |
+| 1C6SRFFT4KN645007 | 2019 Ram 1500 | $29,489 | $26,989 | -$2,500 |
+| 3C6LRVDG7SE570912 | 2025 Ram Promaster 2500 | $47,489 | $44,989 | -$2,500 |
+| 1GCWGAFP3S1196965 | 2025 Chevrolet Express Cargo | $37,390 | $34,989 | -$2,401 |
+| 58ABA1C13PU028334 | 2023 LEXUS ES | $44,360 | $41,970 | -$2,390 |
+| WP0AB2Y11MSA45663 | 2021 Porsche Taycan | $43,131 | $41,089 | -$2,042 |
+| JN8BT3DD3PW312131 | 2023 Nissan Rogue | $26,989 | $24,989 | -$2,000 |
+| 1C4RDJDG8KC582570 | 2019 Dodge Durango | $28,489 | $26,489 | -$2,000 |
+| 1C6SRFFT5KN796504 | 2019 Ram 1500 | $29,489 | $27,489 | -$2,000 |
+| 2C3CDXHG0PH556606 | 2023 Dodge Charger | $29,989 | $27,989 | -$2,000 |
+| 1GCUDGE85PZ308476 | 2023 Chevrolet Silverado 1500 | $48,489 | $46,489 | -$2,000 |
+| 1G1YA2D40P5139933 | 2023 Chevrolet Corvette Stingray | $66,989 | $64,989 | -$2,000 |
+| 2HKRS4H23TH498958 | 2026 Honda CR-V | $35,795 | $34,030 | -$1,765 |
+| 3GCUDHEL2NG675889 | 2022 Chevrolet Silverado 1500 | $42,042 | $40,479 | -$1,563 |
+| 1FMDE8BH3SLA65197 | 2025 Ford Bronco | $46,450 | $44,930 | -$1,520 |

@@ -2524,3 +2524,38 @@
 | 2HKRS4H23TH498958 | 2026 Honda CR-V | $35,795 | $34,030 | -$1,765 |
 | 3GCUDHEL2NG675889 | 2022 Chevrolet Silverado 1500 | $42,042 | $40,479 | -$1,563 |
 | 1FMDE8BH3SLA65197 | 2025 Ford Bronco | $46,450 | $44,930 | -$1,520 |
+
+## 2026-09-20
+
+- New listings: 125
+- Removed / sold: 206
+- Price changes: 179
+- Biggest price drop: null null null $14,149 -> $155
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 5NPLM4AG0MH002392 | null null null | $14,149 | $155 | -$13,994 |
+| 19UDE4H3XTA007059 | 2026 Acura Integra | $38,490 | $33,969 | -$4,521 |
+| 5NMS2DAJ1PH607195 | 2023 Hyundai Santa Fe | $29,260 | $27,217 | -$2,043 |
+| JM3KFBBL8R0406901 | 2024 Mazda CX-5 | $30,252 | $28,366 | -$1,886 |
+| 5N1AR2MMXFC641260 | 2015 Nissan Pathfinder | $2,000 | $160 | -$1,840 |
+| 1G1YY3383M5117071 | 1991 Chevrolet Corvette | $15,289 | $13,489 | -$1,800 |
+| 5N1DR3BD6PC259508 | 2023 Nissan Pathfinder | $26,246 | $24,477 | -$1,769 |
+| 1FTNE2EW8CDA66938 | 2012 Ford Econoline 250 | $2,000 | $295 | -$1,705 |
+| WB543CF09TCW96034 | 2026 BMW iX | $67,680 | $66,477 | -$1,203 |
+| 3KPF54AD6PE646858 | 2023 Kia Forte | $22,773 | $21,650 | -$1,123 |
+| 1G1YA3D41T5107962 | 2026 Chevrolet Corvette Stingray | $74,480 | $73,387 | -$1,093 |
+| 5FNYF6H35MB068739 | 2021 Honda Pilot | $30,489 | $29,421 | -$1,068 |
+| 5FNYF8H62PB041864 | 2023 Honda Passport | $36,370 | $35,358 | -$1,012 |
+| 1FMCU9G60NUB38374 | 2022 Ford Escape | $20,489 | $19,480 | -$1,009 |
+| 5FNYF8H54PB040397 | 2023 Honda Passport | $33,421 | $32,421 | -$1,000 |
+| 5FNYG1H97SB064113 | 2025 Honda Pilot | $45,421 | $44,421 | -$1,000 |
+| 1V2KN2CAXTC522114 | 2026 Volkswagen Atlas | $39,489 | $38,489 | -$1,000 |
+| 1FMCU0C70CKB99677 | 2012 Ford Escape | $11,421 | $10,421 | -$1,000 |
+| 1GNERGKW5KJ113095 | 2019 Chevrolet Traverse | $15,421 | $14,421 | -$1,000 |
+| 1C4RJFAG0LC326726 | 2020 Jeep Grand Cherokee | $20,421 | $19,421 | -$1,000 |
+| 1C4RJHAG2PC622946 | 2023 Jeep Grand Cherokee | $22,421 | $21,421 | -$1,000 |
+| 3GNAXXEGXPL229174 | 2023 Chevrolet Equinox | $25,421 | $24,421 | -$1,000 |
+| 7MMVABDL5TN476724 | 2026 Mazda CX-50 | $34,165 | $33,165 | -$1,000 |
+| 1FAGP8FF7S5129885 | 2025 Ford Mustang | $53,489 | $52,489 | -$1,000 |
+| 4JGFB4KB5LA071781 | 2020 Mercedes-Benz GLE 350 | $24,489 | $23,489 | -$1,000 |

@@ -2559,3 +2559,38 @@
 | 7MMVABDL5TN476724 | 2026 Mazda CX-50 | $34,165 | $33,165 | -$1,000 |
 | 1FAGP8FF7S5129885 | 2025 Ford Mustang | $53,489 | $52,489 | -$1,000 |
 | 4JGFB4KB5LA071781 | 2020 Mercedes-Benz GLE 350 | $24,489 | $23,489 | -$1,000 |
+
+## 2026-09-21
+
+- New listings: 25
+- Removed / sold: 142
+- Price changes: 72
+- Biggest price drop: null null null $31,990 -> $3,430
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1GKS2BKC0JR355368 | null null null | $31,990 | $3,430 | -$28,560 |
+| 3GKALXEX7JL250449 | null null null | $20,145 | $2,000 | -$18,145 |
+| KNDJ23AU4P7886939 | null null null | $17,690 | $500 | -$17,190 |
+| 1G1ZD5STXRF141628 | null null null | $17,788 | $2,000 | -$15,788 |
+| KMHLM4AG6PU543422 | null null null | $17,587 | $2,000 | -$15,587 |
+| NM0LS6BN1CT087314 | 2012 Ford Transit Connect | $2,000 | $395 | -$1,605 |
+| 5TDZA23C76S412654 | 2006 Toyota Sienna | $2,000 | $470 | -$1,530 |
+| JTHGZ1E25P5029641 | 2023 LEXUS IS 350 | $41,876 | $40,489 | -$1,387 |
+| 1C4RJHDG3P8861064 | 2023 Jeep Grand Cherokee | $32,489 | $31,115 | -$1,374 |
+| KM8HDCA30TU446448 | 2026 Hyundai Kona | $31,489 | $30,173 | -$1,316 |
+| 2T3RWRFV2SW267474 | 2025 Toyota RAV4 Hybrid | $37,981 | $36,708 | -$1,273 |
+| 5XYK33AF8PG129869 | 2023 Kia Sportage | $24,691 | $23,650 | -$1,041 |
+| 3FAHP0JG4CR196464 | 2012 Ford Fusion | $2,000 | $1,195 | -$805 |
+| 19XZE4F58LE001718 | 2020 Honda Insight | $23,785 | $22,988 | -$797 |
+| 4S4BTGUD5N3231905 | 2022 Subaru Outback | $24,204 | $23,409 | -$795 |
+| KMHRC8A36PU256633 | 2023 Hyundai Venue | $20,117 | $19,336 | -$781 |
+| KM8J3CAL5KU947435 | 2019 Hyundai Tucson | $17,789 | $17,134 | -$655 |
+| 2FMPK4APXJBB14370 | 2018 Ford Edge | $16,108 | $15,485 | -$623 |
+| 5FNRL6H27NB020410 | 2022 Honda Odyssey | $32,088 | $31,488 | -$600 |
+| KMHLM4DJ5SU145120 | 2025 Hyundai Elantra Hybrid | $26,047 | $25,471 | -$576 |
+| 5FNYF8H23MB011250 | 2021 Honda Passport | $23,489 | $22,985 | -$504 |
+| 7FARS6H8XTE116346 | 2026 Honda CR-V Hybrid | $39,988 | $39,488 | -$500 |
+| KM8J3CAL8MU350508 | 2021 Hyundai Tucson | $16,985 | $16,485 | -$500 |
+| 5J6RM4H54FL053644 | 2015 Honda CR-V | $17,985 | $17,485 | -$500 |
+| 5YFB4MDE3RP093643 | 2024 Toyota Corolla | $21,985 | $21,485 | -$500 |

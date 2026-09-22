@@ -2594,3 +2594,38 @@
 | KM8J3CAL8MU350508 | 2021 Hyundai Tucson | $16,985 | $16,485 | -$500 |
 | 5J6RM4H54FL053644 | 2015 Honda CR-V | $17,985 | $17,485 | -$500 |
 | 5YFB4MDE3RP093643 | 2024 Toyota Corolla | $21,985 | $21,485 | -$500 |
+
+## 2026-09-22
+
+- New listings: 153
+- Removed / sold: 85
+- Price changes: 435
+- Biggest price drop: 2023 Ford Escape $24,990 -> $100
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1FMCU9MN6PUA94444 | 2023 Ford Escape | $24,990 | $100 | -$24,890 |
+| MAJ6P1CL1JC184890 | null null null | $12,967 | $195 | -$12,772 |
+| 5XYZUDLBXHG411301 | null null null | $12,807 | $120 | -$12,687 |
+| 2C4RC1BG0JR119186 | null null null | $12,980 | $490 | -$12,490 |
+| 5NPD84LF4JH373371 | null null null | $12,419 | $125 | -$12,294 |
+| 1G4GB5G36EF226940 | null null null | $13,023 | $1,300 | -$11,723 |
+| 2C4RDGCG1KR517989 | null null null | $12,977 | $2,000 | -$10,977 |
+| 1C4RJFBT7FC948207 | null null null | $12,219 | $1,245 | -$10,974 |
+| 1C4RJFAG6EC129773 | null null null | $12,485 | $1,600 | -$10,885 |
+| 4S3GKAA60J3607629 | 2018 Subaru Impreza | $25,000 | $14,671 | -$10,329 |
+| W1KLH6FB5SA106366 | 2025 Mercedes-Benz E-Class | $79,634 | $71,922 | -$7,712 |
+| 3GNAXTEG3TL199633 | 2026 Chevrolet Equinox | $35,487 | $31,488 | -$3,999 |
+| 3C6UR5EL3RG154970 | 2024 Ram 2500 | $71,308 | $67,515 | -$3,793 |
+| 1FMUK8KH4SGB57548 | 2025 Ford Explorer | $43,478 | $40,478 | -$3,000 |
+| 1GYS4JKT8RR210004 | 2024 CADILLAC Escalade ESV | $45,480 | $42,480 | -$3,000 |
+| JF2SKAJCXLH471730 | 2020 Subaru Forester | $23,487 | $20,488 | -$2,999 |
+| KL79MPSL0RB116048 | 2024 Chevrolet Trailblazer | $24,987 | $21,988 | -$2,999 |
+| 3VVSC7B27SM077151 | 2025 Volkswagen Taos | $25,487 | $22,488 | -$2,999 |
+| 4S4BTGND6R3205270 | 2024 Subaru Outback | $32,487 | $29,488 | -$2,999 |
+| SAL1P9EU4SA431494 | 2025 Land Rover Range Rover Sport | $73,915 | $71,415 | -$2,500 |
+| 4JGFF5KE2PA882562 | 2023 Mercedes-Benz GLS | $63,638 | $61,192 | -$2,446 |
+| 1C4RJKBG9P8840154 | 2023 Jeep Grand Cherokee | $34,735 | $32,337 | -$2,398 |
+| 5FPYK3F70PB044313 | 2023 Honda Ridgeline | $35,988 | $33,593 | -$2,395 |
+| SALEWEEE2S2368525 | 2025 Land Rover Defender 110 | $94,915 | $92,550 | -$2,365 |
+| 3FMCR9B60NRD11438 | 2022 Ford Bronco Sport | $23,294 | $20,978 | -$2,316 |

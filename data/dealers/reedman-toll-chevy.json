@@ -16,37 +16,9 @@
       "financingUrl": null
     }
   },
-  "vehicleCount": 288,
+  "vehicleCount": 282,
+  "scrapedAt": "2026-09-25T09:36:37.209Z",
   "vehicles": [
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2026-Chevrolet-Equinox-a5e2d4ceac180edf8db7c817087ad3b1.htm",
-      "vin": "3GNAXTEG3TL199633",
-      "stockNumber": "260749A-E",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 11404,
-      "exteriorColor": "Polar White Tricoat",
-      "interiorColor": "Black with Red Accents",
-      "engine": "1.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
-      "transmission": "Automatic",
-      "drivetrain": "Other",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 30988,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/s/subaruextonsoa/0109/3756a687993d21b9ec5fa9fc362ef498x.jpg"
-      ],
-      "description": "Is this 2026 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Polar White Tricoat AWD RS Sport Utility available for $30988",
-      "scrapedAt": "2026-09-24T09:10:33.081Z"
-    },
     {
       "dealerId": "reedman-toll-chevy",
       "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2024-Chevrolet-Corvette-Stingray-8604e503ac184d75e32c2e10bff1d19b.htm",
@@ -74,7 +46,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0299/758e4dbd7f41e013120c5e3e9a5b8c9bx.jpg"
       ],
       "description": "Is this 2024 Chevrolet Corvette Stingray your perfect car? Contact Reedman Toll Chevrolet to see this Sea Wolf Gray Tricoat - GXA RWD Coupe 2LT Car available for $69989",
-      "scrapedAt": "2026-09-24T09:10:31.617Z"
+      "scrapedAt": "2026-09-25T09:30:22.388Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -103,7 +75,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/0945/5561099bc90d539b6280eae5dfa0ac81x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Colorado your perfect car? Contact Reedman Toll Chevrolet to see this Sterling Gray Metallic - GXD 4WD Crew Cab Short Box Z71 Crew Cab Pickup available for $30478",
-      "scrapedAt": "2026-09-24T09:10:32.898Z"
+      "scrapedAt": "2026-09-25T09:30:23.007Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -132,7 +104,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0813/b3af8bd4559fbf529dcc5393f84b66b0x.jpg"
       ],
       "description": "Is this 2016 Chevrolet Colorado your perfect car? Contact Reedman Toll Chevrolet to see this Red Rock Metallic - G7P 4WD Z71 Extended Cab Pickup available for $19489",
-      "scrapedAt": "2026-09-24T09:10:32.322Z"
+      "scrapedAt": "2026-09-25T09:30:21.191Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -161,7 +133,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1628/dd62457550a7d1bc25c05f682b2bda59x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Corvette Stingray your perfect car? Contact Reedman Toll Chevrolet to see this Ceramic Matrix Gray Metallic - G9F RWD Coupe 1LT Car available for $64989",
-      "scrapedAt": "2026-09-24T09:10:31.803Z"
+      "scrapedAt": "2026-09-25T09:30:21.551Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -190,7 +162,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0076/b9195169b3e8f9cd96bf6600c5665306x.jpg"
       ],
       "description": "Is this 2017 Chevrolet Cruze your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic - GB8 LS Auto Car available for $13989",
-      "scrapedAt": "2026-09-24T09:10:39.419Z"
+      "scrapedAt": "2026-09-25T09:30:22.363Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -219,7 +191,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0253/1d8d13400b843e7628f46e424573d344x.jpg"
       ],
       "description": "Is this 2014 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Silver Topaz Metallic - GWS 1LT Sport Utility available for $14489",
-      "scrapedAt": "2026-09-24T09:10:41.303Z"
+      "scrapedAt": "2026-09-25T09:30:28.509Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -248,36 +220,65 @@
         "https://pictures.dealer.com/r/robertshonda/0666/b6c713720fb98de312f032d78d0f7353x.jpg"
       ],
       "description": "Is this 2026 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Lakeshore Blue Metallic AWD LT Sport Utility available for $30485",
-      "scrapedAt": "2026-09-24T09:10:40.528Z"
+      "scrapedAt": "2026-09-25T09:30:30.565Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2023-Chevrolet-Equinox-aa32f9aeac18065879bcb5ebcaf6a318.htm",
-      "vin": "3GNAXWEGXPS154640",
-      "stockNumber": "2602113A-A",
-      "year": 2023,
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2024-Chevrolet-Equinox-a2e104f6ac18004e1d0db14e64d57c28.htm",
+      "vin": "3GNAXUEG1RL103075",
+      "stockNumber": "P16618-A",
+      "year": 2024,
       "make": "Chevrolet",
       "model": "Equinox",
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 27835,
-      "exteriorColor": "Blue Glow Metallic - GHT",
-      "interiorColor": "Jet Black - HDI",
-      "engine": "1.5L I-4 gasoline direct injection, DOHC, variable valve control, intercooled turbo, regular unleade",
+      "mileage": 29854,
+      "exteriorColor": "Radiant Red Tintcoat - GNT",
+      "interiorColor": "Jet Black - HPW",
+      "engine": "1.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
       "transmission": "6-Speed A/T",
       "drivetrain": "AWD",
       "fuelType": "Regular unleaded",
       "fuelEconomyMpg": null,
-      "salePrice": 24489,
+      "salePrice": 24989,
       "marketValuePrice": null,
       "availability": "https://schema.org/InStock",
       "photoCount": 1,
       "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/0784/10430676732a7620ad60482a06cc901dx.jpg"
+        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1031/75ca70eb408fdff6e4576e3e0b32eed0x.jpg"
       ],
-      "description": "Is this 2023 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Blue Glow Metallic - GHT AWD RS Sport Utility available for $24489",
-      "scrapedAt": "2026-09-24T09:10:41.715Z"
+      "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Radiant Red Tintcoat - GNT AWD LT Sport Utility available for $24989",
+      "scrapedAt": "2026-09-25T09:30:30.135Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2026-Chevrolet-Equinox-a5e2d4ceac180edf8db7c817087ad3b1.htm",
+      "vin": "3GNAXTEG3TL199633",
+      "stockNumber": "260749A-E",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 11404,
+      "exteriorColor": "Polar White Tricoat",
+      "interiorColor": "Black with Red Accents",
+      "engine": "1.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
+      "transmission": "Automatic",
+      "drivetrain": "Other",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 30988,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/s/subaruextonsoa/0109/3756a687993d21b9ec5fa9fc362ef498x.jpg"
+      ],
+      "description": "Is this 2026 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Polar White Tricoat AWD RS Sport Utility available for $30988",
+      "scrapedAt": "2026-09-25T09:30:29.726Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -306,7 +307,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1523/e5f33d40dbbd95b5db77e2b684a939a2x.jpg"
       ],
       "description": "Is this 2022 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ AWD RS Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:10:42.095Z"
+      "scrapedAt": "2026-09-25T09:30:30.848Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -335,7 +336,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1208/c7965a062155268ca99d004e18a69294x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Sterling Gray Metallic - GXD FWD LS Sport Utility available for $21489",
-      "scrapedAt": "2026-09-24T09:10:41.735Z"
+      "scrapedAt": "2026-09-25T09:30:31.752Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -364,7 +365,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1932/4caf62c789e744774d1795f1f42e31e6x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ FWD LT Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:10:47.675Z"
+      "scrapedAt": "2026-09-25T09:30:35.865Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -393,7 +394,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1048/9f767395c340cb33cd714e736b67bef7x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Riptide Blue Metallic - GJV FWD LT Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:10:49.027Z"
+      "scrapedAt": "2026-09-25T09:30:37.703Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -422,7 +423,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1146/9692953cd8a7039682128533ff05e1dex.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Riptide Blue Metallic - GJV FWD LT Sport Utility available for $22489",
-      "scrapedAt": "2026-09-24T09:10:48.223Z"
+      "scrapedAt": "2026-09-25T09:30:39.753Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -451,7 +452,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0954/1746653392e9a46a2e0efca517c0803bx.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ FWD LT Sport Utility available for $22489",
-      "scrapedAt": "2026-09-24T09:10:49.998Z"
+      "scrapedAt": "2026-09-25T09:30:38.979Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -480,7 +481,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/1466/fbbf28de1dcff9df488e4ee0ea7cd81cx.jpg"
       ],
       "description": "Is this 2019 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Cajun Red Tintcoat - GPJ LT Sport Utility available for $9489",
-      "scrapedAt": "2026-09-24T09:10:49.534Z"
+      "scrapedAt": "2026-09-25T09:30:38.443Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -509,7 +510,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1706/bfbd9ca8fca380c94ff810fb3db1803cx.jpg"
       ],
       "description": "Is this 2025 Chevrolet Express Cargo your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ RWD 2500 Regular Wheelbase WT Full-size Cargo Van available for $34989",
-      "scrapedAt": "2026-09-24T09:10:52.722Z"
+      "scrapedAt": "2026-09-25T09:30:38.896Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -538,7 +539,7 @@
         "https://pictures.dealer.com/r/robertshonda/1920/b21f0e424b55a96ca61fa0f13694584bx.jpg"
       ],
       "description": "Is this 2018 Chevrolet Impala your perfect car? Contact Reedman Toll Chevrolet to see this Blue Velvet Metallic - G1M 1LT Car available for $16989",
-      "scrapedAt": "2026-09-24T09:10:56.513Z"
+      "scrapedAt": "2026-09-25T09:30:44.543Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -567,7 +568,36 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/1210/9ffa7fe952174235597401f4f5dae8bex.jpg"
       ],
       "description": "Is this 2025 Chevrolet Malibu your perfect car? Contact Reedman Toll Chevrolet to see this Sterling Gray Metallic - GXD FWD 1LT Car available for $23183",
-      "scrapedAt": "2026-09-24T09:10:56.992Z"
+      "scrapedAt": "2026-09-25T09:30:47.566Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2026-Chevrolet-Silverado-1500-b6dcbe2bac181734323613c6b80b4816.htm",
+      "vin": "1GCUKEED8TZ147672",
+      "stockNumber": "B16569-A",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 30326,
+      "exteriorColor": "Black - GBA",
+      "interiorColor": "Jet Black - H0U",
+      "engine": "EcoTec3 5.3L V-8 gasoline direct injection, variable valve control, regular unleaded, engine with cy",
+      "transmission": "10-Speed A/T",
+      "drivetrain": "4WD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 45989,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1327/b862c32533a5641054a3771aa6d78013x.jpg"
+      ],
+      "description": "Is this 2026 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Black - GBA 2WD Crew Cab Short Bed RST available for $45989",
+      "scrapedAt": "2026-09-25T09:30:47.137Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -596,7 +626,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1525/165536c0a31db06e0e5a21050d0c9145x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Slate Gray Metallic - GNO 4WD Crew Cab Short Bed LT With 2FL Crew Cab Pickup available for $35989",
-      "scrapedAt": "2026-09-24T09:10:57.238Z"
+      "scrapedAt": "2026-09-25T09:30:45.973Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -625,7 +655,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0117/09acb92ab4343496f2b500647f8887b4x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Sterling Gray Metallic - GXD 4WD Crew Cab Short Bed LTZ Crew Cab Pickup available for $46489",
-      "scrapedAt": "2026-09-24T09:10:59.302Z"
+      "scrapedAt": "2026-09-25T09:30:47.950Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -654,36 +684,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0188/0d7838d8eae50ad34f0f7f211094480dx.jpg"
       ],
       "description": "Is this 2022 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Black - GBA 4WD Crew Cab Short Bed RST Crew Cab Pickup available for $42489",
-      "scrapedAt": "2026-09-24T09:10:58.275Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2026-Chevrolet-Silverado-1500-b6dcbe2bac181734323613c6b80b4816.htm",
-      "vin": "1GCUKEED8TZ147672",
-      "stockNumber": "B16569-A",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 30326,
-      "exteriorColor": "Black - GBA",
-      "interiorColor": "Jet Black - H0U",
-      "engine": "EcoTec3 5.3L V-8 gasoline direct injection, variable valve control, regular unleaded, engine with cy",
-      "transmission": "10-Speed A/T",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 45989,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1327/b862c32533a5641054a3771aa6d78013x.jpg"
-      ],
-      "description": "Is this 2026 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Black - GBA RST available for $45989",
-      "scrapedAt": "2026-09-24T09:11:00.937Z"
+      "scrapedAt": "2026-09-25T09:30:47.816Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -712,7 +713,36 @@
         "https://pictures.dealer.com/r/robertshonda/0396/3d2c46fb04768736b53cde0149c5ec7dx.jpg"
       ],
       "description": "Is this 2022 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Dark Ash Metallic - G6M 4WD RST Sport Utility available for $42489",
-      "scrapedAt": "2026-09-24T09:11:05.625Z"
+      "scrapedAt": "2026-09-25T09:30:52.703Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2021-Chevrolet-Tahoe-782d602bac1859f7ab7450ad1430af58.htm",
+      "vin": "1GNSKPKD3MR328470",
+      "stockNumber": "2601633B-A",
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 56842,
+      "exteriorColor": "Iridescent Pearl Tricoat - G1W",
+      "interiorColor": "Jet Black - H0Y",
+      "engine": "EcoTec3 5.3L V-8 direct injection, variable valve control, regular gasoline, engine with cylinder de",
+      "transmission": "10-Speed A/T",
+      "drivetrain": "4WD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 46489,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/r/reedmantollautoworldcllc/0904/829808dbcf3311456c60f7900ff69406x.jpg"
+      ],
+      "description": "Is this 2021 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Iridescent Pearl Tricoat - G1W 4WD Z71 Sport Utility available for $46489",
+      "scrapedAt": "2026-09-25T09:30:53.465Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -741,7 +771,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0581/7c57ee1157b2ae8988b5ed4b97a7c4e9x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Black - GBA High Country Sport Utility available for $65489",
-      "scrapedAt": "2026-09-24T09:11:06.494Z"
+      "scrapedAt": "2026-09-25T09:30:55.639Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -770,36 +800,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0713/801bf6b909800f9219043da5be6061e1x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Black Premier SUV available for $62979",
-      "scrapedAt": "2026-09-24T09:11:06.349Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2024-Chevrolet-Trailblazer-a2e0b3bcac185bc6fc1af9b5a38e0302.htm",
-      "vin": "KL79MPSL0RB116048",
-      "stockNumber": "260712A-E",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 29210,
-      "exteriorColor": "Summit White",
-      "interiorColor": "Jet Black",
-      "engine": "ECOTEC 1.3L I-3 direct injection, DOHC, VVT variable valve control, intercooled turbo, regular gasol",
-      "transmission": "CVT Transmission",
-      "drivetrain": "Other",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 21988,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/color/2024/USD40CHS081B0/GAZ.jpg"
-      ],
-      "description": "Is this 2024 Chevrolet Trailblazer your perfect car? Contact Reedman Toll Chevrolet to see this Summit White FWD LT Sport Utility available for $21988",
-      "scrapedAt": "2026-09-24T09:11:06.411Z"
+      "scrapedAt": "2026-09-25T09:30:55.731Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -828,7 +829,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0174/6dbe52ed259fd8bb3e0cbeaaff5294b9x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic - GB8 AWD RS Sport Utility available for $33489",
-      "scrapedAt": "2026-09-24T09:11:08.600Z"
+      "scrapedAt": "2026-09-25T09:30:55.643Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -857,7 +858,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1478/113ce3107ff73fa0d9ce4ff9dfac2906x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic - GB8 AWD RS Sport Utility available for $31489",
-      "scrapedAt": "2026-09-24T09:11:10.839Z"
+      "scrapedAt": "2026-09-25T09:30:56.993Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -886,7 +887,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/0689/ba9102631a40b2679969fb59615da4eax.jpg"
       ],
       "description": "Is this 2023 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Radiant Red Tintcoat - GNT AWD RS Sport Utility available for $36979",
-      "scrapedAt": "2026-09-24T09:11:14.601Z"
+      "scrapedAt": "2026-09-25T09:31:00.210Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -915,7 +916,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1737/22bcc956ad560c98624e58123b0ce044x.jpg"
       ],
       "description": "Is this 2021 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic AWD RS Sport Utility available for $24488",
-      "scrapedAt": "2026-09-24T09:11:15.099Z"
+      "scrapedAt": "2026-09-25T09:31:00.229Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -944,7 +945,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/1381/6462dcdbb2c252d58849c710f428225cx.jpg"
       ],
       "description": "Is this 2021 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Black Cherry Metallic LT Cloth SUV available for $24969",
-      "scrapedAt": "2026-09-24T09:11:14.637Z"
+      "scrapedAt": "2026-09-25T09:31:03.877Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -973,7 +974,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0520/06b6158b0589a16150f5440ea03d41e3x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Traverse Limited your perfect car? Contact Reedman Toll Chevrolet to see this Iridescent Pearl Tricoat - G1W FWD High Country available for $43989",
-      "scrapedAt": "2026-09-24T09:11:14.578Z"
+      "scrapedAt": "2026-09-25T09:31:03.784Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1002,7 +1003,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1986/133bb8c3eef934cf4ad0adbe19f0f842x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Trax your perfect car? Contact Reedman Toll Chevrolet to see this Fountain Blue - GLN FWD 1RS Sport Utility available for $21489",
-      "scrapedAt": "2026-09-24T09:11:18.410Z"
+      "scrapedAt": "2026-09-25T09:31:03.503Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1031,7 +1032,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1775/42cf47ed606b09ca24af98903a3e0bb2x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Trax your perfect car? Contact Reedman Toll Chevrolet to see this Fountain Blue FWD 2RS Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:11:19.394Z"
+      "scrapedAt": "2026-09-25T09:31:04.941Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1060,7 +1061,36 @@
         "https://images.dealer.com/ddc/vehicles/2026/Chevrolet/Equinox/SUV/trim_LT_920ce2/color/Mosaic%20Black%20Metallic-GB8-5%2C5%2C7-640-en_US.jpg"
       ],
       "description": "Is this 2026 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic FWD LT Sport Utility available for $32390",
-      "scrapedAt": "2026-09-24T09:11:22.247Z"
+      "scrapedAt": "2026-09-25T09:31:06.862Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2024-Chevrolet-Trailblazer-a2e0b3bcac185bc6fc1af9b5a38e0302.htm",
+      "vin": "KL79MPSL0RB116048",
+      "stockNumber": "260712A-E",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 29210,
+      "exteriorColor": "Summit White",
+      "interiorColor": "Jet Black",
+      "engine": "ECOTEC 1.3L I-3 direct injection, DOHC, VVT variable valve control, intercooled turbo, regular gasol",
+      "transmission": "CVT Transmission",
+      "drivetrain": "Other",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 21988,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/autodata/us/color/2024/USD40CHS081B0/GAZ.jpg"
+      ],
+      "description": "Is this 2024 Chevrolet Trailblazer your perfect car? Contact Reedman Toll Chevrolet to see this Summit White FWD LT Sport Utility available for $21988",
+      "scrapedAt": "2026-09-25T09:31:07.965Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1089,7 +1119,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0289/f291859b9aa526f8b62e4a7c8478b232x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic - GB8 FWD LT Sport Utility available for $25900",
-      "scrapedAt": "2026-09-24T09:11:23.868Z"
+      "scrapedAt": "2026-09-25T09:31:12.351Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1118,7 +1148,7 @@
         "https://images.dealer.com/ddc/vehicles/2024/Chevrolet/Equinox/SUV/trim_RS_31592a/color/Lakeshore%20Blue%20Metallic-GXP-41%2C56%2C75-640-en_US.jpg"
       ],
       "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Lakeshore Blue Metallic FWD RS Sport Utility available for $28390",
-      "scrapedAt": "2026-09-24T09:11:23.195Z"
+      "scrapedAt": "2026-09-25T09:31:10.733Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1147,7 +1177,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0840/6396f1d66f2061864d87e522b9479c28x.jpg"
       ],
       "description": "Is this 2021 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Black LT Trail Boss Truck Crew Cab available for $42479",
-      "scrapedAt": "2026-09-24T09:11:24.699Z"
+      "scrapedAt": "2026-09-25T09:31:11.902Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1176,7 +1206,7 @@
         "https://images.dealer.com/ddc/vehicles/2023/Chevrolet/Traverse/SUV/trim_LT_Cloth_eb2243/color/Mosaic%20Black%20Metallic-GB8-5%2C5%2C7-640-en_US.jpg"
       ],
       "description": "Is this 2023 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic AWD LT Cloth Sport Utility available for $29390",
-      "scrapedAt": "2026-09-24T09:11:26.684Z"
+      "scrapedAt": "2026-09-25T09:31:11.357Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1204,8 +1234,8 @@
       "photos": [
         "https://images.dealer.com/ddc/vehicles/2026/Chevrolet/Colorado/Truck/trim_Z71_1b9790/color/Radiant%20Red%20Tintcoat-GNT-151%2C8%2C12-640-en_US.jpg"
       ],
-      "description": "Is this 2026 Chevrolet Colorado your perfect car? Contact Reedman Toll Chevrolet to see this Radiant Red Tintcoat Z71, 4WD Crew Cab Pickup available for $46390",
-      "scrapedAt": "2026-09-24T09:11:28.574Z"
+      "description": "Is this 2026 Chevrolet Colorado your perfect car? Contact Reedman Toll Chevrolet to see this Radiant Red Tintcoat 4WD Z71 Crew Cab Pickup available for $46390",
+      "scrapedAt": "2026-09-25T09:31:14.713Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1234,36 +1264,7 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30CHT354E0/GTL.jpg"
       ],
       "description": "Is this 2023 Chevrolet Colorado your perfect car? Contact Reedman Toll Chevrolet to see this Sand Dune Metallic 4WD Crew Cab Short Box ZR2 Crew Cab Pickup available for $46390",
-      "scrapedAt": "2026-09-24T09:11:30.681Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2024-Chevrolet-Equinox-a2e104f6ac18004e1d0db14e64d57c28.htm",
-      "vin": "3GNAXUEG1RL103075",
-      "stockNumber": "P16618-A",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 29854,
-      "exteriorColor": "Radiant Red Tintcoat",
-      "interiorColor": "Jet Black",
-      "engine": "1.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
-      "transmission": "6-Speed A/T",
-      "drivetrain": "AWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 26390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/large_stockphoto/2024/USD40CHS152D0.jpg"
-      ],
-      "description": "Is this 2024 Chevrolet Equinox your perfect car? Contact Reedman Toll Chevrolet to see this Radiant Red Tintcoat AWD LT Sport Utility available for $26390",
-      "scrapedAt": "2026-09-24T09:11:31.657Z"
+      "scrapedAt": "2026-09-25T09:31:15.824Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1292,7 +1293,7 @@
         "https://images.dealer.com/autodata/us/color/2022/USD20CHT27AB0/GAZ.jpg"
       ],
       "description": "Is this 2022 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Summit White 4WD Crew Cab Short Bed Custom Crew Cab Pickup available for $36390",
-      "scrapedAt": "2026-09-24T09:11:32.624Z"
+      "scrapedAt": "2026-09-25T09:31:18.797Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1321,36 +1322,7 @@
         "https://images.dealer.com/autodata/us/color/2022/USD20CHT27AE0/GBA.jpg"
       ],
       "description": "Is this 2022 Chevrolet Silverado 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Black 4WD Crew Cab Short Bed LT With 2FL Crew Cab Pickup available for $38390",
-      "scrapedAt": "2026-09-24T09:11:33.407Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2021-Chevrolet-Tahoe-782d602bac1859f7ab7450ad1430af58.htm",
-      "vin": "1GNSKPKD3MR328470",
-      "stockNumber": "2601633B-A",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Tahoe",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 56840,
-      "exteriorColor": "Iridescent Pearl Tricoat",
-      "interiorColor": "Jet Black",
-      "engine": "EcoTec3 5.3L V-8 direct injection, variable valve control, regular gasoline, engine with cylinder de",
-      "transmission": "10-Speed A/T",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 48390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/color/2021/USD10CHS112D0/G1W.jpg"
-      ],
-      "description": "Is this 2021 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Iridescent Pearl Tricoat 4WD Z71 Sport Utility available for $48390",
-      "scrapedAt": "2026-09-24T09:11:34.855Z"
+      "scrapedAt": "2026-09-25T09:31:20.393Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1379,7 +1351,7 @@
         "https://images.dealer.com/autodata/us/color/2022/USD20CHS082D0/GB0.jpg"
       ],
       "description": "Is this 2022 Chevrolet Trailblazer your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic AWD RS Sport Utility available for $26390",
-      "scrapedAt": "2026-09-24T09:11:36.500Z"
+      "scrapedAt": "2026-09-25T09:31:21.228Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1408,7 +1380,7 @@
         "https://images.dealer.com/ddc/vehicles/2025/Chevrolet/Traverse/SUV/trim_RS_aa0f77/color/Mosaic%20Black%20Metallic-GB8-5%2C5%2C7-640-en_US.jpg"
       ],
       "description": "Is this 2025 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Mosaic Black Metallic FWD RS Sport Utility available for $50390",
-      "scrapedAt": "2026-09-24T09:11:40.357Z"
+      "scrapedAt": "2026-09-25T09:31:20.289Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1437,7 +1409,36 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/1615/e7a0e4c8924b238dae49e2c66f0a93c1x.jpg"
       ],
       "description": "Is this 2023 Chevrolet Malibu your perfect car? Contact Reedman Toll Chevrolet to see this Riverside Blue Metallic LS Sedan",
-      "scrapedAt": "2026-09-24T09:11:40.086Z"
+      "scrapedAt": "2026-09-25T09:31:21.761Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2026-Chevrolet-Traverse-d660669aac181a98f5666e5320d79e5b.htm",
+      "vin": "1GNERGKS8TJ264284",
+      "stockNumber": "2602113B-A",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 5012,
+      "exteriorColor": "Lakeshore Blue Metallic",
+      "interiorColor": "LT Jet Black",
+      "engine": "2.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Regular gasoline",
+      "fuelEconomyMpg": null,
+      "salePrice": null,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/ddc/vehicles/2026/Chevrolet/Traverse/SUV/trim_LT_3d2fa7/color/Lakeshore%20Blue%20Metallic-GXP-119%2C141%2C172-640-en_US.jpg"
+      ],
+      "description": "Is this 2026 Chevrolet Traverse your perfect car? Contact Reedman Toll Chevrolet to see this Lakeshore Blue Metallic FWD LT",
+      "scrapedAt": "2026-09-25T09:31:23.827Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1466,7 +1467,7 @@
         "https://images.dealer.com/ddc/vehicles/2025/Chevrolet/Trax/SUV/trim_ACTIV_a6bbf0/color/Marina%20Blue%20Metallic-GKN-0%2C83%2C153-640-en_US.jpg"
       ],
       "description": "Is this 2025 Chevrolet Trax your perfect car? Contact Reedman Toll Chevrolet to see this Marina Blue Metallic FWD Activ Sport Utility available for $27390",
-      "scrapedAt": "2026-09-24T09:11:42.639Z"
+      "scrapedAt": "2026-09-25T09:31:27.665Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1495,7 +1496,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0500/e9d50db3ac5827263544dfa36d8d4112x.jpg"
       ],
       "description": "Is this 2024 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Summit White LS SUV available for $50479",
-      "scrapedAt": "2026-09-24T09:11:41.131Z"
+      "scrapedAt": "2026-09-25T09:31:28.539Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1524,7 +1525,36 @@
         "https://images.dealer.com/autodata/us/large_stockphoto/2024/USD40CHS321D0.jpg"
       ],
       "description": "Is this 2024 Chevrolet Trax your perfect car? Contact Reedman Toll Chevrolet to see this Cacti Green 2RS SUV available for $22479",
-      "scrapedAt": "2026-09-24T09:11:43.148Z"
+      "scrapedAt": "2026-09-25T09:31:29.091Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Chevrolet/2017-Chevrolet-Cruze-d344abbeac18230d1f9b854f53574fb7.htm",
+      "vin": "1G1BE5SM3H7158819",
+      "stockNumber": "2600262A-S",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "trim": "Odometer",
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 54525,
+      "exteriorColor": "Summit White",
+      "interiorColor": "JET BLACK, CLOTH SEAT TRIM",
+      "engine": "Engine, 1.4L, 4 Cylinder Turbo",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline Fuel",
+      "fuelEconomyMpg": "30/40 MPG City/HwyDetails",
+      "salePrice": 10979,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/autodata/us/large_stockphoto-color/2017/USC70CHC301E0/GAZ.jpg"
+      ],
+      "description": "Is this 2017 Chevrolet Cruze your perfect car? Contact Reedman Toll Chevrolet to see this Summit White LT Sedan available for $10979",
+      "scrapedAt": "2026-09-25T09:31:29.148Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1553,7 +1583,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0842/a489000bc17868139c7781c87f23d4a7x.jpg"
       ],
       "description": "Is this 2021 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Black LT SUV available for $40479",
-      "scrapedAt": "2026-09-24T09:11:44.445Z"
+      "scrapedAt": "2026-09-25T09:31:28.803Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1582,36 +1612,36 @@
         "https://images.dealer.com/autodata/us/color/2021/USD10CHS112B0/G9K.jpg"
       ],
       "description": "Is this 2021 Chevrolet Tahoe your perfect car? Contact Reedman Toll Chevrolet to see this Satin Steel Metallic LT SUV available for $40479",
-      "scrapedAt": "2026-09-24T09:11:47.957Z"
+      "scrapedAt": "2026-09-25T09:31:31.543Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Jeep/2023-Jeep-Grand-Cherokee-L-a5e30d82ac1817c99dfd0f5ce3b32fcd.htm",
-      "vin": "1C4RJKBG8P8796504",
-      "stockNumber": "260995B-R",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Jeep/2023-Jeep-Grand-Cherokee-bfa24bc7ac183203d1d9fe25f1d84009.htm",
+      "vin": "1C4RJHAG4PC513548",
+      "stockNumber": "260244A-C",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee L",
+      "model": "Grand Cherokee",
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 13165,
-      "exteriorColor": "Bright White Clearcoat",
-      "interiorColor": "Global Black",
+      "mileage": 20392,
+      "exteriorColor": "Bright White Clearcoat - PW7",
+      "interiorColor": "Global Black - X7",
       "engine": "Pentastar 3.6L V-6 DOHC, variable valve control, regular gasoline, engine with 293HP",
       "transmission": "Automatic",
       "drivetrain": "4WD",
       "fuelType": "Regular unleaded",
       "fuelEconomyMpg": null,
-      "salePrice": 35459,
+      "salePrice": 31278,
       "marketValuePrice": null,
       "availability": "https://schema.org/InStock",
       "photoCount": 1,
       "photos": [
-        "https://pictures.dealer.com/r/robertshonda/0631/34026ce9ebcdcb7ce6efe12e5f453c6fx.jpg"
+        "https://pictures.dealer.com/a/abingtoncdjramcllc/1090/b44dfba55c502e9da0a63048979e63b4x.jpg"
       ],
-      "description": "Is this 2023 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat Limited 4x4 Sport Utility available for $35459",
-      "scrapedAt": "2026-09-24T09:11:48.377Z"
+      "description": "Is this 2023 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat - PW7 Altitude 4x4 Sport Utility available for $31278",
+      "scrapedAt": "2026-09-25T09:31:36.023Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1640,7 +1670,65 @@
         "https://pictures.dealer.com/r/robertshonda/0269/cd18a9140a65c661d9861d7e3253a72cx.jpg"
       ],
       "description": "Is this 2025 Acura Integra your perfect car? Contact Reedman Toll Chevrolet to see this Platinum White Pearl Car available for $27985",
-      "scrapedAt": "2026-09-24T09:11:50.001Z"
+      "scrapedAt": "2026-09-25T09:31:37.838Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Buick/2025-Buick-Enclave-bca03294ac1820874a57f05d39f97234.htm",
+      "vin": "5GAEVBRS9SJ111880",
+      "stockNumber": "2600428A-D",
+      "year": 2025,
+      "make": "Buick",
+      "model": "Enclave",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 8992,
+      "exteriorColor": "Moonstone Gray Metallic",
+      "interiorColor": "Ebony seats with Sky Cool Gray and Ebony interior",
+      "engine": "2.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 44979,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/ddc/vehicles/2025/Buick/Enclave/SUV/trim_Sport_Touring_fc09f2/color/Moonstone%20Gray%20Metallic-GXD-150%2C150%2C155-640-en_US.jpg"
+      ],
+      "description": "Is this 2025 Buick Enclave your perfect car? Contact Reedman Toll Chevrolet to see this Moonstone Gray Metallic Sport Touring FWD Sport Utility available for $44979",
+      "scrapedAt": "2026-09-25T09:31:36.381Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Ford/2024-Ford-F-150-8e478973ac181ba235d0c042ac44b9b6.htm",
+      "vin": "1FTEX3LP8RKF62600",
+      "stockNumber": "2600655A-A",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 8083,
+      "exteriorColor": "Oxford White - YZ",
+      "interiorColor": "Black w/Medium Dark Slate - US",
+      "engine": "EcoBoost 2.7L V-6 port/direct injection, DOHC, Ti-VCT variable valve control, twin turbo, regular ga",
+      "transmission": "10-Speed A/T",
+      "drivetrain": "4WD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 44989,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1715/4ba9cfdf526c604d080014c9289102bcx.jpg"
+      ],
+      "description": "Is this 2024 Ford F-150 your perfect car? Contact Reedman Toll Chevrolet to see this Oxford White - YZ XLT Extended Cab Pickup available for $44989",
+      "scrapedAt": "2026-09-25T09:31:37.734Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1669,7 +1757,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1845/37103bba7d07b35faa299d4de8eda803x.jpg"
       ],
       "description": "Is this 2025 Honda Civic Hybrid your perfect car? Contact Reedman Toll Chevrolet to see this Solar Silver Metallic - SA Sport Car available for $29489",
-      "scrapedAt": "2026-09-24T09:11:49.933Z"
+      "scrapedAt": "2026-09-25T09:31:38.223Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1698,7 +1786,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0103/71e628fecb79f4cc250a7cdb3daa958ax.jpg"
       ],
       "description": "Is this 2026 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Forged Blue Metallic - PCG Laramie Crew Cab 4x4 57 Box Crew Cab Pickup available for $54989",
-      "scrapedAt": "2026-09-24T09:11:50.422Z"
+      "scrapedAt": "2026-09-25T09:31:39.460Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1727,7 +1815,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1181/423444ba9ad02da6c90ad1fded774771x.jpg"
       ],
       "description": "Is this 2025 Ram Promaster 2500 your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat - PW7 Cargo Van Tradesman High Roof 159 WB w/Pass Seat Full-size Cargo Van available for $44989",
-      "scrapedAt": "2026-09-24T09:11:53.060Z"
+      "scrapedAt": "2026-09-25T09:31:43.483Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1756,7 +1844,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1642/23d469e50281890458673c78c93e0a2fx.jpg"
       ],
       "description": "Is this 2026 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - WH7 Wilderness Sport Utility available for $34489",
-      "scrapedAt": "2026-09-24T09:11:56.994Z"
+      "scrapedAt": "2026-09-25T09:31:45.242Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1785,7 +1873,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0137/9efd2ec6e9281e165ce7ebcc402274f1x.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - WH5 Premium Sport Utility available for $32989",
-      "scrapedAt": "2026-09-24T09:11:57.111Z"
+      "scrapedAt": "2026-09-25T09:31:45.038Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1814,7 +1902,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0092/bcfbc0771466885b527952b0f4901703x.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - WH5 Premium Sport Utility available for $32989",
-      "scrapedAt": "2026-09-24T09:11:58.627Z"
+      "scrapedAt": "2026-09-25T09:31:47.612Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1843,7 +1931,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0885/26dcc517f5778066cc945decc3f7d16ex.jpg"
       ],
       "description": "Is this 2025 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic - MGM Premium Sport Utility available for $29989",
-      "scrapedAt": "2026-09-24T09:11:59.635Z"
+      "scrapedAt": "2026-09-25T09:31:48.019Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1872,7 +1960,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0805/7766db606434f69dc2516f00effd4e4ax.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic - ISM Touring Sport Utility available for $36989",
-      "scrapedAt": "2026-09-24T09:11:59.635Z"
+      "scrapedAt": "2026-09-25T09:31:46.610Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1901,7 +1989,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0357/8bb74e79572929bb336479e46fefb663x.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Silica - C1P Wilderness Sport Utility available for $36989",
-      "scrapedAt": "2026-09-24T09:12:00.669Z"
+      "scrapedAt": "2026-09-25T09:31:50.775Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1930,7 +2018,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0340/d0a91787513732392cb872f7d619c473x.jpg"
       ],
       "description": "Is this 2025 Subaru Legacy your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - W5P Limited Car available for $31489",
-      "scrapedAt": "2026-09-24T09:12:05.168Z"
+      "scrapedAt": "2026-09-25T09:31:52.054Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1959,7 +2047,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/0526/7aca9710f7c7b813187ebb73e73e59dax.jpg"
       ],
       "description": "Is this 2026 Toyota Tundra your perfect car? Contact Reedman Toll Chevrolet to see this Blueprint - 8X8 SR5 Crewmax 5.5 Bed Crew Cab Pickup available for $47979",
-      "scrapedAt": "2026-09-24T09:12:05.293Z"
+      "scrapedAt": "2026-09-25T09:31:53.582Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -1988,7 +2076,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1586/31dfc4cc408aaecf4b5cb96337f58666x.jpg"
       ],
       "description": "Is this 2024 Volkswagen Golf GTI your perfect car? Contact Reedman Toll Chevrolet to see this Moonstone Gray - C2C2 2.0T SE Car available for $31989",
-      "scrapedAt": "2026-09-24T09:12:07.263Z"
+      "scrapedAt": "2026-09-25T09:31:55.012Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2017,7 +2105,7 @@
         "https://pictures.dealer.com/r/robertshonda/1570/8f0fe4ae628f99e16b31987e2efb1a4dx.jpg"
       ],
       "description": "Is this 2023 Acura MDX your perfect car? Contact Reedman Toll Chevrolet to see this Platinum White Pearl Technology Package Sport Utility available for $35977",
-      "scrapedAt": "2026-09-24T09:12:08.842Z"
+      "scrapedAt": "2026-09-25T09:31:56.542Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2046,7 +2134,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/1268/4fefeccd37e6bc561af7debd5fa51dd8x.jpg"
       ],
       "description": "Is this 2021 Acura RDX your perfect car? Contact Reedman Toll Chevrolet to see this Platinum White Pearl - WH Standard Sport Utility available for $24478",
-      "scrapedAt": "2026-09-24T09:12:08.839Z"
+      "scrapedAt": "2026-09-25T09:31:55.888Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2075,7 +2163,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0263/29bc636ad28724cba20d7b9f73250eb5x.jpg"
       ],
       "description": "Is this 2019 Alfa Romeo Stelvio your perfect car? Contact Reedman Toll Chevrolet to see this Alfa White - PAH Ti AWD Sport Utility available for $14488",
-      "scrapedAt": "2026-09-24T09:12:11.168Z"
+      "scrapedAt": "2026-09-25T09:31:58.099Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2104,36 +2192,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1853/4760fc34e58f8adb8a0bb27ae8fba4b4x.jpg"
       ],
       "description": "Is this 2024 Buick Encore GX your perfect car? Contact Reedman Toll Chevrolet to see this Ebony Twilight Metallic - GB0 Preferred FWD Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:12:14.585Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Chrysler/2021-Chrysler-Pacifica-28ccce65ac181df8b344ce5688bc336f.htm",
-      "vin": "2C4RC1BG6MR584429",
-      "stockNumber": "260174A-C",
-      "year": 2021,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 88772,
-      "exteriorColor": "Fathom Blue Pearlcoat - PPS",
-      "interiorColor": "Alloy/Black - XP",
-      "engine": "3.6L V-6 DOHC, VVT variable valve control, regular unleaded, engine with cylinder deactivation and 2",
-      "transmission": "Automatic",
-      "drivetrain": "FWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 18478,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/a/abingtoncdjramcllc/0709/90299a52755228ca84d4b62f583917cbx.jpg"
-      ],
-      "description": "Is this 2021 Chrysler Pacifica your perfect car? Contact Reedman Toll Chevrolet to see this Fathom Blue Pearlcoat - PPS Touring L Mini-van, Passenger available for $18478",
-      "scrapedAt": "2026-09-24T09:12:15.125Z"
+      "scrapedAt": "2026-09-25T09:32:00.695Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2162,7 +2221,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/1102/d8af93a0ac54222eea0fab9c1d0b2356x.jpg"
       ],
       "description": "Is this 2020 Chrysler Pacifica your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat - PAU Touring L Mini-van, Passenger available for $20439",
-      "scrapedAt": "2026-09-24T09:12:15.473Z"
+      "scrapedAt": "2026-09-25T09:32:02.775Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2191,7 +2250,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0353/9b77c10bbbd6e8aef24408bab862caf3x.jpg"
       ],
       "description": "Is this 2023 Dodge Challenger your perfect car? Contact Reedman Toll Chevrolet to see this Frostbite - PCA SRT Hellcat Widebody Jailbreak available for $74989",
-      "scrapedAt": "2026-09-24T09:12:16.302Z"
+      "scrapedAt": "2026-09-25T09:32:04.627Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2220,7 +2279,7 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30DOC202A0/PRV.jpg"
       ],
       "description": "Is this 2023 Dodge Charger your perfect car? Contact Reedman Toll Chevrolet to see this Octane Red Pearlcoat SXT AWD Car available for $32479",
-      "scrapedAt": "2026-09-24T09:12:16.823Z"
+      "scrapedAt": "2026-09-25T09:32:03.303Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2249,7 +2308,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1637/5c756a50e30f1c103a7bb34ea28d8835x.jpg"
       ],
       "description": "Is this 2019 Dodge Durango your perfect car? Contact Reedman Toll Chevrolet to see this Granite Clearcoat - PAU GT AWD Sport Utility available for $26489",
-      "scrapedAt": "2026-09-24T09:12:18.733Z"
+      "scrapedAt": "2026-09-25T09:32:03.274Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2278,7 +2337,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1196/8502e016f28d4afcd2dc91b132f1723ex.jpg"
       ],
       "description": "Is this 2018 Dodge Durango your perfect car? Contact Reedman Toll Chevrolet to see this Octane Red Pearlcoat - PRV R/T Sport Utility available for $26989",
-      "scrapedAt": "2026-09-24T09:12:23.367Z"
+      "scrapedAt": "2026-09-25T09:32:05.898Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2307,7 +2366,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0446/99918eb9707f6ca7e1f59f2a1041aa55x.jpg"
       ],
       "description": "Is this 2019 Dodge Durango your perfect car? Contact Reedman Toll Chevrolet to see this Billet Clearcoat - PSC R/T AWD Sport Utility available for $27489",
-      "scrapedAt": "2026-09-24T09:12:24.983Z"
+      "scrapedAt": "2026-09-25T09:32:07.921Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2336,7 +2395,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1027/3e8a77b5d1c365d79ffa6a4bc326d02ax.jpg"
       ],
       "description": "Is this 2024 Dodge Hornet your perfect car? Contact Reedman Toll Chevrolet to see this Gray Cray - PA5 R/T Plus Eawd Sport Utility available for $24489",
-      "scrapedAt": "2026-09-24T09:12:24.520Z"
+      "scrapedAt": "2026-09-25T09:32:11.388Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2365,7 +2424,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1815/2dd91cd3bb8f05757bd17d79b70519b7x.jpg"
       ],
       "description": "Is this 2024 Dodge Hornet your perfect car? Contact Reedman Toll Chevrolet to see this Acapulco Gold - PL5 R/T Plus Eawd Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:12:24.885Z"
+      "scrapedAt": "2026-09-25T09:32:12.544Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2394,7 +2453,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0550/ee3b4e42e65f4e35104bee520d6a7101x.jpg"
       ],
       "description": "Is this 2024 Ford Bronco Sport your perfect car? Contact Reedman Toll Chevrolet to see this Carbonized Gray Metallic - M7 Big Bend Sport Utility available for $25989",
-      "scrapedAt": "2026-09-24T09:12:26.059Z"
+      "scrapedAt": "2026-09-25T09:32:12.337Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2423,7 +2482,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1189/50b25e360abd6bfdd52567c6be8915fax.jpg"
       ],
       "description": "Is this 2013 Ford Edge your perfect car? Contact Reedman Toll Chevrolet to see this Tuxedo Black Metallic - UH Limited Sport Utility available for $11989",
-      "scrapedAt": "2026-09-24T09:12:27.763Z"
+      "scrapedAt": "2026-09-25T09:32:12.054Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2452,7 +2511,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1299/1c579d5f2209b79e8a9d8af3c1e4daf3x.jpg"
       ],
       "description": "Is this 2020 Ford Edge your perfect car? Contact Reedman Toll Chevrolet to see this Star White Metallic Tri-Coat - AZ SEL Sport Utility available for $21989",
-      "scrapedAt": "2026-09-24T09:12:31.935Z"
+      "scrapedAt": "2026-09-25T09:32:13.576Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2481,7 +2540,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1229/4b22b61194adec02aff372c5510162edx.jpg"
       ],
       "description": "Is this 2024 Ford Edge your perfect car? Contact Reedman Toll Chevrolet to see this Carbonized Gray Metallic - M7 ST Sport Utility available for $34989",
-      "scrapedAt": "2026-09-24T09:12:32.728Z"
+      "scrapedAt": "2026-09-25T09:32:14.777Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2510,7 +2569,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0802/02711f2c9cf5d0f0252a9ce564b42ae9x.jpg"
       ],
       "description": "Is this 2017 Ford Escape your perfect car? Contact Reedman Toll Chevrolet to see this White Gold Metallic - GN Titanium Sport Utility available for $15989",
-      "scrapedAt": "2026-09-24T09:12:33.430Z"
+      "scrapedAt": "2026-09-25T09:32:19.822Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2539,7 +2598,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/1929/8d79ea89ed1ec4675bffb4f6e7926318x.jpg"
       ],
       "description": "Is this 2022 Ford Explorer your perfect car? Contact Reedman Toll Chevrolet to see this Iconic Silver Metallic - JS XLT Sport Utility available for $28479",
-      "scrapedAt": "2026-09-24T09:12:33.509Z"
+      "scrapedAt": "2026-09-25T09:32:21.044Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2568,7 +2627,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/1650/801ff409110dffbb37f6f76469506ca9x.jpg"
       ],
       "description": "Is this 2021 Ford Explorer your perfect car? Contact Reedman Toll Chevrolet to see this Carbonized Gray Metallic - M7 XLT Sport Utility available for $19789",
-      "scrapedAt": "2026-09-24T09:12:35.286Z"
+      "scrapedAt": "2026-09-25T09:32:21.515Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2597,36 +2656,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0230/9addd4b6b34b07e36b3a9d3c6cc54cd4x.jpg"
       ],
       "description": "Is this 2025 Ford F-150 your perfect car? Contact Reedman Toll Chevrolet to see this Agate Black Metallic - UM STX Crew Cab Pickup available for $42989",
-      "scrapedAt": "2026-09-24T09:12:36.546Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Ford/2018-Ford-F-150-36bcebf5ac18090da9ed9f9d7456dc11.htm",
-      "vin": "1FTEX1CP1JKF85788",
-      "stockNumber": "2602140A-A",
-      "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 39273,
-      "exteriorColor": "Stone Gray - D1",
-      "interiorColor": "Dark Earth Gray - WG",
-      "engine": "EcoBoost 2.7L V-6 port/direct injection, DOHC, Ti-VCT variable valve control, twin turbo, regular ga",
-      "transmission": "10-Speed A/T",
-      "drivetrain": "RWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 21489,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1055/bd393cd88c70fdfa71d72756599b4a3cx.jpg"
-      ],
-      "description": "Is this 2018 Ford F-150 your perfect car? Contact Reedman Toll Chevrolet to see this Stone Gray - D1 XL Extended Cab Pickup available for $21489",
-      "scrapedAt": "2026-09-24T09:12:40.575Z"
+      "scrapedAt": "2026-09-25T09:32:21.652Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2655,7 +2685,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1582/3f9bcf54fa0d5d758bdaa4c30cc94599x.jpg"
       ],
       "description": "Is this 2022 Ford F-150 your perfect car? Contact Reedman Toll Chevrolet to see this Antimatter Blue Metallic - HX XLT Crew Cab Pickup available for $38489",
-      "scrapedAt": "2026-09-24T09:12:41.259Z"
+      "scrapedAt": "2026-09-25T09:32:21.770Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2684,7 +2714,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0833/989029bde4b466404fae0ff77577828dx.jpg"
       ],
       "description": "Is this 2023 GMC Acadia your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ FWD SLE Sport Utility available for $25489",
-      "scrapedAt": "2026-09-24T09:12:42.382Z"
+      "scrapedAt": "2026-09-25T09:32:23.532Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2713,7 +2743,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/1318/24125b5ee9cfdc0ba4173a610bdb91c5x.jpg"
       ],
       "description": "Is this 2023 GMC Canyon your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ 4WD Crew Cab Short Box AT4 Crew Cab Pickup available for $36978",
-      "scrapedAt": "2026-09-24T09:12:41.777Z"
+      "scrapedAt": "2026-09-25T09:32:27.760Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2742,7 +2772,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0312/3d70e4184eb6a02f6959524f54a651dax.jpg"
       ],
       "description": "Is this 2025 GMC Sierra 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Summit White - GAZ 4WD Crew Cab Short Box SLT available for $41489",
-      "scrapedAt": "2026-09-24T09:12:45.187Z"
+      "scrapedAt": "2026-09-25T09:32:30.349Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2771,7 +2801,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0838/070c6faff0aa99921d8b199df908babex.jpg"
       ],
       "description": "Is this 2023 GMC Sierra 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Titanium Rush Metallic - G6M 4WD Crew Cab Short Box SLT Crew Cab Pickup available for $44989",
-      "scrapedAt": "2026-09-24T09:12:45.309Z"
+      "scrapedAt": "2026-09-25T09:32:30.156Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2800,7 +2830,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0941/f33a2cc3e63cf9676603382ad75db631x.jpg"
       ],
       "description": "Is this 2023 GMC Terrain your perfect car? Contact Reedman Toll Chevrolet to see this Sterling Metallic - GXD AWD SLE Sport Utility available for $23989",
-      "scrapedAt": "2026-09-24T09:12:49.463Z"
+      "scrapedAt": "2026-09-25T09:32:29.660Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2829,7 +2859,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/1522/f411d8ff77fc5bb04e0995e785185f78x.jpg"
       ],
       "description": "Is this 2024 GMC Terrain your perfect car? Contact Reedman Toll Chevrolet to see this Sterling Metallic SLE SUV available for $24219",
-      "scrapedAt": "2026-09-24T09:12:50.290Z"
+      "scrapedAt": "2026-09-25T09:32:29.896Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2858,7 +2888,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0676/25f243dd615e0f7c1462df166089ab19x.jpg"
       ],
       "description": "Is this 2022 GMC Yukon XL your perfect car? Contact Reedman Toll Chevrolet to see this Onyx Black - GBA 4WD Denali Sport Utility available for $53489",
-      "scrapedAt": "2026-09-24T09:12:50.635Z"
+      "scrapedAt": "2026-09-25T09:32:31.431Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2887,7 +2917,7 @@
         "https://pictures.dealer.com/r/robertshonda/1556/270f0e34d736447dd9f91bd3df9cdc37x.jpg"
       ],
       "description": "Is this 2023 Honda Accord Hybrid your perfect car? Contact Reedman Toll Chevrolet to see this Platinum White Pearl Sport Car available for $23985",
-      "scrapedAt": "2026-09-24T09:12:50.252Z"
+      "scrapedAt": "2026-09-25T09:32:35.463Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2916,7 +2946,7 @@
         "https://pictures.dealer.com/r/robertshonda/1285/0ea7a39b2bf0983ede38daa370110ec2x.jpg"
       ],
       "description": "Is this 2024 Honda Accord Sedan your perfect car? Contact Reedman Toll Chevrolet to see this Solar Silver Metallic - SA EX Car available for $27985",
-      "scrapedAt": "2026-09-24T09:12:52.803Z"
+      "scrapedAt": "2026-09-25T09:32:36.794Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2945,7 +2975,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0347/b674e0e89851433412d6dc1c41167191x.jpg"
       ],
       "description": "Is this 2021 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic AWD Touring Sport Utility available for $20988",
-      "scrapedAt": "2026-09-24T09:12:55.353Z"
+      "scrapedAt": "2026-09-25T09:32:39.006Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -2974,7 +3004,7 @@
         "https://pictures.dealer.com/r/robertshonda/1539/cc7d73d11efabc511b06bcbdeefc0c5bx.jpg"
       ],
       "description": "Is this 2016 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Pearl - BK EX Sport Utility available for $17989",
-      "scrapedAt": "2026-09-24T09:12:57.172Z"
+      "scrapedAt": "2026-09-25T09:32:38.236Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3003,7 +3033,36 @@
         "https://pictures.dealer.com/r/robertshonda/0397/8170c0a89d35658163749d1e33729f53x.jpg"
       ],
       "description": "Is this 2015 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic - GY EX Sport Utility available for $17485",
-      "scrapedAt": "2026-09-24T09:12:59.794Z"
+      "scrapedAt": "2026-09-25T09:32:38.921Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2017-Honda-CR-V-cc133fe6ac18109a99ec78169bdd1c02.htm",
+      "vin": "2HKRW6H3XHH200969",
+      "stockNumber": "261067A-R",
+      "year": 2017,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 41182,
+      "exteriorColor": "Lunar Silver Metallic",
+      "interiorColor": null,
+      "engine": "2.4L I-4 direct injection, DOHC, i-VTEC variable valve control, regular gasoline, engine with 184HP",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular gasoline",
+      "fuelEconomyMpg": null,
+      "salePrice": 22356,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/ddc/vehicles/2017/Honda/CR-V/SUV/trim_LX_bc666b/color/Lunar%20SIlver%20Metallic-SX-160%2C160%2C160-640-en_US.jpg"
+      ],
+      "description": "Is this 2017 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Lunar Silver Metallic LX Sport Utility available for $22356",
+      "scrapedAt": "2026-09-25T09:32:38.981Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3032,7 +3091,7 @@
         "https://pictures.dealer.com/r/robertshonda/1736/dba89bbec24a00893fb647f12eacf648x.jpg"
       ],
       "description": "Is this 2013 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Pearl - BK LX Sport Utility available for $14934",
-      "scrapedAt": "2026-09-24T09:12:59.447Z"
+      "scrapedAt": "2026-09-25T09:32:43.259Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3061,7 +3120,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0873/385c113be8cc9f18d531e9f499165433x.jpg"
       ],
       "description": "Is this 2023 Honda CR-V Hybrid your perfect car? Contact Reedman Toll Chevrolet to see this Urban Gray Pearl Sport Sport Utility available for $28488",
-      "scrapedAt": "2026-09-24T09:13:00.090Z"
+      "scrapedAt": "2026-09-25T09:32:43.778Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3090,7 +3149,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1606/98ed3d64e7a17f277e729be2493d6c20x.jpg"
       ],
       "description": "Is this 2020 Honda Civic Hatchback your perfect car? Contact Reedman Toll Chevrolet to see this Polished Metal Metallic - GB LX Car available for $19989",
-      "scrapedAt": "2026-09-24T09:13:00.850Z"
+      "scrapedAt": "2026-09-25T09:32:44.639Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3119,7 +3178,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0171/fdb02d836cae1163222f371c14c20c31x.jpg"
       ],
       "description": "Is this 2020 Honda Civic Sedan your perfect car? Contact Reedman Toll Chevrolet to see this Aegean Blue Metallic Sport Car available for $20488",
-      "scrapedAt": "2026-09-24T09:13:04.851Z"
+      "scrapedAt": "2026-09-25T09:32:47.349Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3148,7 +3207,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1212/1ac615386c6daa93d72d3ef8a6ef7e1bx.jpg"
       ],
       "description": "Is this 2024 Honda Civic Sedan your perfect car? Contact Reedman Toll Chevrolet to see this Sonic Gray Pearl - GA Touring Car available for $27989",
-      "scrapedAt": "2026-09-24T09:13:05.747Z"
+      "scrapedAt": "2026-09-25T09:32:46.784Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3177,7 +3236,7 @@
         "https://pictures.dealer.com/r/robertshonda/0540/0b118ca0215500e609e6ed085962436dx.jpg"
       ],
       "description": "Is this 2022 Honda HR-V your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic AWD Sport Sport Utility available for $22485",
-      "scrapedAt": "2026-09-24T09:13:07.557Z"
+      "scrapedAt": "2026-09-25T09:32:47.110Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3206,7 +3265,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1153/368167d8e29d5fe410c4921afbf3d0f7x.jpg"
       ],
       "description": "Is this 2025 Honda Odyssey your perfect car? Contact Reedman Toll Chevrolet to see this Platinum White Pearl - WX Elite Mini-van, Passenger available for $44489",
-      "scrapedAt": "2026-09-24T09:13:08.453Z"
+      "scrapedAt": "2026-09-25T09:32:51.442Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3235,7 +3294,7 @@
         "https://pictures.dealer.com/r/robertshonda/0424/e9ac19ffcd7014834cf6c505ca646b58x.jpg"
       ],
       "description": "Is this 2021 Honda Passport your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic AWD Sport Sport Utility available for $22985",
-      "scrapedAt": "2026-09-24T09:13:10.094Z"
+      "scrapedAt": "2026-09-25T09:32:51.507Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3264,36 +3323,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1802/6e9dd725a29b1d36adbb8ab36c3f71f1x.jpg"
       ],
       "description": "Is this 2023 Honda Pilot your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Pearl - BK AWD Touring Sport Utility available for $31989",
-      "scrapedAt": "2026-09-24T09:13:09.708Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2024-Honda-Pilot-a6863d34ac1812be80b66b4f01dbc982.htm",
-      "vin": "5FNYG1H46RB047270",
-      "stockNumber": "260234A-C",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Pilot",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 20474,
-      "exteriorColor": "Crystal Black Pearl - BK",
-      "interiorColor": "Black - BK",
-      "engine": "3.5L V-6 direct injection, DOHC, i-VTEC (w/VTC) variable valve control, regular gasoline, engine wit",
-      "transmission": "10-Speed A/T",
-      "drivetrain": "AWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 38478,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/a/abingtoncdjramcllc/0179/367c4af60bb04e72e22ecb716038b5c6x.jpg"
-      ],
-      "description": "Is this 2024 Honda Pilot your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Pearl - BK EX-L Sport Utility available for $38478",
-      "scrapedAt": "2026-09-24T09:13:12.925Z"
+      "scrapedAt": "2026-09-25T09:32:52.361Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3322,7 +3352,7 @@
         "https://pictures.dealer.com/r/robertshonda/0097/a3bfd2c9b9fa80f879ab26bbd55b573dx.jpg"
       ],
       "description": "Is this 2020 Honda Ridgeline your perfect car? Contact Reedman Toll Chevrolet to see this Platinum White Pearl AWD RTL Crew Cab Pickup available for $27465",
-      "scrapedAt": "2026-09-24T09:13:14.698Z"
+      "scrapedAt": "2026-09-25T09:32:54.330Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3351,7 +3381,7 @@
         "https://pictures.dealer.com/r/robertshonda/0195/2c1ca82ec8ecc66730af25a9575e94d3x.jpg"
       ],
       "description": "Is this 2019 Honda Ridgeline your perfect car? Contact Reedman Toll Chevrolet to see this Forest Mist Metallic - GO RTL-E Crew Cab Pickup available for $25923",
-      "scrapedAt": "2026-09-24T09:13:16.472Z"
+      "scrapedAt": "2026-09-25T09:32:55.445Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3380,7 +3410,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0773/35ca92ca838507f3eca81ccde4587537x.jpg"
       ],
       "description": "Is this 2023 Hyundai Kona your perfect car? Contact Reedman Toll Chevrolet to see this Cyber Silver - C5G Limited Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:13:18.138Z"
+      "scrapedAt": "2026-09-25T09:32:55.875Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3409,7 +3439,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1878/787199d17e1eb7f2531a4eff181dc234x.jpg"
       ],
       "description": "Is this 2024 Hyundai Kona your perfect car? Contact Reedman Toll Chevrolet to see this Ecotronic Gray Pearl - PE2 SEL available for $21489",
-      "scrapedAt": "2026-09-24T09:13:18.372Z"
+      "scrapedAt": "2026-09-25T09:32:59.751Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3438,7 +3468,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1669/207e9c7e7c9f9e7094ad2a6d1323a1c4x.jpg"
       ],
       "description": "Is this 2023 Hyundai Santa Fe your perfect car? Contact Reedman Toll Chevrolet to see this Portofino Gray - T2G Calligraphy Sport Utility available for $28989",
-      "scrapedAt": "2026-09-24T09:13:19.503Z"
+      "scrapedAt": "2026-09-25T09:33:01.209Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3467,7 +3497,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0105/071e3496146190df3aee092c3d1f4ef0x.jpg"
       ],
       "description": "Is this 2021 Hyundai Tucson your perfect car? Contact Reedman Toll Chevrolet to see this Black Noir Pearl - NKA Limited Sport Utility available for $20489",
-      "scrapedAt": "2026-09-24T09:13:22.692Z"
+      "scrapedAt": "2026-09-25T09:33:00.283Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3496,7 +3526,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0364/5a7016e24128cd0926cd12fa430d6e0cx.jpg"
       ],
       "description": "Is this 2023 Hyundai Tucson your perfect car? Contact Reedman Toll Chevrolet to see this Red Crimson - YP6 N Line Sport Utility available for $24988",
-      "scrapedAt": "2026-09-24T09:13:24.272Z"
+      "scrapedAt": "2026-09-25T09:33:01.651Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3525,7 +3555,7 @@
         "https://pictures.dealer.com/r/robertshonda/1092/5539085e9466b96bcf17cc84247209cex.jpg"
       ],
       "description": "Is this 2021 Hyundai Tucson your perfect car? Contact Reedman Toll Chevrolet to see this White Cream - WW2 SEL Sport Utility available for $16485",
-      "scrapedAt": "2026-09-24T09:13:26.785Z"
+      "scrapedAt": "2026-09-25T09:33:03.432Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3554,7 +3584,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/1574/e7abeb9c7a6725f7856c7d91683bbac4x.jpg"
       ],
       "description": "Is this 2023 INFINITI QX60 your perfect car? Contact Reedman Toll Chevrolet to see this Graphite Shadow - KAD Luxe AWD Sport Utility available for $34389",
-      "scrapedAt": "2026-09-24T09:13:27.330Z"
+      "scrapedAt": "2026-09-25T09:33:03.951Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3583,7 +3613,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0372/11a092afd63643b37c4fb62cbcac1d7bx.jpg"
       ],
       "description": "Is this 2017 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Deep Cherry Red Crystal Pearlcoat - PRP High Altitude 4x4 Sport Utility available for $11489",
-      "scrapedAt": "2026-09-24T09:13:27.889Z"
+      "scrapedAt": "2026-09-25T09:33:08.723Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3612,7 +3642,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/1611/94502f524811004873af04e9a27ba8a7x.jpg"
       ],
       "description": "Is this 2023 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat - PAU Latitude 4x4 Sport Utility available for $22979",
-      "scrapedAt": "2026-09-24T09:13:29.573Z"
+      "scrapedAt": "2026-09-25T09:33:08.798Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3641,7 +3671,7 @@
         "https://images.dealer.com/autodata/us/color/2022/USD20JES152B0/PW7.jpg"
       ],
       "description": "Is this 2022 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat Latitude 4x4 Sport Utility available for $20739",
-      "scrapedAt": "2026-09-24T09:13:29.808Z"
+      "scrapedAt": "2026-09-25T09:33:09.342Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3670,36 +3700,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/0260/f818ee6465c0f3f34d81021053311ca2x.jpg"
       ],
       "description": "Is this 2023 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat - PAU Limited 4x4 Sport Utility available for $26278",
-      "scrapedAt": "2026-09-24T09:13:33.436Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Jeep/2022-Jeep-Compass-8e4785eaac1813b262e6ac10341e339f.htm",
-      "vin": "3C4NJDCB2NT237123",
-      "stockNumber": "2600730B-A",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Compass",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 34793,
-      "exteriorColor": "Diamond Black Crystal Pearlcoat - PXJ",
-      "interiorColor": "Black - X9",
-      "engine": "MultiAir2 Tigershark 2.4L I-4 variable valve control, regular gasoline, engine with 177HP",
-      "transmission": "9-Speed A/T",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 22989,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1756/196d6b4f242eccda49bb9f9150e40d7dx.jpg"
-      ],
-      "description": "Is this 2022 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat - PXJ Limited 4x4 Sport Utility available for $22989",
-      "scrapedAt": "2026-09-24T09:13:34.448Z"
+      "scrapedAt": "2026-09-25T09:33:09.773Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3728,7 +3729,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/0164/afb25f4e3045d32cba8fd591e824fb70x.jpg"
       ],
       "description": "Is this 2021 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat - PXJ 80th Anniversary 4x4 Sport Utility available for $28478",
-      "scrapedAt": "2026-09-24T09:13:35.152Z"
+      "scrapedAt": "2026-09-25T09:33:10.402Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3757,7 +3758,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0986/c79f80da8e15df5795ce014db220868ex.jpg"
       ],
       "description": "Is this 2023 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat - PW7 Altitude 4x4 available for $31489",
-      "scrapedAt": "2026-09-24T09:13:37.359Z"
+      "scrapedAt": "2026-09-25T09:33:10.463Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3786,7 +3787,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0192/fa9409e574238a766bb1491d2127423cx.jpg"
       ],
       "description": "Is this 2020 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat - PW7 Altitude 4x4 Sport Utility available for $20989",
-      "scrapedAt": "2026-09-24T09:13:39.553Z"
+      "scrapedAt": "2026-09-25T09:33:19.151Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3815,7 +3816,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1680/495e7a4136496af9ed8beafc87861553x.jpg"
       ],
       "description": "Is this 2017 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Billet Silver Metallic Clearcoat - PSC Limited 4x4 Sport Utility available for $16989",
-      "scrapedAt": "2026-09-24T09:13:39.190Z"
+      "scrapedAt": "2026-09-25T09:33:16.858Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3844,7 +3845,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1335/2b9149fc583f1fcf137e56118f65d70ax.jpg"
       ],
       "description": "Is this 2021 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Billet Silver Metallic Clearcoat - PSC SRT 4x4 Sport Utility available for $51489",
-      "scrapedAt": "2026-09-24T09:13:42.453Z"
+      "scrapedAt": "2026-09-25T09:33:18.294Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3873,7 +3874,36 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0005/71aa40a55657cc9a595a197bb57048ffx.jpg"
       ],
       "description": "Is this 2023 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Baltic Gray Metallic Clearcoat - PAS Altitude 4x4 Sport Utility available for $32989",
-      "scrapedAt": "2026-09-24T09:13:42.696Z"
+      "scrapedAt": "2026-09-25T09:33:17.552Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Jeep/2023-Jeep-Grand-Cherokee-L-a5e30d82ac1817c99dfd0f5ce3b32fcd.htm",
+      "vin": "1C4RJKBG8P8796504",
+      "stockNumber": "260995B-R",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 13165,
+      "exteriorColor": "Bright White Clearcoat",
+      "interiorColor": "Global Black",
+      "engine": "Pentastar 3.6L V-6 DOHC, variable valve control, regular gasoline, engine with 293HP",
+      "transmission": "Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 35459,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/r/robertshonda/0631/34026ce9ebcdcb7ce6efe12e5f453c6fx.jpg"
+      ],
+      "description": "Is this 2023 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat Limited 4x4 Sport Utility available for $35459",
+      "scrapedAt": "2026-09-25T09:33:17.912Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3902,7 +3932,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0572/f13ce31d6a5e32e107d6aa59c708686cx.jpg"
       ],
       "description": "Is this 2022 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat - PW7 Limited 4x4 Sport Utility available for $28489",
-      "scrapedAt": "2026-09-24T09:13:45.144Z"
+      "scrapedAt": "2026-09-25T09:33:18.617Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3931,7 +3961,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/0175/69cb80f37049072b95091c1ff37c00a0x.jpg"
       ],
       "description": "Is this 2021 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Velvet Red Pearlcoat - PRV Limited 4x4 Sport Utility available for $28278",
-      "scrapedAt": "2026-09-24T09:13:44.165Z"
+      "scrapedAt": "2026-09-25T09:33:25.579Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3960,7 +3990,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/1016/d9952e08d4dbec29350f9e7649d93ceex.jpg"
       ],
       "description": "Is this 2015 Jeep Wrangler your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat - PW7 Sahara Sport Utility available for $21989",
-      "scrapedAt": "2026-09-24T09:13:46.440Z"
+      "scrapedAt": "2026-09-25T09:33:25.773Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -3989,7 +4019,7 @@
         "https://pictures.dealer.com/r/robertshonda/1012/e2bba3bf66a87fc9fad58d4d524f8b0dx.jpg"
       ],
       "description": "Is this 2018 Jeep Wrangler Unlimited your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat Sahara 4x4 Sport Utility available for $32934",
-      "scrapedAt": "2026-09-24T09:13:48.357Z"
+      "scrapedAt": "2026-09-25T09:33:25.045Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4018,36 +4048,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1728/97c015d3fe0cbea46d8519d3df8724d4x.jpg"
       ],
       "description": "Is this 2025 Kia K4 your perfect car? Contact Reedman Toll Chevrolet to see this Steel Gray - KLG LXS available for $19989",
-      "scrapedAt": "2026-09-24T09:13:51.210Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Kia/2014-Kia-Soul-2c6fa282ac180d2b8c4af9b4993b125f.htm",
-      "vin": "KNDJP3A58E7033905",
-      "stockNumber": "2602432B-A",
-      "year": 2014,
-      "make": "Kia",
-      "model": "Soul",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 64374,
-      "exteriorColor": "Clear White - 1D",
-      "interiorColor": "Black",
-      "engine": "2L I-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 164HP",
-      "transmission": "6-Speed A/T",
-      "drivetrain": "FWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 10989,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1785/3b2ea43d8738fb42bc9bcc00ab09d87ex.jpg"
-      ],
-      "description": "Is this 2014 Kia Soul your perfect car? Contact Reedman Toll Chevrolet to see this Clear White - 1D + Car available for $10989",
-      "scrapedAt": "2026-09-24T09:13:52.341Z"
+      "scrapedAt": "2026-09-25T09:33:26.768Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4076,7 +4077,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/0422/7e33dc25140571dfe05d064becbacce1x.jpg"
       ],
       "description": "Is this 2024 Kia Sportage your perfect car? Contact Reedman Toll Chevrolet to see this Glacial White Pearl - GWP EX Sport Utility available for $26259",
-      "scrapedAt": "2026-09-24T09:13:53.004Z"
+      "scrapedAt": "2026-09-25T09:33:27.403Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4105,7 +4106,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1329/e60782c8869b5a723e88783239779269x.jpg"
       ],
       "description": "Is this 2023 Kia Sportage Hybrid your perfect car? Contact Reedman Toll Chevrolet to see this Fusion Black - FSB EX Sport Utility available for $24989",
-      "scrapedAt": "2026-09-24T09:13:53.649Z"
+      "scrapedAt": "2026-09-25T09:33:28.719Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4134,7 +4135,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/0903/593e9c31c3eb02ba2dc3a46a151fa22cx.jpg"
       ],
       "description": "Is this 2017 LEXUS RX 350 your perfect car? Contact Reedman Toll Chevrolet to see this Nebula Gray Pearl - 1H9 available for $24489",
-      "scrapedAt": "2026-09-24T09:13:56.173Z"
+      "scrapedAt": "2026-09-25T09:33:32.384Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4163,7 +4164,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/0047/408abf06fcdbb5984e50c6ad2901ebccx.jpg"
       ],
       "description": "Is this 2017 Lincoln MKX your perfect car? Contact Reedman Toll Chevrolet to see this Chroma Couture Dark Brown Premium Metallic - ZX Black Label Sport Utility available for $21489",
-      "scrapedAt": "2026-09-24T09:13:57.964Z"
+      "scrapedAt": "2026-09-25T09:33:33.943Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4192,7 +4193,36 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0635/327b7150026b39cf51ab1be0b1abe696x.jpg"
       ],
       "description": "Is this 2015 MINI Hardtop your perfect car? Contact Reedman Toll Chevrolet to see this Midnight Black Metallic - A94 Cooper S Car available for $10989",
-      "scrapedAt": "2026-09-24T09:13:59.206Z"
+      "scrapedAt": "2026-09-25T09:33:34.086Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Mazda/2023-Mazda-CX-30-782d0888ac1806568f439d176fa8e9b6.htm",
+      "vin": "3MVDMBBM7PM578362",
+      "stockNumber": "270034A-R",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-30",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 54096,
+      "exteriorColor": "Jet Black Mica - 41W",
+      "interiorColor": "Black - D2W",
+      "engine": "SKYACTIV-G 2.5L I-4 direct injection, DOHC, variable valve control, regular gasoline, engine with cy",
+      "transmission": "6-Speed A/T",
+      "drivetrain": "AWD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 23378,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/r/robertshonda/0181/49e98a2d4ea90b971641046ffa244b7ex.jpg"
+      ],
+      "description": "Is this 2023 Mazda CX-30 your perfect car? Contact Reedman Toll Chevrolet to see this Jet Black Mica - 41W 2.5 S Select Sport Utility available for $23378",
+      "scrapedAt": "2026-09-25T09:33:35.468Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4221,7 +4251,7 @@
         "https://pictures.dealer.com/r/robertshonda/0151/ad4df649133126d5b2ba0de5d33b302cx.jpg"
       ],
       "description": "Is this 2020 Mazda CX-30 your perfect car? Contact Reedman Toll Chevrolet to see this Jet Black Mica - 41W Premium Package Sport Utility available for $20985",
-      "scrapedAt": "2026-09-24T09:14:00.863Z"
+      "scrapedAt": "2026-09-25T09:33:35.079Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4250,7 +4280,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0832/65c29e1ade51282ebd45f25b2088ba22x.jpg"
       ],
       "description": "Is this 2023 Mazda CX-5 your perfect car? Contact Reedman Toll Chevrolet to see this Deep Crystal Blue Mica - 42M 2.5 S Select Sport Utility available for $25489",
-      "scrapedAt": "2026-09-24T09:14:02.661Z"
+      "scrapedAt": "2026-09-25T09:33:36.873Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4279,7 +4309,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0005/e17f79e53967f9fc97602b832d543aa1x.jpg"
       ],
       "description": "Is this 2025 Mercedes-Benz GLA 250 your perfect car? Contact Reedman Toll Chevrolet to see this Night Black - 696 4matic available for $27489",
-      "scrapedAt": "2026-09-24T09:14:02.281Z"
+      "scrapedAt": "2026-09-25T09:33:41.256Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4308,7 +4338,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1071/7e59f402e2de6ef70ea5c7cf6587d9b3x.jpg"
       ],
       "description": "Is this 2017 Mercedes-Benz GLA 250 your perfect car? Contact Reedman Toll Chevrolet to see this Mountain Grey Metallic - 787 4matic Sport Utility available for $15989",
-      "scrapedAt": "2026-09-24T09:14:03.656Z"
+      "scrapedAt": "2026-09-25T09:33:42.924Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4337,7 +4367,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0371/25f37e94523c048d1264d7ec7ee96cefx.jpg"
       ],
       "description": "Is this 2024 Mitsubishi Eclipse Cross your perfect car? Contact Reedman Toll Chevrolet to see this Mercury Gray Metallic - U17 SEL S-AWC Sport Utility available for $23489",
-      "scrapedAt": "2026-09-24T09:14:07.668Z"
+      "scrapedAt": "2026-09-25T09:33:42.194Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4366,36 +4396,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1923/60812ddf9c9f56316427dad5861ed991x.jpg"
       ],
       "description": "Is this 2024 Nissan Altima your perfect car? Contact Reedman Toll Chevrolet to see this Super Black - KH3 SR FWD Car available for $23489",
-      "scrapedAt": "2026-09-24T09:14:08.088Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Nissan/2025-Nissan-Altima-4bff574aac18449e4fb6ae6a21a85e35.htm",
-      "vin": "1N4BL4DV5SN384351",
-      "stockNumber": "B16555-A",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Altima",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 33204,
-      "exteriorColor": "Super Black - KH3",
-      "interiorColor": "Charcoal - G",
-      "engine": "2.5L I-4 gasoline direct injection, DOHC, CVTCS variable valve control, regular unleaded, engine wit",
-      "transmission": "CVT Transmission",
-      "drivetrain": "FWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 19489,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/0456/7233a097f97f89a1459cc0baeaba2275x.jpg"
-      ],
-      "description": "Is this 2025 Nissan Altima your perfect car? Contact Reedman Toll Chevrolet to see this Super Black - KH3 SV FWD Car available for $19489",
-      "scrapedAt": "2026-09-24T09:14:09.842Z"
+      "scrapedAt": "2026-09-25T09:33:44.750Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4424,7 +4425,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1651/a1187dd9eff1f0d7aaecbaacd9abe567x.jpg"
       ],
       "description": "Is this 2015 Nissan Pathfinder your perfect car? Contact Reedman Toll Chevrolet to see this Gun Metallic - KAD Platinum Sport Utility available for $14489",
-      "scrapedAt": "2026-09-24T09:14:09.978Z"
+      "scrapedAt": "2026-09-25T09:33:43.607Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4453,7 +4454,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0009/4b48f871b179e40cebb23900ad8dccf8x.jpg"
       ],
       "description": "Is this 2025 Nissan Pathfinder your perfect car? Contact Reedman Toll Chevrolet to see this Deep Ocean Blue Pearl - RCJ SV 4WD available for $29989",
-      "scrapedAt": "2026-09-24T09:14:11.308Z"
+      "scrapedAt": "2026-09-25T09:33:44.276Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4482,7 +4483,7 @@
         "https://pictures.dealer.com/s/springfieldcdjcllc/0633/12adde068e48a6558b399cdec1d12110x.jpg"
       ],
       "description": "Is this 2024 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Super Black - KH3 Platinum Intelligent AWD Sport Utility available for $30479",
-      "scrapedAt": "2026-09-24T09:14:13.141Z"
+      "scrapedAt": "2026-09-25T09:33:49.613Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4511,7 +4512,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1433/007b0db1498e9621ddbcc0db8140bcfcx.jpg"
       ],
       "description": "Is this 2023 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Caspian Blue Metallic - RBY Platinum Intelligent AWD Sport Utility available for $24989",
-      "scrapedAt": "2026-09-24T09:14:16.307Z"
+      "scrapedAt": "2026-09-25T09:33:50.783Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4540,7 +4541,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/1381/6e7bd4ecb71b29868a5da1561e03deccx.jpg"
       ],
       "description": "Is this 2025 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Gun Metallic - KAD S Intelligent AWD Sport Utility available for $24489",
-      "scrapedAt": "2026-09-24T09:14:15.980Z"
+      "scrapedAt": "2026-09-25T09:33:52.030Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4569,7 +4570,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/1734/d0c9ea0b20c2fda2498ce9f74c427cf8x.jpg"
       ],
       "description": "Is this 2024 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Gun Metallic - KAD S Intelligent AWD available for $22089",
-      "scrapedAt": "2026-09-24T09:14:18.085Z"
+      "scrapedAt": "2026-09-25T09:33:52.650Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4598,36 +4599,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1716/2a20f0079f0ad336db819217a2bf1e60x.jpg"
       ],
       "description": "Is this 2025 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Super Black - KH3 SV FWD available for $20989",
-      "scrapedAt": "2026-09-24T09:14:18.925Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Ram/2015-Ram-1500-a5e4bb1eac1849e6c966ea6fccee4a0e.htm",
-      "vin": "3C6RR7LT0FG598761",
-      "stockNumber": "2600181A-D",
-      "year": 2015,
-      "make": "Ram",
-      "model": "1500",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 124758,
-      "exteriorColor": "Deep Cherry Red Crystal Pearlcoat",
-      "interiorColor": "Diesel Gray/Black",
-      "engine": "HEMI 5.7L V-8 variable valve control, regular unleaded, engine with cylinder deactivation and 395HP",
-      "transmission": "Automatic",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 15979,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/large_stockphoto-color/2015/USC50RMT11CB0/PRP.jpg"
-      ],
-      "description": "Is this 2015 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Deep Cherry Red Crystal Pearlcoat Big Horn Crew Cab Pickup available for $15979",
-      "scrapedAt": "2026-09-24T09:14:20.713Z"
+      "scrapedAt": "2026-09-25T09:33:51.637Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4656,7 +4628,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1135/5260a4385f7afb674abd9376442f8df8x.jpg"
       ],
       "description": "Is this 2025 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Flame Red Clearcoat - PR4 Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $41989",
-      "scrapedAt": "2026-09-24T09:14:22.020Z"
+      "scrapedAt": "2026-09-25T09:33:52.845Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4685,7 +4657,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/0215/a75c533cb5c7387a650dcf69e15c39a6x.jpg"
       ],
       "description": "Is this 2021 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Delmonico Red Pearlcoat - PRV Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $28478",
-      "scrapedAt": "2026-09-24T09:14:23.636Z"
+      "scrapedAt": "2026-09-25T09:33:58.408Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4714,7 +4686,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0628/cb97d4f998439abdedeb7c4bfcf582c9x.jpg"
       ],
       "description": "Is this 2021 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat - PXJ Big Horn Quad Cab 4x4 64 Box Crew Cab Pickup available for $24989",
-      "scrapedAt": "2026-09-24T09:14:24.133Z"
+      "scrapedAt": "2026-09-25T09:33:57.880Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4743,7 +4715,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1035/1e2055649a0e77f49a63108bd0da0cfcx.jpg"
       ],
       "description": "Is this 2019 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat - PXJ Big Horn/Lone Star Crew Cab 4x4 57 Box Crew Cab Pickup available for $27489",
-      "scrapedAt": "2026-09-24T09:14:27.105Z"
+      "scrapedAt": "2026-09-25T09:33:58.483Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4772,7 +4744,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0875/5a691617a9f2cf1835727c5f703bd428x.jpg"
       ],
       "description": "Is this 2024 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Billet Silver Metallic Clearcoat - PSC Limited Crew Cab 4x4 57 Box Crew Cab Pickup available for $52489",
-      "scrapedAt": "2026-09-24T09:14:29.452Z"
+      "scrapedAt": "2026-09-25T09:33:59.613Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4801,7 +4773,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/1518/bf162c55e35cdd18adfb2d4bbeaaad54x.jpg"
       ],
       "description": "Is this 2020 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat - PXJ Limited Crew Cab 4x4 57 Box Crew Cab Pickup available for $42478",
-      "scrapedAt": "2026-09-24T09:14:30.351Z"
+      "scrapedAt": "2026-09-25T09:34:00.201Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4830,7 +4802,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1828/4949ed347ecd53967f439aa0ed5e66b6x.jpg"
       ],
       "description": "Is this 2023 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat - PXJ TRX Crew Cab 4x4 57 Box Crew Cab Pickup available for $76989",
-      "scrapedAt": "2026-09-24T09:14:30.972Z"
+      "scrapedAt": "2026-09-25T09:34:01.415Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4859,7 +4831,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0771/e0947a50ecb533206e54b3d906534cacx.jpg"
       ],
       "description": "Is this 2023 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat - PAU Tradesman Crew Cab 4x4 57 Box Crew Cab Pickup available for $36489",
-      "scrapedAt": "2026-09-24T09:14:31.760Z"
+      "scrapedAt": "2026-09-25T09:34:06.015Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4888,7 +4860,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1306/0d3462f473ce11a3be1b7a509444578fx.jpg"
       ],
       "description": "Is this 2025 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - W3P Premium Sport Utility available for $27489",
-      "scrapedAt": "2026-09-24T09:14:32.153Z"
+      "scrapedAt": "2026-09-25T09:34:07.088Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4917,7 +4889,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1164/00289e7fda7b73f0ad50e9a474a6bc96x.jpg"
       ],
       "description": "Is this 2024 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Sapphire Blue Pearl - SP2 Premium Sport Utility available for $26989",
-      "scrapedAt": "2026-09-24T09:14:35.672Z"
+      "scrapedAt": "2026-09-25T09:34:06.974Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4946,7 +4918,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0655/8ff03f2f560efcde03af734d153e1c16x.jpg"
       ],
       "description": "Is this 2023 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - W2C Premium Sport Utility available for $23989",
-      "scrapedAt": "2026-09-24T09:14:38.866Z"
+      "scrapedAt": "2026-09-25T09:34:07.676Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -4975,7 +4947,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1773/8887468216c93b450e8dfdd711493b87x.jpg"
       ],
       "description": "Is this 2024 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - WH7 Sport Sport Utility available for $26489",
-      "scrapedAt": "2026-09-24T09:14:41.021Z"
+      "scrapedAt": "2026-09-25T09:34:08.387Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5004,7 +4976,7 @@
         "https://pictures.dealer.com/r/robertshonda/1841/8b3344f5a04680ff3d8491f242c45d38x.jpg"
       ],
       "description": "Is this 2015 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Burnished Bronze Metallic - BBM 2.5i Premium Sport Utility available for $14478",
-      "scrapedAt": "2026-09-24T09:14:38.473Z"
+      "scrapedAt": "2026-09-25T09:34:08.544Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5033,7 +5005,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0730/eacc56706ac0ddbd2222ac2a0c75373bx.jpg"
       ],
       "description": "Is this 2024 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Horizon Blue Pearl - HBP Limited Sport Utility available for $29489",
-      "scrapedAt": "2026-09-24T09:14:40.271Z"
+      "scrapedAt": "2026-09-25T09:34:14.412Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5062,7 +5034,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1664/310eaf7d0dd16781009a9b317f45da21x.jpg"
       ],
       "description": "Is this 2023 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic - MG9 Limited Sport Utility available for $28489",
-      "scrapedAt": "2026-09-24T09:14:39.716Z"
+      "scrapedAt": "2026-09-25T09:34:15.352Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5091,7 +5063,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0416/458f24e78641b185da98c7f71fd75677x.jpg"
       ],
       "description": "Is this 2023 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic - ISM Limited Sport Utility available for $28489",
-      "scrapedAt": "2026-09-24T09:14:43.515Z"
+      "scrapedAt": "2026-09-25T09:34:15.387Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5120,36 +5092,36 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0631/c617ee28a847cd26a32106837bbdcc19x.jpg"
       ],
       "description": "Is this 2022 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Limited Sport Utility available for $27988",
-      "scrapedAt": "2026-09-24T09:14:47.193Z"
+      "scrapedAt": "2026-09-25T09:34:16.064Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2021-Subaru-Forester-a2e0b23aac1817c99dfd0f5c1172ff96.htm",
-      "vin": "JF2SKAUC4MH495762",
-      "stockNumber": "260713A-E",
-      "year": 2021,
+      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2019-Subaru-Forester-98944eecac180452357e7dbb7b50dd66.htm",
+      "vin": "JF2SKAUC4KH401411",
+      "stockNumber": "2602515A-A",
+      "year": 2019,
       "make": "Subaru",
       "model": "Forester",
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 52490,
-      "exteriorColor": "Jasper Green Metallic",
-      "interiorColor": "Gray",
+      "mileage": 24216,
+      "exteriorColor": "Jasper Green Metallic - JGN",
+      "interiorColor": "Gray - GLU70",
       "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
       "transmission": "Automatic",
-      "drivetrain": "Other",
+      "drivetrain": "AWD",
       "fuelType": "Regular unleaded",
       "fuelEconomyMpg": null,
-      "salePrice": 23488,
+      "salePrice": 24489,
       "marketValuePrice": null,
       "availability": "https://schema.org/InStock",
       "photoCount": 1,
       "photos": [
-        "https://images.dealer.com/ddc/vehicles/2021/Subaru/Forester/SUV/trim_Limited_0a2f50/color/Jasper%20Green%20Metallic-JGN-131%2C148%2C131-640-en_US.jpg"
+        "https://pictures.dealer.com/r/reedmantollautoworldcllc/0923/6d60e7b9f5d0bc920f388158d2e94572x.jpg"
       ],
-      "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Jasper Green Metallic Limited Sport Utility available for $23488",
-      "scrapedAt": "2026-09-24T09:14:49.325Z"
+      "description": "Is this 2019 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Jasper Green Metallic - JGN Limited Sport Utility available for $24489",
+      "scrapedAt": "2026-09-25T09:34:17.127Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5178,7 +5150,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0710/e0a5efcecd0c055332820024bba7448ax.jpg"
       ],
       "description": "Is this 2023 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - WH6 Premium Sport Utility available for $28489",
-      "scrapedAt": "2026-09-24T09:14:47.943Z"
+      "scrapedAt": "2026-09-25T09:34:16.407Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5207,7 +5179,36 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1872/3e27d89e8f09cd1b326e00247f4b52c2x.jpg"
       ],
       "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic - ISM Premium Sport Utility available for $21988",
-      "scrapedAt": "2026-09-24T09:14:48.206Z"
+      "scrapedAt": "2026-09-25T09:34:21.998Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2021-Subaru-Forester-98944ac6ac1817c99dfd0f5cb22b3852.htm",
+      "vin": "JF2SKAJC6MH557179",
+      "stockNumber": "B16602A-A",
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 62062,
+      "exteriorColor": "Horizon Blue Pearl - HBP",
+      "interiorColor": "Gray - GC",
+      "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 22989,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/r/reedmantollautoworldcllc/1414/a6deb009a4d55fd88712a5b66f57eb82x.jpg"
+      ],
+      "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Horizon Blue Pearl - HBP Premium Sport Utility available for $22989",
+      "scrapedAt": "2026-09-25T09:34:23.506Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5236,7 +5237,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1532/fb204763d986adde445e50cc067a7e9ex.jpg"
       ],
       "description": "Is this 2020 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Jasper Green Metallic Premium Sport Utility available for $20488",
-      "scrapedAt": "2026-09-24T09:14:50.660Z"
+      "scrapedAt": "2026-09-25T09:34:23.937Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5265,7 +5266,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0186/36258341f7781511e07435412fa4d598x.jpg"
       ],
       "description": "Is this 2024 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic - MG7 Sport Sport Utility available for $28489",
-      "scrapedAt": "2026-09-24T09:14:52.053Z"
+      "scrapedAt": "2026-09-25T09:34:24.153Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5294,7 +5295,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0117/c9fb6178d8b4ec11b0bd91234f2e8af6x.jpg"
       ],
       "description": "Is this 2023 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - WH7 Sport Sport Utility available for $28489",
-      "scrapedAt": "2026-09-24T09:14:55.058Z"
+      "scrapedAt": "2026-09-25T09:34:25.271Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5307,7 +5308,7 @@
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 45072,
+      "mileage": 45078,
       "exteriorColor": "Magnetite Gray Metallic",
       "interiorColor": "Gray",
       "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
@@ -5323,7 +5324,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1063/3c44b81e14d0fa4d20107fde8dccccbex.jpg"
       ],
       "description": "Is this 2023 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic Sport Sport Utility available for $24988",
-      "scrapedAt": "2026-09-24T09:14:57.715Z"
+      "scrapedAt": "2026-09-25T09:34:27.019Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5352,7 +5353,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0223/dbe75a44d860cf91e13bd57877b83f82x.jpg"
       ],
       "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Silica Touring Sport Utility available for $17988",
-      "scrapedAt": "2026-09-24T09:14:57.492Z"
+      "scrapedAt": "2026-09-25T09:34:29.651Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5381,7 +5382,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0464/84a031544fe3b04737452d2942334802x.jpg"
       ],
       "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Horizon Blue Pearl - HB1 Touring Sport Utility available for $25989",
-      "scrapedAt": "2026-09-24T09:14:58.408Z"
+      "scrapedAt": "2026-09-25T09:34:32.193Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5410,7 +5411,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1824/82a20d217b9e547550acc52caa76ecd8x.jpg"
       ],
       "description": "Is this 2024 Subaru Impreza your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic - ISM Base 5-Door Car available for $22989",
-      "scrapedAt": "2026-09-24T09:14:59.630Z"
+      "scrapedAt": "2026-09-25T09:34:32.417Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5439,7 +5440,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1287/2a6bcf8f011226db34ea7d2117eb29d8x.jpg"
       ],
       "description": "Is this 2021 Subaru Impreza your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Sedan Car available for $18988",
-      "scrapedAt": "2026-09-24T09:15:00.812Z"
+      "scrapedAt": "2026-09-25T09:34:32.722Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5468,36 +5469,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0298/ee2adbb20e87cc15b1f278c97565af17x.jpg"
       ],
       "description": "Is this 2025 Subaru Legacy your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic - IS1 Premium Car available for $25489",
-      "scrapedAt": "2026-09-24T09:15:04.613Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2019-Subaru-Outback-a5e2d37cac180452357e7dbbbf48921f.htm",
-      "vin": "4S4BSAFC2K3203124",
-      "stockNumber": "260513A-E",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Outback",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 93030,
-      "exteriorColor": "Tungsten Metallic",
-      "interiorColor": "Warm Ivory",
-      "engine": "2.5L H-4 DOHC, variable valve control, regular gasoline, engine with 175HP",
-      "transmission": "Automatic",
-      "drivetrain": "Other",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 15987,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/s/subaruextonsoa/1220/5e4ea851a6bb0bf769b1bf3646ff2311x.jpg"
-      ],
-      "description": "Is this 2019 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Tungsten Metallic 2.5i Premium Sport Utility available for $15987",
-      "scrapedAt": "2026-09-24T09:15:06.797Z"
+      "scrapedAt": "2026-09-25T09:34:33.665Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5526,7 +5498,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0474/b00fc3b2af583fec7b75220673c1a554x.jpg"
       ],
       "description": "Is this 2025 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic Limited Sport Utility available for $31988",
-      "scrapedAt": "2026-09-24T09:15:06.671Z"
+      "scrapedAt": "2026-09-25T09:34:33.766Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5555,7 +5527,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0750/87d816b5270e6c93761981a137bd8549x.jpg"
       ],
       "description": "Is this 2024 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl - W5P Limited Sport Utility available for $30989",
-      "scrapedAt": "2026-09-24T09:15:06.521Z"
+      "scrapedAt": "2026-09-25T09:34:37.513Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5584,7 +5556,7 @@
         "https://pictures.dealer.com/r/robertshonda/0053/b063df914c448fa306c0adad0ebe75ebx.jpg"
       ],
       "description": "Is this 2023 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic - MY7 Onyx Edition Sport Utility available for $27481",
-      "scrapedAt": "2026-09-24T09:15:09.233Z"
+      "scrapedAt": "2026-09-25T09:34:41.130Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5613,7 +5585,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0721/8a27fb1926769f9a13ecb39eefd85992x.jpg"
       ],
       "description": "Is this 2024 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic - MG6 Premium Sport Utility available for $27989",
-      "scrapedAt": "2026-09-24T09:15:10.717Z"
+      "scrapedAt": "2026-09-25T09:34:41.114Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5642,7 +5614,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0695/454e8c298db028fe02faa8dafaa4bd2fx.jpg"
       ],
       "description": "Is this 2021 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Premium Sport Utility available for $21488",
-      "scrapedAt": "2026-09-24T09:15:12.377Z"
+      "scrapedAt": "2026-09-25T09:34:41.821Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5671,7 +5643,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0515/7d44d2ca17e7d04981532593b136863fx.jpg"
       ],
       "description": "Is this 2020 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic Premium Sport Utility available for $21988",
-      "scrapedAt": "2026-09-24T09:15:15.313Z"
+      "scrapedAt": "2026-09-25T09:34:41.149Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5700,7 +5672,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1507/179fd865ff6edc5bc77d69700809255cx.jpg"
       ],
       "description": "Is this 2025 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Autumn Green Metallic - AG1 Touring XT Sport Utility available for $36489",
-      "scrapedAt": "2026-09-24T09:15:16.415Z"
+      "scrapedAt": "2026-09-25T09:34:41.982Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5729,7 +5701,7 @@
         "https://pictures.dealer.com/r/robertshonda/0375/78bf60a3edf32649cd918787cebb7c55x.jpg"
       ],
       "description": "Is this 2023 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic Touring XT Sport Utility available for $31459",
-      "scrapedAt": "2026-09-24T09:15:15.561Z"
+      "scrapedAt": "2026-09-25T09:34:43.934Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5758,7 +5730,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1882/0020d892e974dbf29da31fc5e0278be8x.jpg"
       ],
       "description": "Is this 2022 Subaru WRX your perfect car? Contact Reedman Toll Chevrolet to see this WR Blue Pearl Premium Car available for $26988",
-      "scrapedAt": "2026-09-24T09:15:18.541Z"
+      "scrapedAt": "2026-09-25T09:34:48.696Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5787,36 +5759,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1860/c331b45e6aa9099eb5daf7d8dd78026ax.jpg"
       ],
       "description": "Is this 2021 Tesla Model 3 your perfect car? Contact Reedman Toll Chevrolet to see this Solid Black - Solb Standard Range Plus Rear-Wheel Drive Car available for $22989",
-      "scrapedAt": "2026-09-24T09:15:19.679Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Tesla/2023-Tesla-Model-Y-f1a5420eac185184d8a067b10bf199ee.htm",
-      "vin": "7SAYGDEE0PF805053",
-      "stockNumber": "2602462A-A",
-      "year": 2023,
-      "make": "Tesla",
-      "model": "Model Y",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 42424,
-      "exteriorColor": "Pearl White Multi-Coat - Ppsw",
-      "interiorColor": "Black",
-      "engine": "9.0 Axle Ratio",
-      "transmission": "Automatic",
-      "drivetrain": "AWD",
-      "fuelType": "Electric",
-      "fuelEconomyMpg": "122Details",
-      "salePrice": 30989,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/reedmantollautoworldcllc/0385/ab7a8e51b705830e30531515c7161b85x.jpg"
-      ],
-      "description": "Is this 2023 Tesla Model Y your perfect car? Contact Reedman Toll Chevrolet to see this Pearl White Multi-Coat - Ppsw AWD Sport Utility available for $30989",
-      "scrapedAt": "2026-09-24T09:15:22.251Z"
+      "scrapedAt": "2026-09-25T09:34:49.609Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5845,7 +5788,7 @@
         "https://pictures.dealer.com/r/robertshonda/1698/25c65e5a19496aad0f045a61e4d75d2fx.jpg"
       ],
       "description": "Is this 2024 Toyota Corolla your perfect car? Contact Reedman Toll Chevrolet to see this Celestite - 1K3 LE Car available for $21485",
-      "scrapedAt": "2026-09-24T09:15:23.712Z"
+      "scrapedAt": "2026-09-25T09:34:50.373Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5874,7 +5817,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0805/6d5470c1def843d87924faa21d19756ax.jpg"
       ],
       "description": "Is this 2023 Toyota Corolla your perfect car? Contact Reedman Toll Chevrolet to see this Classic Silver Metallic - 1F7 SE Car available for $22989",
-      "scrapedAt": "2026-09-24T09:15:26.070Z"
+      "scrapedAt": "2026-09-25T09:34:51.404Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5903,7 +5846,7 @@
         "https://pictures.dealer.com/r/robertshonda/1479/a5e41448f388d0918875edaaa4bd790bx.jpg"
       ],
       "description": "Is this 2025 Toyota Crown Signia your perfect car? Contact Reedman Toll Chevrolet to see this Bronze Age - 4Y6 Limited Sport Utility available for $45045",
-      "scrapedAt": "2026-09-24T09:15:25.286Z"
+      "scrapedAt": "2026-09-25T09:34:50.624Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5932,7 +5875,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0452/f4ba3ff494ef2071cb179342f69077ffx.jpg"
       ],
       "description": "Is this 2024 Toyota Grand Highlander your perfect car? Contact Reedman Toll Chevrolet to see this Ruby Flare Pearl - 3T3 XLE Sport Utility available for $44989",
-      "scrapedAt": "2026-09-24T09:15:27.371Z"
+      "scrapedAt": "2026-09-25T09:34:52.225Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5961,7 +5904,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1255/20400d8263adbe0773b4805ac62b482cx.jpg"
       ],
       "description": "Is this 2023 Toyota Highlander your perfect car? Contact Reedman Toll Chevrolet to see this Blueprint - 8X8 XLE Sport Utility available for $34489",
-      "scrapedAt": "2026-09-24T09:15:27.831Z"
+      "scrapedAt": "2026-09-25T09:34:56.920Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -5990,7 +5933,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0231/0b611cc36e90c9e495e934311a4c1ef2x.jpg"
       ],
       "description": "Is this 2024 Toyota RAV4 your perfect car? Contact Reedman Toll Chevrolet to see this Ice Cap - 040 XLE Sport Utility available for $32989",
-      "scrapedAt": "2026-09-24T09:15:30.969Z"
+      "scrapedAt": "2026-09-25T09:34:57.969Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6019,7 +5962,7 @@
         "https://pictures.dealer.com/r/robertshonda/0498/6a78e0109c6cbf521768ccf2fe6f232cx.jpg"
       ],
       "description": "Is this 2022 Toyota RAV4 your perfect car? Contact Reedman Toll Chevrolet to see this Silver Sky Metallic XLE Sport Utility available for $28267",
-      "scrapedAt": "2026-09-24T09:15:32.839Z"
+      "scrapedAt": "2026-09-25T09:34:58.878Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6048,7 +5991,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1159/ca628b1297d3bfd60cc4925c0c5205f6x.jpg"
       ],
       "description": "Is this 2025 Toyota Tacoma your perfect car? Contact Reedman Toll Chevrolet to see this Blue Crush Metallic - 8W7 SR5 Crew Cab Pickup available for $36489",
-      "scrapedAt": "2026-09-24T09:15:34.851Z"
+      "scrapedAt": "2026-09-25T09:34:58.051Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6077,7 +6020,7 @@
         "https://pictures.dealer.com/r/robertshonda/1293/daa65668b9b1f77ec9e9267ddeb22254x.jpg"
       ],
       "description": "Is this 2023 Toyota Tundra your perfect car? Contact Reedman Toll Chevrolet to see this Midnight Black Metallic SR5 Crew Cab Pickup available for $44478",
-      "scrapedAt": "2026-09-24T09:15:35.309Z"
+      "scrapedAt": "2026-09-25T09:34:58.764Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6106,7 +6049,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1352/53a22baa2eef31460efd6c7cc3d91213x.jpg"
       ],
       "description": "Is this 2024 Volkswagen Atlas your perfect car? Contact Reedman Toll Chevrolet to see this Pure White - 0Q0Q 2.0T Peak Edition SE w/Technology Sport Utility available for $33989",
-      "scrapedAt": "2026-09-24T09:15:36.047Z"
+      "scrapedAt": "2026-09-25T09:35:00.622Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6135,7 +6078,7 @@
         "https://pictures.dealer.com/r/robertshonda/0592/13266561bd577d7b37a966c983874ea0x.jpg"
       ],
       "description": "Is this 2018 Volkswagen Atlas your perfect car? Contact Reedman Toll Chevrolet to see this Pure White - 0Q0Q 3.6L V6 SE Sport Utility available for $17489",
-      "scrapedAt": "2026-09-24T09:15:36.269Z"
+      "scrapedAt": "2026-09-25T09:35:05.517Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6164,7 +6107,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/1416/31c244c621d15df325d2dc81ba73e0c7x.jpg"
       ],
       "description": "Is this 2025 Volkswagen Taos your perfect car? Contact Reedman Toll Chevrolet to see this Pure White 1.5T SE Sport Utility available for $21488",
-      "scrapedAt": "2026-09-24T09:15:38.436Z"
+      "scrapedAt": "2026-09-25T09:35:05.671Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6193,7 +6136,7 @@
         "https://images.dealer.com/autodata/us/color/2019/USC90CRC131C0/PAU.jpg"
       ],
       "description": "Is this 2019 Chrysler 300 your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat Limited Car available for $17979",
-      "scrapedAt": "2026-09-24T09:15:42.606Z"
+      "scrapedAt": "2026-09-25T09:35:06.853Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6222,7 +6165,7 @@
         "https://images.dealer.com/autodata/us/color/2019/USC90DOS012B0/PW7.jpg"
       ],
       "description": "Is this 2019 Dodge Durango your perfect car? Contact Reedman Toll Chevrolet to see this White Knuckle Clearcoat GT Plus AWD Sport Utility available for $20739",
-      "scrapedAt": "2026-09-24T09:15:43.861Z"
+      "scrapedAt": "2026-09-25T09:35:06.922Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6251,7 +6194,7 @@
         "https://images.dealer.com/autodata/us/color/2020/USD00DOS012A0/PAU.jpg"
       ],
       "description": "Is this 2020 Dodge Durango your perfect car? Contact Reedman Toll Chevrolet to see this Granite Clearcoat SXT Plus AWD Sport Utility available for $21979",
-      "scrapedAt": "2026-09-24T09:15:44.769Z"
+      "scrapedAt": "2026-09-25T09:35:07.431Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6280,7 +6223,7 @@
         "https://pictures.dealer.com/a/abingtoncdjramcllc/0067/27fd7015e95cd1844252f4e1123f5c65x.jpg"
       ],
       "description": "Is this 2025 Honda CR-V Hybrid your perfect car? Contact Reedman Toll Chevrolet to see this Canyon River Blue Metallic - BU Sport-L Sport Utility available for $35486",
-      "scrapedAt": "2026-09-24T09:15:44.597Z"
+      "scrapedAt": "2026-09-25T09:35:07.955Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6309,7 +6252,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto/2013/USC30HOC081A1.jpg"
       ],
       "description": "Is this 2013 Honda Fit your perfect car? Contact Reedman Toll Chevrolet to see this Vortex Blue Pearl [Blue] Car available for $7488",
-      "scrapedAt": "2026-09-24T09:15:45.343Z"
+      "scrapedAt": "2026-09-25T09:35:12.977Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6338,7 +6281,36 @@
         "https://pictures.dealer.com/r/robertshonda/0490/4c4dfce92ab7d200e1bb00fb3a8fa876x.jpg"
       ],
       "description": "Is this 2020 Honda Odyssey your perfect car? Contact Reedman Toll Chevrolet to see this Lunar Silver Metallic EX-L Mini-van, Passenger available for $30785",
-      "scrapedAt": "2026-09-24T09:15:46.551Z"
+      "scrapedAt": "2026-09-25T09:35:15.184Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2024-Honda-Pilot-a6863d34ac1812be80b66b4f01dbc982.htm",
+      "vin": "5FNYG1H46RB047270",
+      "stockNumber": "260234A-C",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 20474,
+      "exteriorColor": "Crystal Black Pearl - BK",
+      "interiorColor": "Black - BK",
+      "engine": "3.5L V-6 direct injection, DOHC, i-VTEC (w/VTC) variable valve control, regular gasoline, engine wit",
+      "transmission": "10-Speed A/T",
+      "drivetrain": "AWD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 38478,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/a/abingtoncdjramcllc/0179/367c4af60bb04e72e22ecb716038b5c6x.jpg"
+      ],
+      "description": "Is this 2024 Honda Pilot your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Pearl - BK EX-L Sport Utility available for $38478",
+      "scrapedAt": "2026-09-25T09:35:15.355Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6367,7 +6339,7 @@
         "https://images.dealer.com/autodata/us/color/2022/USD20JES152E0/PAU.jpg"
       ],
       "description": "Is this 2022 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat Latitude Lux 4x4 Sport Utility available for $20479",
-      "scrapedAt": "2026-09-24T09:15:50.695Z"
+      "scrapedAt": "2026-09-25T09:35:15.433Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6396,7 +6368,7 @@
         "https://images.dealer.com/autodata/us/color/2019/USC90JES152A0/PF2.jpg"
       ],
       "description": "Is this 2019 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Spitfire Orange Clearcoat Sport 4x4 Sport Utility available for $16979",
-      "scrapedAt": "2026-09-24T09:15:51.712Z"
+      "scrapedAt": "2026-09-25T09:35:16.592Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6425,7 +6397,7 @@
         "https://images.dealer.com/autodata/us/color/2020/USD00JES052B0/PXJ.jpg"
       ],
       "description": "Is this 2020 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat Limited 4x4 Sport Utility available for $23479",
-      "scrapedAt": "2026-09-24T09:15:52.695Z"
+      "scrapedAt": "2026-09-25T09:35:16.187Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6454,7 +6426,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2018/USC80JES052B0/PSC.jpg"
       ],
       "description": "Is this 2018 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Billet Silver Metallic Clearcoat Limited 4x4 Sport Utility available for $17979",
-      "scrapedAt": "2026-09-24T09:15:54.508Z"
+      "scrapedAt": "2026-09-25T09:35:20.448Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6483,7 +6455,7 @@
         "https://images.dealer.com/ddc/vehicles/2023/Lexus/GX%20460/SUV/trim_Base_427061/color/Eminent%20White%20Pearl-085-226%2C225%2C222-640-en_US.jpg"
       ],
       "description": "Is this 2023 LEXUS GX 460 your perfect car? Contact Reedman Toll Chevrolet to see this Eminent White Pearl Premium Sport Utility available for $53666",
-      "scrapedAt": "2026-09-24T09:15:54.162Z"
+      "scrapedAt": "2026-09-25T09:35:23.745Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6512,7 +6484,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto/2024/USD40LES252A0.jpg"
       ],
       "description": "Is this 2024 LEXUS NX 350 your perfect car? Contact Reedman Toll Chevrolet to see this Eminent White Pearl Sport Utility available for $44390",
-      "scrapedAt": "2026-09-24T09:15:55.053Z"
+      "scrapedAt": "2026-09-25T09:35:23.015Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6541,7 +6513,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto/2024/USD40NIC042B0.jpg"
       ],
       "description": "Is this 2024 Nissan Altima your perfect car? Contact Reedman Toll Chevrolet to see this Deep Blue Pearl SR Intelligent AWD Car available for $24428",
-      "scrapedAt": "2026-09-24T09:15:58.533Z"
+      "scrapedAt": "2026-09-25T09:35:23.457Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6570,7 +6542,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2015/USC50NIS112D0/KH3.jpg"
       ],
       "description": "Is this 2015 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Super Black S Sport Utility available for $10789",
-      "scrapedAt": "2026-09-24T09:15:59.407Z"
+      "scrapedAt": "2026-09-25T09:35:24.225Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6599,7 +6571,65 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30NIC061B0/K23.jpg"
       ],
       "description": "Is this 2023 Nissan Sentra your perfect car? Contact Reedman Toll Chevrolet to see this Brilliant Silver Metallic SV Xtronic CVT Car available for $21486",
-      "scrapedAt": "2026-09-24T09:16:01.614Z"
+      "scrapedAt": "2026-09-25T09:35:23.913Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Ram/2015-Ram-1500-a5e4bb1eac1849e6c966ea6fccee4a0e.htm",
+      "vin": "3C6RR7LT0FG598761",
+      "stockNumber": "2600181A-D",
+      "year": 2015,
+      "make": "Ram",
+      "model": "1500",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 124758,
+      "exteriorColor": "Deep Cherry Red Crystal Pearlcoat",
+      "interiorColor": "Diesel Gray/Black",
+      "engine": "HEMI 5.7L V-8 variable valve control, regular unleaded, engine with cylinder deactivation and 395HP",
+      "transmission": "Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 15979,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/autodata/us/large_stockphoto-color/2015/USC50RMT11CB0/PRP.jpg"
+      ],
+      "description": "Is this 2015 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Deep Cherry Red Crystal Pearlcoat Big Horn Crew Cab Pickup available for $15979",
+      "scrapedAt": "2026-09-25T09:35:27.443Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2021-Subaru-Forester-a2e0b23aac1817c99dfd0f5c1172ff96.htm",
+      "vin": "JF2SKAUC4MH495762",
+      "stockNumber": "260713A-E",
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 52490,
+      "exteriorColor": "Jasper Green Metallic",
+      "interiorColor": "Gray",
+      "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
+      "transmission": "Automatic",
+      "drivetrain": "Other",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 23488,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/ddc/vehicles/2021/Subaru/Forester/SUV/trim_Limited_0a2f50/color/Jasper%20Green%20Metallic-JGN-131%2C148%2C131-640-en_US.jpg"
+      ],
+      "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Jasper Green Metallic Limited Sport Utility available for $23488",
+      "scrapedAt": "2026-09-25T09:35:32.361Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6628,7 +6658,7 @@
         "https://images.dealer.com/ddc/vehicles/2026/Subaru/Forester/SUV/trim_Premium_1e7a70/color/Autumn%20Green%20Metallic-AG1-90%2C88%2C63-640-en_US.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Autumn Green Metallic Premium Sport Utility available for $34390",
-      "scrapedAt": "2026-09-24T09:16:03.818Z"
+      "scrapedAt": "2026-09-25T09:35:31.279Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6657,7 +6687,7 @@
         "https://images.dealer.com/ddc/vehicles/2026/Subaru/Forester/SUV/trim_Sport_370c6b/color/Crystal%20Black%20Silica-CB7-10%2C12%2C12-640-en_US.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Silica Sport Sport Utility available for $37390",
-      "scrapedAt": "2026-09-24T09:16:04.564Z"
+      "scrapedAt": "2026-09-25T09:35:32.134Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6686,7 +6716,7 @@
         "https://images.dealer.com/ddc/vehicles/2026/Subaru/Forester/SUV/trim_Sport_370c6b/color/Crystal%20White%20Pearl-WH7-239%2C239%2C232-640-en_US.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Sport Sport Utility available for $37390",
-      "scrapedAt": "2026-09-24T09:16:04.004Z"
+      "scrapedAt": "2026-09-25T09:35:31.517Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6715,7 +6745,36 @@
         "https://images.dealer.com/ddc/vehicles/2026/Subaru/Forester/SUV/trim_Touring_8e2492/color/Crystal%20Black%20Silica-CB8-41%2C41%2C39-640-en_US.jpg"
       ],
       "description": "Is this 2026 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Silica Touring Sport Utility available for $40390",
-      "scrapedAt": "2026-09-24T09:16:06.531Z"
+      "scrapedAt": "2026-09-25T09:35:32.281Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2019-Subaru-Outback-a5e2d37cac180452357e7dbbbf48921f.htm",
+      "vin": "4S4BSAFC2K3203124",
+      "stockNumber": "260513A-E",
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 93030,
+      "exteriorColor": "Tungsten Metallic",
+      "interiorColor": "Warm Ivory",
+      "engine": "2.5L H-4 DOHC, variable valve control, regular gasoline, engine with 175HP",
+      "transmission": "Automatic",
+      "drivetrain": "Other",
+      "fuelType": "Regular unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 15987,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://pictures.dealer.com/s/subaruextonsoa/1220/5e4ea851a6bb0bf769b1bf3646ff2311x.jpg"
+      ],
+      "description": "Is this 2019 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Tungsten Metallic 2.5i Premium Sport Utility available for $15987",
+      "scrapedAt": "2026-09-25T09:35:36.241Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6744,7 +6803,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0855/997072d08cdcb653eb2b266f5cddbc44x.jpg"
       ],
       "description": "Is this 2021 CADILLAC XT5 your perfect car? Contact Reedman Toll Chevrolet to see this Dark Moon Blue Metallic AWD Premium Luxury SUV available for $29479",
-      "scrapedAt": "2026-09-24T09:16:07.091Z"
+      "scrapedAt": "2026-09-25T09:35:38.803Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6773,7 +6832,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2017/USC70DOS041A0/PSC.jpg"
       ],
       "description": "Is this 2017 Dodge Journey your perfect car? Contact Reedman Toll Chevrolet to see this Billet Clearcoat SE Sport Utility available for $12390",
-      "scrapedAt": "2026-09-24T09:16:10.111Z"
+      "scrapedAt": "2026-09-25T09:35:40.869Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6802,36 +6861,7 @@
         "https://images.dealer.com/autodata/us/color/2021/USD10FOS302B0/HX.jpg"
       ],
       "description": "Is this 2021 Ford Expedition your perfect car? Contact Reedman Toll Chevrolet to see this Antimatter Blue XLT Sport Utility available for $40390",
-      "scrapedAt": "2026-09-24T09:16:11.271Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Ford/2022-Ford-Explorer-a2e10213ac184088ef41bc97ebbab503.htm",
-      "vin": "1FMSK8DH4NGB41116",
-      "stockNumber": "2601778A-A",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Explorer",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 81505,
-      "exteriorColor": "Carbonized Gray",
-      "interiorColor": "Ebony",
-      "engine": "EcoBoost 2.3L I-4 direct injection, DOHC, variable valve control, intercooled turbo, premium gasolin",
-      "transmission": "10-Speed A/T",
-      "drivetrain": "4WD",
-      "fuelType": "Premium unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 26390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/color/2022/USD20FOS102B0/M7.jpg"
-      ],
-      "description": "Is this 2022 Ford Explorer your perfect car? Contact Reedman Toll Chevrolet to see this Carbonized Gray XLT Sport Utility available for $26390",
-      "scrapedAt": "2026-09-24T09:16:12.076Z"
+      "scrapedAt": "2026-09-25T09:35:41.204Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6860,7 +6890,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2018/USC80FOS102B0/G1.jpg"
       ],
       "description": "Is this 2018 Ford Explorer your perfect car? Contact Reedman Toll Chevrolet to see this Shadow Black XLT Sport Utility available for $21390",
-      "scrapedAt": "2026-09-24T09:16:14.406Z"
+      "scrapedAt": "2026-09-25T09:35:39.722Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6889,7 +6919,36 @@
         "https://images.dealer.com/ddc/vehicles/2024/Honda/Accord%20Hybrid/Sedan/trim_SportL_7b35d6/color/Radiant%20Red%20Metallic-RL-148%2C24%2C29-640-en_US.jpg"
       ],
       "description": "Is this 2024 Honda Accord Hybrid your perfect car? Contact Reedman Toll Chevrolet to see this Radiant Red Metallic Sport-L Car available for $30485",
-      "scrapedAt": "2026-09-24T09:16:13.964Z"
+      "scrapedAt": "2026-09-25T09:35:40.597Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2023-Honda-Odyssey-d13a1a40ac183e1692c7be5963ab1991.htm",
+      "vin": "5FNRL6H86PB033463",
+      "stockNumber": "2700008A-A",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 71961,
+      "exteriorColor": "Modern Steel Metallic",
+      "interiorColor": "Black",
+      "engine": "3.5L V-6 direct injection, i-VTEC variable valve control, regular gasoline, engine with cylinder dea",
+      "transmission": "10-Speed A/T",
+      "drivetrain": "FWD",
+      "fuelType": "Regular gasoline",
+      "fuelEconomyMpg": null,
+      "salePrice": 35390,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/ddc/vehicles/2023/Honda/Odyssey/Van/trim_Touring_9f85f9/color/Modern%20Steel%20Metallic-GX-64%2C62%2C63-640-en_US.jpg"
+      ],
+      "description": "Is this 2023 Honda Odyssey your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic Touring Mini-van, Passenger available for $35390",
+      "scrapedAt": "2026-09-25T09:35:42.883Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6918,7 +6977,7 @@
         "https://images.dealer.com/ddc/vehicles/2023/Hyundai/Elantra/Sedan/trim_SEL_535c99/color/Phantom%20Black-S3B-23%2C22%2C23-640-en_US.jpg"
       ],
       "description": "Is this 2023 Hyundai Elantra your perfect car? Contact Reedman Toll Chevrolet to see this Phantom Black SEL Car available for $22390",
-      "scrapedAt": "2026-09-24T09:16:16.211Z"
+      "scrapedAt": "2026-09-25T09:35:46.257Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6947,7 +7006,36 @@
         "https://images.dealer.com/ddc/vehicles/2017/Hyundai/Tucson/SUV/trim_SE_f14479/color/Dazzling%20White-PDW-250%2C250%2C250-640-en_US.jpg"
       ],
       "description": "Is this 2017 Hyundai Tucson your perfect car? Contact Reedman Toll Chevrolet to see this Dazzling White SE Sport Utility available for $18390",
-      "scrapedAt": "2026-09-24T09:16:19.203Z"
+      "scrapedAt": "2026-09-25T09:35:47.072Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Jeep/2021-Jeep-Cherokee-d43d0d13ac18317c333ce9bd21136fdf.htm",
+      "vin": "1C4PJMMX3MD186674",
+      "stockNumber": "2601569A-A",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 106407,
+      "exteriorColor": "Granite Crystal Metallic Clearcoat",
+      "interiorColor": "Black",
+      "engine": "Pentastar 3.2L V-6 DOHC, regular gasoline, engine with 271HP",
+      "transmission": "Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Regular gasoline",
+      "fuelEconomyMpg": null,
+      "salePrice": 16390,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/autodata/us/color/2021/USD10JES042C0/PAU.jpg"
+      ],
+      "description": "Is this 2021 Jeep Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat Latitude Lux 4x4 Sport Utility available for $16390",
+      "scrapedAt": "2026-09-25T09:35:49.296Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -6976,7 +7064,7 @@
         "https://images.dealer.com/autodata/us/color/2021/USD10JES042D0/PBF.jpg"
       ],
       "description": "Is this 2021 Jeep Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Slate Blue Pearlcoat Limited Sport Utility available for $21390",
-      "scrapedAt": "2026-09-24T09:16:19.235Z"
+      "scrapedAt": "2026-09-25T09:35:48.252Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7005,7 +7093,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2016/USC60JES152A0/PRP.jpg"
       ],
       "description": "Is this 2016 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Deep Cherry Red Crystal Pearlcoat Sport Sport Utility available for $12390",
-      "scrapedAt": "2026-09-24T09:16:20.646Z"
+      "scrapedAt": "2026-09-25T09:35:48.627Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7034,36 +7122,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/0528/e6a9c8eda46cf78ca8bd2bb10bf7e8eax.jpg"
       ],
       "description": "Is this 2023 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Baltic Gray Metallic Clearcoat - PAS Altitude 4x4 Sport Utility available for $36489",
-      "scrapedAt": "2026-09-24T09:16:24.210Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Jeep/2023-Jeep-Grand-Cherokee-bfa24bc7ac183203d1d9fe25f1d84009.htm",
-      "vin": "1C4RJHAG4PC513548",
-      "stockNumber": "260244A-C",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 20392,
-      "exteriorColor": "Bright White Clearcoat",
-      "interiorColor": "Global Black",
-      "engine": "Pentastar 3.6L V-6 DOHC, variable valve control, regular gasoline, engine with 293HP",
-      "transmission": "Automatic",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 32278,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/color/2023/USD30JES052A0/PW7.jpg"
-      ],
-      "description": "Is this 2023 Jeep Grand Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat Altitude 4x4 Sport Utility available for $32278",
-      "scrapedAt": "2026-09-24T09:16:24.248Z"
+      "scrapedAt": "2026-09-25T09:35:52.077Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7092,7 +7151,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1102/1e81e1595b55a194c8c3a9a488ab450fx.jpg"
       ],
       "description": "Is this 2023 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Silver Zynith - PSE Limited 4x4 Sport Utility available for $36390",
-      "scrapedAt": "2026-09-24T09:16:24.647Z"
+      "scrapedAt": "2026-09-25T09:35:53.898Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7121,7 +7180,7 @@
         "https://images.dealer.com/ddc/vehicles/2018/Jeep/Wrangler%20Unlimited/SUV/trim_Rubicon_89139d/color/Black%20Clearcoat-PX8-14%2C14%2C15-640-en_US.jpg"
       ],
       "description": "Is this 2018 Jeep Wrangler Unlimited your perfect car? Contact Reedman Toll Chevrolet to see this Black Clearcoat Rubicon 4x4 Sport Utility available for $31390",
-      "scrapedAt": "2026-09-24T09:16:26.909Z"
+      "scrapedAt": "2026-09-25T09:35:56.552Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7150,36 +7209,7 @@
         "https://images.dealer.com/ddc/vehicles/2021/Jeep/Wrangler%20Unlimited/SUV/trim_Sport_0229ef/color/Granite%20Crystal%20Metallic%20Clearcoat-PAU-63%2C69%2C58-640-en_US.jpg"
       ],
       "description": "Is this 2021 Jeep Wrangler Unlimited your perfect car? Contact Reedman Toll Chevrolet to see this Granite Crystal Metallic Clearcoat Sport Altitude 4x4 Sport Utility available for $29390",
-      "scrapedAt": "2026-09-24T09:16:27.629Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Mazda/2023-Mazda-CX-30-782d0888ac1806568f439d176fa8e9b6.htm",
-      "vin": "3MVDMBBM7PM578362",
-      "stockNumber": "270034A-R",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-30",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 54096,
-      "exteriorColor": "Jet Black Mica - 41W",
-      "interiorColor": "Black - D2W",
-      "engine": "SKYACTIV-G 2.5L I-4 direct injection, DOHC, variable valve control, regular gasoline, engine with cy",
-      "transmission": "6-Speed A/T",
-      "drivetrain": "AWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 24485,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://pictures.dealer.com/r/robertshonda/0181/49e98a2d4ea90b971641046ffa244b7ex.jpg"
-      ],
-      "description": "Is this 2023 Mazda CX-30 your perfect car? Contact Reedman Toll Chevrolet to see this Jet Black Mica - 41W 2.5 S Select Sport Utility available for $24485",
-      "scrapedAt": "2026-09-24T09:16:30.205Z"
+      "scrapedAt": "2026-09-25T09:35:55.929Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7208,7 +7238,7 @@
         "https://images.dealer.com/autodata/us/color/2025/USD50RMT11CC0/PSC.jpg"
       ],
       "description": "Is this 2025 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Billet Silver Metallic Clearcoat Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $42390",
-      "scrapedAt": "2026-09-24T09:16:32.173Z"
+      "scrapedAt": "2026-09-25T09:35:57.266Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7237,7 +7267,7 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30RMT11CC0/PPX.jpg"
       ],
       "description": "Is this 2023 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Patriot Blue Pearlcoat Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $38390",
-      "scrapedAt": "2026-09-24T09:16:32.641Z"
+      "scrapedAt": "2026-09-25T09:35:55.830Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7250,7 +7280,7 @@
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 51997,
+      "mileage": 52013,
       "exteriorColor": "Patriot Blue Pearlcoat",
       "interiorColor": "Diesel Gray/Black",
       "engine": "HEMI 5.7L V-8 variable valve control, regular gasoline, engine with cylinder deactivation and 395HP",
@@ -7266,7 +7296,7 @@
         "https://images.dealer.com/autodata/us/color/2020/USD00RMT11CC0/PPX.jpg"
       ],
       "description": "Is this 2020 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Patriot Blue Pearlcoat Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $33390",
-      "scrapedAt": "2026-09-24T09:16:33.870Z"
+      "scrapedAt": "2026-09-25T09:36:00.877Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7279,7 +7309,7 @@
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 10722,
+      "mileage": 10751,
       "exteriorColor": "Sapphire Blue Pearl",
       "interiorColor": "Black w/Orange Stitching",
       "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
@@ -7295,7 +7325,7 @@
         "https://images.dealer.com/ddc/vehicles/2024/Subaru/Crosstrek/SUV/trim_Limited_6bdd8d/color/Sapphire%20Blue%20Pearl-SP2-0%2C22%2C72-640-en_US.jpg"
       ],
       "description": "Is this 2024 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Sapphire Blue Pearl Limited Sport Utility available for $31390",
-      "scrapedAt": "2026-09-24T09:16:36.804Z"
+      "scrapedAt": "2026-09-25T09:36:00.503Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7324,7 +7354,7 @@
         "https://images.dealer.com/ddc/vehicles/2024/Subaru/Crosstrek/SUV/trim_Limited_6bdd8d/color/Crystal%20White%20Pearl-W3P-239%2C239%2C232-640-en_US.jpg"
       ],
       "description": "Is this 2024 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Limited Sport Utility available for $28390",
-      "scrapedAt": "2026-09-24T09:16:37.077Z"
+      "scrapedAt": "2026-09-25T09:36:04.298Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7353,7 +7383,7 @@
         "https://pictures.dealer.com/r/reedmantollautoworldcllc/1970/c8a5bb1bfd9d46cc9f01ef252a87c269x.jpg"
       ],
       "description": "Is this 2024 Subaru Crosstrek your perfect car? Contact Reedman Toll Chevrolet to see this Crystal Black Silica - CB4 Sport Utility available for $27390",
-      "scrapedAt": "2026-09-24T09:16:37.792Z"
+      "scrapedAt": "2026-09-25T09:36:05.233Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7366,7 +7396,7 @@
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 35615,
+      "mileage": 35616,
       "exteriorColor": "Crystal White Pearl",
       "interiorColor": "Gray",
       "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
@@ -7382,7 +7412,7 @@
         "https://images.dealer.com/ddc/vehicles/2021/Subaru/Forester/SUV/trim_Premium_e40e4a/color/Crystal%20White%20Pearl-WH6-225%2C226%2C221-640-en_US.jpg"
       ],
       "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Premium Sport Utility available for $26390",
-      "scrapedAt": "2026-09-24T09:16:41.279Z"
+      "scrapedAt": "2026-09-25T09:36:03.588Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7411,7 +7441,7 @@
         "https://images.dealer.com/ddc/vehicles/2022/Subaru/Impreza/Hatchback/trim_Premium_77b7c5/color/Ice%20Silver%20Metallic-ISM-191%2C195%2C196-640-en_US.jpg"
       ],
       "description": "Is this 2022 Subaru Impreza your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic Premium 5-Door Car available for $24390",
-      "scrapedAt": "2026-09-24T09:16:41.551Z"
+      "scrapedAt": "2026-09-25T09:36:04.713Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7424,7 +7454,7 @@
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 18861,
+      "mileage": 18863,
       "exteriorColor": "Magnetite Gray Metallic",
       "interiorColor": "Black",
       "engine": "2L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 152HP",
@@ -7440,65 +7470,7 @@
         "https://images.dealer.com/ddc/vehicles/2025/Subaru/Impreza/Hatchback/trim_Sport_b53745/color/Magnetite%20Gray%20Metallic-MGM-54%2C56%2C58-640-en_US.jpg"
       ],
       "description": "Is this 2025 Subaru Impreza your perfect car? Contact Reedman Toll Chevrolet to see this Magnetite Gray Metallic Sport 5-Door Car available for $28390",
-      "scrapedAt": "2026-09-24T09:16:42.701Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2025-Subaru-Outback-a2e10351ac185bc6fc1af9b51e181a6a.htm",
-      "vin": "4S4BTAFCXS3245828",
-      "stockNumber": "2602501A-A",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Outback",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 37639,
-      "exteriorColor": "Crystal White Pearl",
-      "interiorColor": "Slate Black",
-      "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
-      "transmission": "CVT Transmission",
-      "drivetrain": "AWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 32390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/ddc/vehicles/2025/Subaru/Outback/SUV/trim_Premium_d0369e/color/Crystal%20White%20Pearl-W2P-239%2C239%2C232-640-en_US.jpg"
-      ],
-      "description": "Is this 2025 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Premium Sport Utility available for $32390",
-      "scrapedAt": "2026-09-24T09:16:45.352Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Ford/2024-Ford-F-150-8e478973ac181ba235d0c042ac44b9b6.htm",
-      "vin": "1FTEX3LP8RKF62600",
-      "stockNumber": "2600655A-A",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 8083,
-      "exteriorColor": "Oxford White",
-      "interiorColor": "Black w/Medium Dark Slate",
-      "engine": "EcoBoost 2.7L V-6 port/direct injection, DOHC, Ti-VCT variable valve control, twin turbo, regular ga",
-      "transmission": "10-Speed A/T",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 47390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/large_stockphoto/2024/USD40FOT116C0.jpg"
-      ],
-      "description": "Is this 2024 Ford F-150 your perfect car? Contact Reedman Toll Chevrolet to see this Oxford White XLT Extended Cab Pickup available for $47390",
-      "scrapedAt": "2026-09-24T09:16:44.696Z"
+      "scrapedAt": "2026-09-25T09:36:07.749Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7527,7 +7499,7 @@
         "https://images.dealer.com/autodata/us/color/2024/USD40RMT11CC0/PXJ.jpg"
       ],
       "description": "Is this 2024 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $45390",
-      "scrapedAt": "2026-09-24T09:16:45.852Z"
+      "scrapedAt": "2026-09-25T09:36:07.404Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7556,7 +7528,7 @@
         "https://images.dealer.com/ddc/vehicles/2023/Subaru/Outback/SUV/trim_Onyx_Edition_XT_cfd6d0/color/Ice%20Silver%20Metallic-IS7-191%2C195%2C196-640-en_US.jpg"
       ],
       "description": "Is this 2023 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Ice Silver Metallic Onyx Edition XT Sport Utility available for $33390",
-      "scrapedAt": "2026-09-24T09:16:49.652Z"
+      "scrapedAt": "2026-09-25T09:36:11.002Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7585,7 +7557,7 @@
         "https://pictures.dealer.com/s/subaruextonsoa/0150/f0fb269af5df85f2c5885b96290ca0cax.jpg"
       ],
       "description": "Is this 2016 Toyota Highlander your perfect car? Contact Reedman Toll Chevrolet to see this Blizzard Pearl LE V6 Sport Utility available for $11488",
-      "scrapedAt": "2026-09-24T09:16:50.285Z"
+      "scrapedAt": "2026-09-25T09:36:12.787Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7614,7 +7586,7 @@
         "https://images.dealer.com/autodata/us/color/2021/USD10DOC202A0/PAE.jpg"
       ],
       "description": "Is this 2021 Dodge Charger your perfect car? Contact Reedman Toll Chevrolet to see this Smoke Show SXT AWD Car available for $21390",
-      "scrapedAt": "2026-09-24T09:16:50.929Z"
+      "scrapedAt": "2026-09-25T09:36:14.262Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7643,7 +7615,7 @@
         "https://images.dealer.com/autodata/us/color/2021/USD10DOS012B0/PXJ.jpg"
       ],
       "description": "Is this 2021 Dodge Durango your perfect car? Contact Reedman Toll Chevrolet to see this DB Black Clearcoat GT Plus AWD Sport Utility available for $31390",
-      "scrapedAt": "2026-09-24T09:16:52.589Z"
+      "scrapedAt": "2026-09-25T09:36:13.446Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7672,7 +7644,36 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2016/USC60FOS152B0/UX.jpg"
       ],
       "description": "Is this 2016 Ford Edge your perfect car? Contact Reedman Toll Chevrolet to see this Ingot Silver SEL Sport Utility available for $16390",
-      "scrapedAt": "2026-09-24T09:16:55.204Z"
+      "scrapedAt": "2026-09-25T09:36:15.482Z"
+    },
+    {
+      "dealerId": "reedman-toll-chevy",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Ford/2022-Ford-Explorer-a2e10213ac184088ef41bc97ebbab503.htm",
+      "vin": "1FMSK8DH4NGB41116",
+      "stockNumber": "2601778A-A",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Explorer",
+      "trim": null,
+      "bodyStyle": null,
+      "condition": "Used",
+      "mileage": 81524,
+      "exteriorColor": "Carbonized Gray",
+      "interiorColor": "Ebony",
+      "engine": "EcoBoost 2.3L I-4 direct injection, DOHC, variable valve control, intercooled turbo, premium gasolin",
+      "transmission": "10-Speed A/T",
+      "drivetrain": "4WD",
+      "fuelType": "Premium unleaded",
+      "fuelEconomyMpg": null,
+      "salePrice": 26390,
+      "marketValuePrice": null,
+      "availability": "https://schema.org/InStock",
+      "photoCount": 1,
+      "photos": [
+        "https://images.dealer.com/autodata/us/color/2022/USD20FOS102B0/M7.jpg"
+      ],
+      "description": "Is this 2022 Ford Explorer your perfect car? Contact Reedman Toll Chevrolet to see this Carbonized Gray XLT Sport Utility available for $26390",
+      "scrapedAt": "2026-09-25T09:36:15.502Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7701,7 +7702,7 @@
         "https://images.dealer.com/autodata/us/color/2024/USD40GMT209F0/G1W.jpg"
       ],
       "description": "Is this 2024 GMC Sierra 2500HD your perfect car? Contact Reedman Toll Chevrolet to see this White Frost Tricoat 4WD Crew Cab Standard Bed Denali Crew Cab Pickup available for $69390",
-      "scrapedAt": "2026-09-24T09:16:53.060Z"
+      "scrapedAt": "2026-09-25T09:36:18.731Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7730,7 +7731,7 @@
         "https://images.dealer.com/ddc/vehicles/2014/Honda/CR-V/SUV/trim_EXL_9512d8/still/front-left/front-left-640-en_US.jpg"
       ],
       "description": "Is this 2014 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this EX-L Sport Utility available for $19480",
-      "scrapedAt": "2026-09-24T09:16:58.795Z"
+      "scrapedAt": "2026-09-25T09:36:20.141Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7759,7 +7760,7 @@
         "https://images.dealer.com/ddc/vehicles/2014/Honda/CR-V/SUV/trim_EXL_9512d8/color/Polished%20Metal%20Metallic-GX-74%2C78%2C79-640-en_US.jpg"
       ],
       "description": "Is this 2014 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Polished Metal Metallic EX-L Sport Utility available for $16390",
-      "scrapedAt": "2026-09-24T09:16:58.897Z"
+      "scrapedAt": "2026-09-25T09:36:20.600Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7788,7 +7789,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0845/22c1affb50536b08cdb980d8edfcfcc8x.jpg"
       ],
       "description": "Is this 2017 Honda HR-V your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic [Gray] LX SUV available for $20479",
-      "scrapedAt": "2026-09-24T09:16:58.904Z"
+      "scrapedAt": "2026-09-25T09:36:21.790Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7817,7 +7818,7 @@
         "https://images.dealer.com/ddc/vehicles/2016/Jeep/Cherokee/SUV/trim_Limited_5e58f7/color/Deep%20Cherry%20Red%20Crystal%20Pearlcoat-PRP-76%2C0%2C12-640-en_US.jpg"
       ],
       "description": "Is this 2016 Jeep Cherokee your perfect car? Contact Reedman Toll Chevrolet to see this Deep Cherry Red Crystal Pearlcoat Limited Sport Utility available for $14390",
-      "scrapedAt": "2026-09-24T09:17:00.420Z"
+      "scrapedAt": "2026-09-25T09:36:23.209Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7846,7 +7847,7 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30JES242B0/PXJ.jpg"
       ],
       "description": "Is this 2023 Jeep Grand Cherokee L your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat Limited 4x4 Sport Utility available for $35390",
-      "scrapedAt": "2026-09-24T09:17:01.128Z"
+      "scrapedAt": "2026-09-25T09:36:23.955Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7875,7 +7876,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2015/USC50JES142A0/PBU.jpg"
       ],
       "description": "Is this 2015 Jeep Patriot your perfect car? Contact Reedman Toll Chevrolet to see this True Blue Pearlcoat Sport Sport Utility available for $14390",
-      "scrapedAt": "2026-09-24T09:17:04.095Z"
+      "scrapedAt": "2026-09-25T09:36:25.307Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7904,7 +7905,7 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30JES012A0/PX8.jpg"
       ],
       "description": "Is this 2023 Jeep Wrangler your perfect car? Contact Reedman Toll Chevrolet to see this Black Clearcoat 4-Door Sport S 4x4 Sport Utility available for $31390",
-      "scrapedAt": "2026-09-24T09:17:06.782Z"
+      "scrapedAt": "2026-09-25T09:36:27.792Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7933,7 +7934,7 @@
         "https://images.dealer.com/autodata/us/color/2023/USD30MIS082C0/X42.jpg"
       ],
       "description": "Is this 2023 Mitsubishi Eclipse Cross your perfect car? Contact Reedman Toll Chevrolet to see this Labrador Black Pearl SE S-AWC available for $22586",
-      "scrapedAt": "2026-09-24T09:17:07.638Z"
+      "scrapedAt": "2026-09-25T09:36:28.585Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7962,7 +7963,7 @@
         "https://images.dealer.com/ddc/vehicles/2020/Nissan/Rogue/SUV/trim_S_4a54bb/color/Magnetic%20Black%20Pearl-G41-29%2C32%2C32-640-en_US.jpg"
       ],
       "description": "Is this 2020 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Magnetic Black Pearl S Intelligent AWD Sport Utility available for $20390",
-      "scrapedAt": "2026-09-24T09:17:07.393Z"
+      "scrapedAt": "2026-09-25T09:36:29.714Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -7991,36 +7992,7 @@
         "https://images.dealer.com/autodata/us/color/2025/USD50RMT11CC0/PW7.jpg"
       ],
       "description": "Is this 2025 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Clearcoat Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $43390",
-      "scrapedAt": "2026-09-24T09:17:07.486Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Ram/2022-Ram-1500-74879311ac184bccd6d58c5bb042050c.htm",
-      "vin": "1C6SRFFT4NN214316",
-      "stockNumber": "2602285A-A",
-      "year": 2022,
-      "make": "Ram",
-      "model": "1500",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 44014,
-      "exteriorColor": "Diamond Black Crystal Pearlcoat",
-      "interiorColor": "Black",
-      "engine": "HEMI 5.7L V-8 variable valve control, regular gasoline, engine with cylinder deactivation and 395HP",
-      "transmission": "8-Speed A/T",
-      "drivetrain": "4WD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 38390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/autodata/us/color/2022/USD20RMT11CC0/PXJ.jpg"
-      ],
-      "description": "Is this 2022 Ram 1500 your perfect car? Contact Reedman Toll Chevrolet to see this Diamond Black Crystal Pearlcoat Big Horn Crew Cab 4x4 57 Box Crew Cab Pickup available for $38390",
-      "scrapedAt": "2026-09-24T09:17:08.947Z"
+      "scrapedAt": "2026-09-25T09:36:30.821Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -8049,94 +8021,36 @@
         "https://images.dealer.com/autodata/us/color/2022/USD20RMV062A0/PW7.jpg"
       ],
       "description": "Is this 2022 Ram Promaster City your perfect car? Contact Reedman Toll Chevrolet to see this Bright White Cargo Van Full-size Passenger Van available for $24390",
-      "scrapedAt": "2026-09-24T09:17:10.911Z"
+      "scrapedAt": "2026-09-25T09:36:33.080Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2019-Subaru-Forester-98944eecac180452357e7dbb7b50dd66.htm",
-      "vin": "JF2SKAUC4KH401411",
-      "stockNumber": "2602515A-A",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Forester",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 24216,
-      "exteriorColor": "Jasper Green Metallic",
-      "interiorColor": "Gray",
-      "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
-      "transmission": "Automatic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 26390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/ddc/vehicles/2019/Subaru/Forester/SUV/trim_Limited_2581dd/color/Jasper%20Green%20Metallic-JGN-116%2C130%2C118-640-en_US.jpg"
-      ],
-      "description": "Is this 2019 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Jasper Green Metallic Limited Sport Utility available for $26390",
-      "scrapedAt": "2026-09-24T09:17:15.669Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2021-Subaru-Forester-98944ac6ac1817c99dfd0f5cb22b3852.htm",
-      "vin": "JF2SKAJC6MH557179",
-      "stockNumber": "B16602A-A",
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Forester",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 62057,
-      "exteriorColor": "Horizon Blue Pearl",
-      "interiorColor": "Gray",
-      "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
-      "transmission": "Automatic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular unleaded",
-      "fuelEconomyMpg": null,
-      "salePrice": 24390,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/ddc/vehicles/2021/Subaru/Forester/SUV/trim_Premium_e40e4a/color/Horizon%20Blue%20Pearl-HBP-44%2C65%2C92-640-en_US.jpg"
-      ],
-      "description": "Is this 2021 Subaru Forester your perfect car? Contact Reedman Toll Chevrolet to see this Horizon Blue Pearl Premium Sport Utility available for $24390",
-      "scrapedAt": "2026-09-24T09:17:16.542Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Buick/2025-Buick-Enclave-bca03294ac1820874a57f05d39f97234.htm",
-      "vin": "5GAEVBRS9SJ111880",
-      "stockNumber": "2600428A-D",
+      "listingUrl": "https://www.reedmantollchevy.com/used/Subaru/2025-Subaru-Outback-a2e10351ac185bc6fc1af9b51e181a6a.htm",
+      "vin": "4S4BTAFCXS3245828",
+      "stockNumber": "2602501A-A",
       "year": 2025,
-      "make": "Buick",
-      "model": "Enclave",
+      "make": "Subaru",
+      "model": "Outback",
       "trim": null,
       "bodyStyle": null,
       "condition": "Used",
-      "mileage": 8992,
-      "exteriorColor": "Moonstone Gray Metallic",
-      "interiorColor": "Ebony seats with Sky Cool Gray and Ebony interior",
-      "engine": "2.5L I-4 direct injection, DOHC, variable valve control, intercooled turbo, regular gasoline, engine",
-      "transmission": "Automatic",
-      "drivetrain": "FWD",
+      "mileage": 27639,
+      "exteriorColor": "Crystal White Pearl",
+      "interiorColor": "Slate Black",
+      "engine": "2.5L H-4 direct injection, DOHC, variable valve control, regular gasoline, engine with 182HP",
+      "transmission": "CVT Transmission",
+      "drivetrain": "AWD",
       "fuelType": "Regular unleaded",
       "fuelEconomyMpg": null,
-      "salePrice": null,
+      "salePrice": 32390,
       "marketValuePrice": null,
       "availability": "https://schema.org/InStock",
       "photoCount": 1,
       "photos": [
-        "https://images.dealer.com/ddc/vehicles/2025/Buick/Enclave/SUV/trim_Sport_Touring_fc09f2/color/Moonstone%20Gray%20Metallic-GXD-150%2C150%2C155-640-en_US.jpg"
+        "https://images.dealer.com/ddc/vehicles/2025/Subaru/Outback/SUV/trim_Premium_d0369e/color/Crystal%20White%20Pearl-W2P-239%2C239%2C232-640-en_US.jpg"
       ],
-      "description": "Is this 2025 Buick Enclave your perfect car? Contact Reedman Toll Chevrolet to see this Moonstone Gray Metallic Sport Touring FWD Sport Utility",
-      "scrapedAt": "2026-09-24T09:17:16.372Z"
+      "description": "Is this 2025 Subaru Outback your perfect car? Contact Reedman Toll Chevrolet to see this Crystal White Pearl Premium Sport Utility available for $32390",
+      "scrapedAt": "2026-09-25T09:36:32.486Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -8165,65 +8079,7 @@
         "https://images.dealer.com/autodata/us/large_stockphoto-color/2015/USC50DOS041A0/PCL.jpg"
       ],
       "description": "Is this 2015 Dodge Journey your perfect car? Contact Reedman Toll Chevrolet to see this Blue Streak Pearlcoat SE available for $10390",
-      "scrapedAt": "2026-09-24T09:17:17.091Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2017-Honda-CR-V-cc133fe6ac18109a99ec78169bdd1c02.htm",
-      "vin": "2HKRW6H3XHH200969",
-      "stockNumber": "261067A-R",
-      "year": 2017,
-      "make": "Honda",
-      "model": "CR-V",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 41182,
-      "exteriorColor": "Lunar Silver Metallic",
-      "interiorColor": null,
-      "engine": "2.4L I-4 direct injection, DOHC, i-VTEC variable valve control, regular gasoline, engine with 184HP",
-      "transmission": "Automatic",
-      "drivetrain": "AWD",
-      "fuelType": "Regular gasoline",
-      "fuelEconomyMpg": null,
-      "salePrice": null,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/ddc/vehicles/2017/Honda/CR-V/SUV/trim_LX_bc666b/color/Lunar%20SIlver%20Metallic-SX-160%2C160%2C160-640-en_US.jpg"
-      ],
-      "description": "Is this 2017 Honda CR-V your perfect car? Contact Reedman Toll Chevrolet to see this Lunar Silver Metallic LX Sport Utility",
-      "scrapedAt": "2026-09-24T09:17:16.538Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2023-Honda-Odyssey-d13a1a40ac183e1692c7be5963ab1991.htm",
-      "vin": "5FNRL6H86PB033463",
-      "stockNumber": "2700008A-A",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Odyssey",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 71960,
-      "exteriorColor": "Modern Steel Metallic",
-      "interiorColor": "Black",
-      "engine": "3.5L V-6 direct injection, i-VTEC variable valve control, regular gasoline, engine with cylinder dea",
-      "transmission": "Automatic",
-      "drivetrain": "FWD",
-      "fuelType": "Regular gasoline",
-      "fuelEconomyMpg": null,
-      "salePrice": null,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/ddc/vehicles/2023/Honda/Odyssey/Van/trim_Touring_9f85f9/color/Modern%20Steel%20Metallic-GX-64%2C62%2C63-640-en_US.jpg"
-      ],
-      "description": "Is this 2023 Honda Odyssey your perfect car? Contact Reedman Toll Chevrolet to see this Modern Steel Metallic Touring",
-      "scrapedAt": "2026-09-24T09:17:18.919Z"
+      "scrapedAt": "2026-09-25T09:36:35.205Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -8252,36 +8108,7 @@
         "https://pictures.dealer.com/r/reedmantolldrexelhillnissan/0642/0645320279e50484603037979b767733x.jpg"
       ],
       "description": "Is this 2016 Hyundai Santa Fe Sport your perfect car? Contact Reedman Toll Chevrolet to see this Marlin Blue - W7U 2.4L",
-      "scrapedAt": "2026-09-24T09:17:23.038Z"
-    },
-    {
-      "dealerId": "reedman-toll-chevy",
-      "listingUrl": "https://www.reedmantollchevy.com/used/Honda/2014-Honda-Civic-Sedan-d139cf55ac180e99e8df509771a98e4c.htm",
-      "vin": "19XFB2F86EE262651",
-      "stockNumber": "260651C-E",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "trim": null,
-      "bodyStyle": null,
-      "condition": "Used",
-      "mileage": 271588,
-      "exteriorColor": "Urban Titanium Metallic [Gray]",
-      "interiorColor": null,
-      "engine": "1.8L I-4 i-VTEC variable valve control, regular gasoline, engine with 143HP",
-      "transmission": "Automatic",
-      "drivetrain": "Other",
-      "fuelType": "Regular gasoline",
-      "fuelEconomyMpg": null,
-      "salePrice": null,
-      "marketValuePrice": null,
-      "availability": "https://schema.org/InStock",
-      "photoCount": 1,
-      "photos": [
-        "https://images.dealer.com/ddc/vehicles/2014/Honda/Civic/Sedan/trim_EX_9713c0/color/Modern%20Steel%20Metallic-GY-84%2C84%2C84-640-en_US.jpg"
-      ],
-      "description": "Is this 2014 Honda Civic Sedan your perfect car? Contact Reedman Toll Chevrolet to see this Urban Titanium Metallic [Gray] EX",
-      "scrapedAt": "2026-09-24T09:17:23.987Z"
+      "scrapedAt": "2026-09-25T09:36:35.515Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -8310,7 +8137,7 @@
         "https://images.dealer.com/ddc/vehicles/2024/Hyundai/Santa%20Cruz/Truck/trim_25T_Limited_0dbae2/color/Blue%20Stone-RU9-94%2C104%2C110-640-en_US.jpg"
       ],
       "description": "Is this 2024 Hyundai Santa Cruz your perfect car? Contact Reedman Toll Chevrolet to see this Blue Limited Truck Crew Cab available for $33239",
-      "scrapedAt": "2026-09-24T09:17:23.088Z"
+      "scrapedAt": "2026-09-25T09:36:36.024Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -8339,7 +8166,7 @@
         "https://pictures.dealer.com/r/reedmantollchevroletofspringfield/0408/c4893dc84a5fabfbdc147779fe4076f9x.jpg"
       ],
       "description": "Is this 2020 Nissan Rogue your perfect car? Contact Reedman Toll Chevrolet to see this Black S SUV available for $17979",
-      "scrapedAt": "2026-09-24T09:17:24.219Z"
+      "scrapedAt": "2026-09-25T09:36:36.570Z"
     },
     {
       "dealerId": "reedman-toll-chevy",
@@ -8368,7 +8195,7 @@
         "https://images.dealer.com/ddc/vehicles/2023/Jeep/Compass/SUV/trim_Sport_710fe4/color/Billet%20Silver%20Metallic%20Clearcoat-PSC-110%2C111%2C113-640-en_US.jpg"
       ],
       "description": "Is this 2023 Jeep Compass your perfect car? Contact Reedman Toll Chevrolet to see this Silver Sport SUV available for $20479",
-      "scrapedAt": "2026-09-24T09:17:24.197Z"
+      "scrapedAt": "2026-09-25T09:36:37.095Z"
     }
   ]
 }

@@ -2734,3 +2734,38 @@
 | 5N1AL1FW8TC343974 | 2026 INFINITI QX60 | $51,487 | $49,246 | -$2,241 |
 | 1G6DS5RW3P0155395 | 2023 CADILLAC CT5 | $44,020 | $41,885 | -$2,135 |
 | 4JGFF5KE1TB559303 | 2026 Mercedes-Benz GLS 450 | $88,820 | $86,820 | -$2,000 |
+
+## 2026-09-26
+
+- New listings: 190
+- Removed / sold: 146
+- Price changes: 367
+- Biggest price drop: 2023 Kia Sportage Plug-In Hybrid $28,933 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KNDPYDAH0P7092019 | 2023 Kia Sportage Plug-In Hybrid | $28,933 | $2,000 | -$26,933 |
+| 5XYRLDLC1PG232395 | 2023 Kia Sorento | $28,590 | $2,000 | -$26,590 |
+| JTEBU5JRXL5804204 | null null null | $27,594 | $2,000 | -$25,594 |
+| 2HGFE2F5XRH506844 | 2024 Honda Civic | $24,888 | $2,000 | -$22,888 |
+| 3FMCR9C61NRD89323 | 2022 Ford Bronco Sport | $24,561 | $2,000 | -$22,561 |
+| 4JGFD6BB4TB614814 | 2026 Mercedes-Benz GLE | $102,425 | $90,981 | -$11,444 |
+| JALCDW165L7010640 | 2020 Chevrolet 4500HD LCF Diesel | $39,990 | $33,390 | -$6,600 |
+| YV4M12RJ8T1329532 | 2026 Volvo XC60 | $46,087 | $41,978 | -$4,109 |
+| SALE27EU0T2605741 | 2026 Land Rover Defender 110 | $86,479 | $83,430 | -$3,049 |
+| SALCL2FX2TH375519 | 2026 Land Rover Discovery Sport | $50,685 | $47,733 | -$2,952 |
+| WA1B4AFY1P2131866 | 2023 Audi SQ5 | $43,467 | $41,267 | -$2,200 |
+| W1KAF4HB6SR300405 | 2025 Mercedes-Benz C-Class | $45,981 | $43,981 | -$2,000 |
+| 4S4BTAFCXS3245828 | 2025 Subaru Outback | $32,390 | $30,489 | -$1,901 |
+| 5UXTA6C07N9M84131 | 2022 BMW X5 PHEV | $41,915 | $40,094 | -$1,821 |
+| KM8JCCD19RU190320 | 2024 Hyundai Tucson Hybrid | $2,000 | $245 | -$1,755 |
+| SALYJ2EX4TA832885 | 2026 Land Rover Range Rover Velar | $59,915 | $58,179 | -$1,736 |
+| SALYL2FU4TA829385 | 2026 Land Rover Range Rover Velar | $63,549 | $61,870 | -$1,679 |
+| SALYJ2EX8TA831433 | 2026 Land Rover Range Rover Velar | $59,915 | $58,332 | -$1,583 |
+| KM8RKES23TU105444 | 2026 Hyundai Palisade | $46,053 | $44,483 | -$1,570 |
+| W1NKM8AB9SF300611 | 2025 Mercedes-Benz GLC | $77,981 | $76,481 | -$1,500 |
+| SALWR2SU1LA726727 | 2020 Land Rover Range Rover Sport | $27,915 | $26,438 | -$1,477 |
+| JM1BPBCMXK1112753 | 2019 Mazda Mazda3 | $2,000 | $595 | -$1,405 |
+| 5N1AT3CBXMC711019 | 2021 Nissan Rogue | $20,289 | $18,918 | -$1,371 |
+| SALE37RU4N2104670 | 2022 Land Rover Defender | $46,915 | $45,605 | -$1,310 |
+| 3MVDMBDM5RM623833 | 2024 Mazda CX-30 | $27,272 | $25,977 | -$1,295 |

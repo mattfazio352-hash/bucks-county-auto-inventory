@@ -2769,3 +2769,38 @@
 | 5N1AT3CBXMC711019 | 2021 Nissan Rogue | $20,289 | $18,918 | -$1,371 |
 | SALE37RU4N2104670 | 2022 Land Rover Defender | $46,915 | $45,605 | -$1,310 |
 | 3MVDMBDM5RM623833 | 2024 Mazda CX-30 | $27,272 | $25,977 | -$1,295 |
+
+## 2026-09-27
+
+- New listings: 125
+- Removed / sold: 158
+- Price changes: 498
+- Biggest price drop: null null null $27,420 -> $2,000
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| W1KWF8EB8MR639364 | null null null | $27,420 | $2,000 | -$25,420 |
+| KMHLM4AG4NU285737 | 2022 Hyundai Elantra | $16,371 | $594 | -$15,777 |
+| 5NTJDDDF2SH146728 | 2025 Hyundai Santa Cruz | $43,105 | $34,386 | -$8,719 |
+| 3HDSA2H52SM706158 | 2025 Acura ADX | $41,840 | $36,445 | -$5,395 |
+| WAUEJBFW4N7009192 | 2022 Audi e-tron GT | $56,255 | $51,190 | -$5,065 |
+| 19UDE4H64TA001087 | 2026 Acura Integra | $41,485 | $36,861 | -$4,624 |
+| 19UUB6F5XSA003911 | 2025 Acura TLX | $52,685 | $48,366 | -$4,319 |
+| 1C6SRFU95NN216633 | 2022 Ram 1500 | $69,540 | $66,453 | -$3,087 |
+| 3FAHP08197R125817 | 2007 Ford Fusion | $10,489 | $7,472 | -$3,017 |
+| 4JGFD8KB9RB210234 | 2024 Mercedes-Benz GLE | $92,836 | $90,506 | -$2,330 |
+| 1FTEX1EP3PKD76459 | 2023 Ford F-150 | $38,478 | $36,473 | -$2,005 |
+| KM8RKES21TU040156 | 2026 Hyundai Palisade | $44,485 | $42,485 | -$2,000 |
+| 1GNSKRKD6NR234449 | 2022 Chevrolet Tahoe | $42,489 | $40,489 | -$2,000 |
+| 1FTYR2CG9GKB17491 | 2016 Ford Transit-250 | $2,000 | $150 | -$1,850 |
+| 5TDXBRCH4PS123368 | 2023 Toyota Highlander | $43,163 | $41,373 | -$1,790 |
+| 1GNERGKS4TJ243075 | 2026 Chevrolet Traverse | $38,136 | $36,587 | -$1,549 |
+| 1C4RJXSJ8RW130170 | 2024 Jeep Wrangler | $72,024 | $70,478 | -$1,546 |
+| KMHL54JC7RA350775 | 2024 Hyundai Sonata | $25,587 | $24,042 | -$1,545 |
+| 1FMCU9J98HUA35677 | 2017 Ford Escape | $14,985 | $13,485 | -$1,500 |
+| 2T2BZMCA1JC145433 | 2018 LEXUS RX 350 | $30,480 | $28,980 | -$1,500 |
+| 1FTFW1RG8RFB08150 | 2024 Ford F-150 | $75,478 | $73,983 | -$1,495 |
+| 1FMJU2AT3MEA13231 | 2021 Ford Expedition | $42,480 | $41,187 | -$1,293 |
+| 1C4PJXFG3SW606062 | 2025 Jeep Wrangler | $45,772 | $44,484 | -$1,288 |
+| JM1NDAM73S0651312 | 2025 Mazda MX-5 Miata RF | $29,424 | $28,182 | -$1,242 |
+| 1FTER4HH5RLE05604 | 2024 Ford Ranger | $39,478 | $38,255 | -$1,223 |

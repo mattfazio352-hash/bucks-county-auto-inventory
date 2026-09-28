@@ -2804,3 +2804,17 @@
 | 1C4PJXFG3SW606062 | 2025 Jeep Wrangler | $45,772 | $44,484 | -$1,288 |
 | JM1NDAM73S0651312 | 2025 Mazda MX-5 Miata RF | $29,424 | $28,182 | -$1,242 |
 | 1FTER4HH5RLE05604 | 2024 Ford Ranger | $39,478 | $38,255 | -$1,223 |
+
+## 2026-09-28
+
+- New listings: 32
+- Removed / sold: 92
+- Price changes: 5
+- Biggest price drop: null null null $19,489 -> $490
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| KNDPVCAGXP7069356 | null null null | $19,489 | $490 | -$18,999 |
+| JN8AF5MV2CT126535 | 2012 Nissan Juke | $2,000 | $140 | -$1,860 |
+| 1FT8X2BA4PEC84164 | 2023 Ford F-250SD | $2,000 | $250 | -$1,750 |
+| JTEABFAJXSK033700 | 2025 Toyota Land Cruiser | $55,985 | $55,488 | -$497 |

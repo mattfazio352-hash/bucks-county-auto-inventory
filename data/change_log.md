@@ -2818,3 +2818,9 @@
 | JN8AF5MV2CT126535 | 2012 Nissan Juke | $2,000 | $140 | -$1,860 |
 | 1FT8X2BA4PEC84164 | 2023 Ford F-250SD | $2,000 | $250 | -$1,750 |
 | JTEABFAJXSK033700 | 2025 Toyota Land Cruiser | $55,985 | $55,488 | -$497 |
+
+## 2026-09-29
+
+- New listings: 0
+- Removed / sold: 4887
+- Price changes: 0

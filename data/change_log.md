@@ -3106,3 +3106,9 @@
 - New listings: 88
 - Removed / sold: 20
 - Price changes: 0
+
+## 2026-11-16
+
+- New listings: 13
+- Removed / sold: 91
+- Price changes: 0

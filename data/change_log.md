@@ -3118,3 +3118,14 @@
 - New listings: 86
 - Removed / sold: 9
 - Price changes: 0
+
+## 2026-11-18
+
+- New listings: 19
+- Removed / sold: 67
+- Price changes: 1
+- Biggest price drop: 2006 Jeep Liberty $5,477 -> $5,063
+
+| VIN | Vehicle | Was | Now | Change |
+|---|---|---|---|---|
+| 1J4GL48K76W110109 | 2006 Jeep Liberty | $5,477 | $5,063 | -$414 |

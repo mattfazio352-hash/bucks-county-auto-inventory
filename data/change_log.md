@@ -3140,3 +3140,9 @@
 | VIN | Vehicle | Was | Now | Change |
 |---|---|---|---|---|
 | 1J4GL48K76W110109 | 2006 Jeep Liberty | $5,063 | $4,571 | -$492 |
+
+## 2026-11-20
+
+- New listings: 0
+- Removed / sold: 34
+- Price changes: 0

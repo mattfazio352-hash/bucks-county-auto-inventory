@@ -3170,3 +3170,9 @@
 - New listings: 40
 - Removed / sold: 0
 - Price changes: 0
+
+## 2026-11-25
+
+- New listings: 34
+- Removed / sold: 40
+- Price changes: 0
